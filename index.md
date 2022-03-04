@@ -262,13 +262,13 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 <div class="schedule-table-row-odd">
 <div class="schedule-table-timecol">10:00</div>
 <div class="schedule-table-eventcol">Poster Session + Gathertown</div>
-<div class="schedule-table-contentcol">Content</div>
+<!--div class="schedule-table-contentcol">Content</div-->
 </div>
 
 <div class="schedule-table-row-even">
 <div class="schedule-table-timecol">11:00</div>
 <div class="schedule-table-eventcol">Spotlight Talks</div>
-<div class="schedule-table-contentcol">Content</div>
+<!--div class="schedule-table-contentcol">Content</div-->
 </div>
 
 <div class="schedule-table-row-odd">
@@ -290,19 +290,19 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 <div class="schedule-table-row-even">
 <div class="schedule-table-timecol">12:00</div>
 <div class="schedule-table-eventcol">Lunch + Social</div>
-<div class="schedule-table-contentcol">Content</div>
+<!--div class="schedule-table-contentcol">Content</div-->
 </div>
 
 <div class="schedule-table-row-odd">
 <div class="schedule-table-timecol" style="vertical-align: 10px;">13:30</div>
 <div class="schedule-table-eventcol">Autonomous Racing Virtual Challenge: Contributed Talks</div>
-<div class="schedule-table-contentcol">Content</div>
+<!--div class="schedule-table-contentcol">Content</div-->
 </div>
 
 <div class="schedule-table-row-even">
 <div class="schedule-table-timecol">14:00</div>
 <div class="schedule-table-eventcol">Spotlight Talks</div>
-<div class="schedule-table-contentcol">Content</div>
+<!--div class="schedule-table-contentcol">Content</div-->
 </div>
 
 <div class="schedule-table-row-odd">
@@ -332,7 +332,7 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol">Content</div>
+<div class="schedule-table-contentcol">Talk title TBD</div>
 </div>
 
 <div class="schedule-table-row-odd">
@@ -353,7 +353,7 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 <div class="schedule-table-row-even">
 <div class="schedule-table-timecol">16:00</div>
 <div class="schedule-table-eventcol">Break, Social and Posters</div>
-<div class="schedule-table-contentcol">Content</div>
+<!--div class="schedule-table-contentcol">Content</div-->
 </div>
 
 <div class="schedule-table-row-odd">
