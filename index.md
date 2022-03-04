@@ -38,7 +38,12 @@ article_header:
     display:inline;
 }
 
-.schedule-table-row {
+.schedule-table-row-even {
+    display:block;
+    width:700px;
+}
+
+.schedule-table-row-odd {
     display:block;
     width:700px;
 }
@@ -207,7 +212,25 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 <div class="schedule-table-heading">Event</div>
 <div class="schedule-table-heading">Content</div>
 
-<div class="schedule-table-row">
+<div class="schedule-table-row-even">
+<div class="schedule-table-timecol">Time</div>
+<div class="schedule-table-eventcol">Event</div>
+<div class="schedule-table-contentcol">Content</div>
+</div>
+
+<div class="schedule-table-row-odd">
+<div class="schedule-table-timecol">Time</div>
+<div class="schedule-table-eventcol">Event</div>
+<div class="schedule-table-contentcol">Content</div>
+</div>
+
+<div class="schedule-table-row-even">
+<div class="schedule-table-timecol">Time</div>
+<div class="schedule-table-eventcol">Event</div>
+<div class="schedule-table-contentcol">Content</div>
+</div>
+
+<div class="schedule-table-row-odd">
 <div class="schedule-table-timecol">Time</div>
 <div class="schedule-table-eventcol">Event</div>
 <div class="schedule-table-contentcol">Content</div>
