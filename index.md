@@ -226,7 +226,7 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 </div>
 
 <div class="schedule-table-row-odd">
-<div class="schedule-table-timecol">09:00</div>
+<div class="schedule-table-timecol" style="vertical-align: 10px;">09:00</div>
 <div class="schedule-table-eventcol">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
