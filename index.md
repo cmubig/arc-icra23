@@ -134,7 +134,7 @@ img {
 
 ## About
 
-Welcome to the 2nd <a href="https://ijcai-22.org/" target="_blank">IJCAI</a> Workshop on <i>Artificial Intelligence for Autonomous Driving</i>!
+Welcome to the 2nd <a href="https://ijcai-22.org/" target="_blank">IJCAI</a> Workshop on <i>Artificial Intelligence for Autonomous Driving</i> (AI4AD)!
 
 While there have been significant advances in vehicle autonomy (e.g., perception, trajectory forecasting, planning and control, etc.), it is of paramount importance for autonomous systems to adhere to safety specifications, as any safety infraction in urban and highway driving, or high-speed racing could lead to catastrophic failures. Given this inherent tension between safety and performance, we introduce a new simulation environment in autonomous racing as a particularly challenging proving ground for safe learning algorithms. We envision this workshop bringing together researchers and industry practitioners from different AI subfields to work towards safer and more robust autonomous technology.<br>
 
