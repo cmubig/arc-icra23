@@ -70,7 +70,7 @@ We are accepting papers for three tracks
 - Challenge submissions (4 pages, excluding references)
 - Short papers (4 pages, excluding references)
 
-We will follow the submission guidelines specified by ICLR 2022 which can be found [here](https://iclr.cc/Conferences/2022/CallForPapers).
+We will follow the submission guidelines specified by IJCAI 2022 which can be found <a href="https://ijcai-22.org/calls-papers/" target="_blank">here</a>.
 
 ## Organising Committee
 
