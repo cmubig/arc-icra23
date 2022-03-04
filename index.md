@@ -42,6 +42,7 @@ article_header:
     display:block;
     width:700px;
     background-color: #999999;
+    padding:5px;
 }
 
 .schedule-table-row-odd {
