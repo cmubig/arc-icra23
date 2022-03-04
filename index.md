@@ -294,7 +294,7 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 </div>
 
 <div class="schedule-table-row-odd">
-<div class="schedule-table-timecol">13:30</div>
+<div class="schedule-table-timecol" style="vertical-align: 10px;">13:30</div>
 <div class="schedule-table-eventcol">Autonomous Racing Virtual Challenge: Contributed Talks</div>
 <div class="schedule-table-contentcol">Content</div>
 </div>
