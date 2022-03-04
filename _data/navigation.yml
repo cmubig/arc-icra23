@@ -88,6 +88,16 @@ header:
 #
   - titles:
       # @start locale config
+      en      : &EN       Schedule
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url: /index.html#schedule
+
+  - titles:
+      # @start locale config
       en      : &EN       Organisers
       en-GB   : *EN
       en-US   : *EN
