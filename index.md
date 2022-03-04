@@ -352,7 +352,7 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 
 <div class="schedule-table-row-even">
 <div class="schedule-table-timecol">16:00</div>
-<div class="schedule-table-eventcol">Break, Social and Posters</div>
+<div class="schedule-table-eventcol">Break, Social, and Posters</div>
 <!--div class="schedule-table-contentcol">Content</div-->
 </div>
 
