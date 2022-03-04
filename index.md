@@ -217,109 +217,109 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 <div class="schedule-table-heading">Content</div>
 
 <div class="schedule-table-row-even">
-<div class="schedule-table-timecol">Time</div>
+<div class="schedule-table-timecol">08:50</div>
 <div class="schedule-table-eventcol">Event</div>
 <div class="schedule-table-contentcol">Content</div>
 </div>
 
 <div class="schedule-table-row-odd">
-<div class="schedule-table-timecol">Time</div>
+<div class="schedule-table-timecol">09:00</div>
 <div class="schedule-table-eventcol">Event</div>
 <div class="schedule-table-contentcol">Content</div>
 </div>
 
 <div class="schedule-table-row-even">
-<div class="schedule-table-timecol">Time</div>
+<div class="schedule-table-timecol">09:30</div>
 <div class="schedule-table-eventcol">Event</div>
 <div class="schedule-table-contentcol">Content</div>
 </div>
 
 <div class="schedule-table-row-odd">
-<div class="schedule-table-timecol">Time</div>
+<div class="schedule-table-timecol">10:00</div>
 <div class="schedule-table-eventcol">Event</div>
 <div class="schedule-table-contentcol">Content</div>
 </div>
 
 <div class="schedule-table-row-even">
-<div class="schedule-table-timecol">Time</div>
+<div class="schedule-table-timecol">11:00</div>
 <div class="schedule-table-eventcol">Event</div>
 <div class="schedule-table-contentcol">Content</div>
 </div>
 
 <div class="schedule-table-row-odd">
-<div class="schedule-table-timecol">Time</div>
+<div class="schedule-table-timecol">11:30</div>
 <div class="schedule-table-eventcol">Event</div>
 <div class="schedule-table-contentcol">Content</div>
 </div>
 
 <div class="schedule-table-row-even">
-<div class="schedule-table-timecol">Time</div>
+<div class="schedule-table-timecol">12:00</div>
 <div class="schedule-table-eventcol">Event</div>
 <div class="schedule-table-contentcol">Content</div>
 </div>
 
 <div class="schedule-table-row-odd">
-<div class="schedule-table-timecol">Time</div>
+<div class="schedule-table-timecol">13:30</div>
 <div class="schedule-table-eventcol">Event</div>
 <div class="schedule-table-contentcol">Content</div>
 </div>
 
 <div class="schedule-table-row-even">
-<div class="schedule-table-timecol">Time</div>
+<div class="schedule-table-timecol">13:40</div>
 <div class="schedule-table-eventcol">Event</div>
 <div class="schedule-table-contentcol">Content</div>
 </div>
 
 <div class="schedule-table-row-odd">
-<div class="schedule-table-timecol">Time</div>
+<div class="schedule-table-timecol">14:00</div>
 <div class="schedule-table-eventcol">Event</div>
 <div class="schedule-table-contentcol">Content</div>
 </div>
 
 <div class="schedule-table-row-even">
-<div class="schedule-table-timecol">Time</div>
+<div class="schedule-table-timecol">14:30</div>
 <div class="schedule-table-eventcol">Event</div>
 <div class="schedule-table-contentcol">Content</div>
 </div>
 
 <div class="schedule-table-row-odd">
-<div class="schedule-table-timecol">Time</div>
+<div class="schedule-table-timecol">15:00</div>
 <div class="schedule-table-eventcol">Event</div>
 <div class="schedule-table-contentcol">Content</div>
 </div>
 
 <div class="schedule-table-row-even">
-<div class="schedule-table-timecol">Time</div>
+<div class="schedule-table-timecol">15:30</div>
 <div class="schedule-table-eventcol">Event</div>
 <div class="schedule-table-contentcol">Content</div>
 </div>
 
 <div class="schedule-table-row-odd">
-<div class="schedule-table-timecol">Time</div>
+<div class="schedule-table-timecol">16:00</div>
 <div class="schedule-table-eventcol">Event</div>
 <div class="schedule-table-contentcol">Content</div>
 </div>
 
 <div class="schedule-table-row-even">
-<div class="schedule-table-timecol">Time</div>
+<div class="schedule-table-timecol">17:00</div>
 <div class="schedule-table-eventcol">Event</div>
 <div class="schedule-table-contentcol">Content</div>
 </div>
 
 <div class="schedule-table-row-odd">
-<div class="schedule-table-timecol">Time</div>
+<div class="schedule-table-timecol">17:30</div>
 <div class="schedule-table-eventcol">Event</div>
 <div class="schedule-table-contentcol">Content</div>
 </div>
 
 <div class="schedule-table-row-even">
-<div class="schedule-table-timecol">Time</div>
+<div class="schedule-table-timecol">18:00</div>
 <div class="schedule-table-eventcol">Event</div>
 <div class="schedule-table-contentcol">Content</div>
 </div>
 
 <div class="schedule-table-row-odd">
-<div class="schedule-table-timecol">Time</div>
+<div class="schedule-table-timecol">18:30</div>
 <div class="schedule-table-eventcol">Event</div>
 <div class="schedule-table-contentcol">Content</div>
 </div>
