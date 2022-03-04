@@ -26,6 +26,18 @@ article_header:
     color: #999999;
 }
 
+.schedule-table-timecol {
+    display:inline;
+}
+
+.schedule-table-eventcol {
+    display:inline;
+}
+
+.schedule-table-contentcol {
+    display:inline;
+}
+
 .article__header--overlay .overlay {
     min-height: 36rem;
     padding-top: 5rem;
@@ -191,9 +203,9 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 <div class="schedule-table-heading">Content</div>
 
 <div style="display:block; width:700px;">
-<div style="display:inline;">Time</div>
-<div style="display:inline;">Event</div>
-<div style="display:inline;">Content</div>
+<div class="schedule-table-timecol">Time</div>
+<div class="schedule-table-eventcol">Event</div>
+<div class="schedule-table-contentcol">Content</div>
 </div>
 
 </div>
