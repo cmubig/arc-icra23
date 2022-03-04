@@ -22,7 +22,7 @@ article_header:
 .schedule-table-heading {
     display: inline;
     font-weight: bold;
-    font-size:20px;
+    font-size: 20px;
     color: #999999;
 }
 
