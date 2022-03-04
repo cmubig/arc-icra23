@@ -65,6 +65,9 @@ https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-chall
 
 ## Submission Guidelines
 
+Submission deadline: 13 May 2022 at 23:59, Central European Time (CET)<br>
+Submission format: either extended abstracts (4 pages) or full papers (8 or 9 pages) anonymously using: <br><a href="https://learn-to-race.org/workshop-ai4ad-ijcai2022/assets/FormattingGuidelines-IJCAI-ECAI-22.zip" target="_blank">https://learn-to-race.org/workshop-ai4ad-ijcai2022/assets/FormattingGuidelines-IJCAI-ECAI-22.zip</a>
+
 We are accepting papers for three tracks
 - Full papers (9 pages, excluding references)
 - Challenge submissions (4 pages, excluding references)
