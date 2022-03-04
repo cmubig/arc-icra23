@@ -178,7 +178,7 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 
 ## Schedule
 
-<div style="display:block; width:900px; padding:20px; border:solid 3px #DDDDDD;">
+<div style="display:block; width:900px; padding:20px; border:solid 4px #CCCCCC;">
 Schedule
 </div>
 
