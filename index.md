@@ -191,9 +191,9 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 <div class="schedule-table-heading">Content</div>
 
 <div style="display:block;">
-<div>Time</div>
-<div>Event</div>
-<div>Content</div>
+<div style="display:inline;">Time</div>
+<div style="display:inline;">Event</div>
+<div style="display:inline;">Content</div>
 </div>
 
 </div>
