@@ -153,9 +153,11 @@ How to attend:
 
 ## Dates
 
+Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brussels, Vienna</b>.
+
 ### Paper Submission
 
-> <b>Submissions open:</b> 2 March 2022<br>
+> <b>Submissions open:</b> 3 March 2022<br>
 > <b>Submissions due:</b> 13 May 2022<br>
 > <b>Reviewing starts:</b> 14 May 2022<br>
 > <b>Reviewing ends:</b> 30 May 2022<br>
