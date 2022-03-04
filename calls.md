@@ -24,7 +24,7 @@ Existing research on autonomous driving primarily focuses on urban driving, whic
 
 ## Workshop Publication Topics
 
-We are accepting papers in the following broad areas of safe vehicle autonomy, including (but not limited to) the following:
+We are accepting papers in the following broad areas of safe vehicle autonomy, including (but not limited to):
 
 - Safe reinforcement learning, safe exploration, constrained reinforcement learning
 - Safe learning approaches inspired by control theory, e.g. control barrier function, Lyapunov method, reachability analysis
