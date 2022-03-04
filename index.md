@@ -224,7 +224,17 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 
 <div class="schedule-table-row-odd">
 <div class="schedule-table-timecol">09:00</div>
-<div class="schedule-table-eventcol">Max Kumskoy</div>
+<div class="schedule-table-eventcol">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:101px;">
+<img style="width:50px; height:50px; position: relative; bottom: 40px;" src="/challenge/assets/images/speakers/max_kumskoy.png" alt="Max Kumskoy">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Max Kumskoy</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Head of Automated Driving Systems<br>ARRIVAL</p>
+</div>
+</div>
+</div>
 <div class="schedule-table-contentcol">Talk Title TBD</div>
 </div>
 
