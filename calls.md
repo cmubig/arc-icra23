@@ -75,6 +75,10 @@ We are accepting papers for three tracks
 
 We will follow the submission guidelines specified by IJCAI 2022 which can be found <a href="https://ijcai-22.org/calls-papers/" target="_blank">here</a>.
 
+- Submitted papers will undergo double-blind review.
+- Neither papers from the main track nor the challenge tracks will have archival proceedings.
+- De-anonymised, accepted papers will be posted on the website.
+
 ## Organising Committee
 
 - Jonathan Francis; CMU + Bosch Research
@@ -86,12 +90,6 @@ We will follow the submission guidelines specified by IJCAI 2022 which can be fo
 - Jean Oh; CMU
 - Eric Nyberg; CMU
 - Sylvia L. Herbert; UCSD
-
-## Publication
-
-- Submitted papers will undergo double-blind review.
-- Neither papers from the main track nor the challenge tracks will have archival proceedings.
-- De-anonymised, accepted papers will be posted on the website.
 
 <!--
 ## Contact addresses
