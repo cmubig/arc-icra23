@@ -176,6 +176,12 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 
 > <b>Event:</b> 23 July 2022
 
+## Schedule
+
+<div style="display:block; width:900px;">
+Schedule
+</div>
+
 ## Speakers
 
 <div style="display:block; padding:10px 0 0 0; width:900px;">
