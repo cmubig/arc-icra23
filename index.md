@@ -240,6 +240,90 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 <div class="schedule-table-contentcol">Content</div>
 </div>
 
+<div class="schedule-table-row-even">
+<div class="schedule-table-timecol">Time</div>
+<div class="schedule-table-eventcol">Event</div>
+<div class="schedule-table-contentcol">Content</div>
+</div>
+
+<div class="schedule-table-row-odd">
+<div class="schedule-table-timecol">Time</div>
+<div class="schedule-table-eventcol">Event</div>
+<div class="schedule-table-contentcol">Content</div>
+</div>
+
+<div class="schedule-table-row-even">
+<div class="schedule-table-timecol">Time</div>
+<div class="schedule-table-eventcol">Event</div>
+<div class="schedule-table-contentcol">Content</div>
+</div>
+
+<div class="schedule-table-row-odd">
+<div class="schedule-table-timecol">Time</div>
+<div class="schedule-table-eventcol">Event</div>
+<div class="schedule-table-contentcol">Content</div>
+</div>
+
+<div class="schedule-table-row-even">
+<div class="schedule-table-timecol">Time</div>
+<div class="schedule-table-eventcol">Event</div>
+<div class="schedule-table-contentcol">Content</div>
+</div>
+
+<div class="schedule-table-row-odd">
+<div class="schedule-table-timecol">Time</div>
+<div class="schedule-table-eventcol">Event</div>
+<div class="schedule-table-contentcol">Content</div>
+</div>
+
+<div class="schedule-table-row-even">
+<div class="schedule-table-timecol">Time</div>
+<div class="schedule-table-eventcol">Event</div>
+<div class="schedule-table-contentcol">Content</div>
+</div>
+
+<div class="schedule-table-row-odd">
+<div class="schedule-table-timecol">Time</div>
+<div class="schedule-table-eventcol">Event</div>
+<div class="schedule-table-contentcol">Content</div>
+</div>
+
+<div class="schedule-table-row-even">
+<div class="schedule-table-timecol">Time</div>
+<div class="schedule-table-eventcol">Event</div>
+<div class="schedule-table-contentcol">Content</div>
+</div>
+
+<div class="schedule-table-row-odd">
+<div class="schedule-table-timecol">Time</div>
+<div class="schedule-table-eventcol">Event</div>
+<div class="schedule-table-contentcol">Content</div>
+</div>
+
+<div class="schedule-table-row-even">
+<div class="schedule-table-timecol">Time</div>
+<div class="schedule-table-eventcol">Event</div>
+<div class="schedule-table-contentcol">Content</div>
+</div>
+
+<div class="schedule-table-row-odd">
+<div class="schedule-table-timecol">Time</div>
+<div class="schedule-table-eventcol">Event</div>
+<div class="schedule-table-contentcol">Content</div>
+</div>
+
+<div class="schedule-table-row-even">
+<div class="schedule-table-timecol">Time</div>
+<div class="schedule-table-eventcol">Event</div>
+<div class="schedule-table-contentcol">Content</div>
+</div>
+
+<div class="schedule-table-row-odd">
+<div class="schedule-table-timecol">Time</div>
+<div class="schedule-table-eventcol">Event</div>
+<div class="schedule-table-contentcol">Content</div>
+</div>
+
 </div>
 
 ## Speakers
