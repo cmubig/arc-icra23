@@ -66,7 +66,7 @@ The main goal of the challenge in this AI4AD workshop is to evaluate the joint s
 ## Submission Guidelines
 
 > Submission deadline: <b>13 May 2022 at 23:59, Central European Time (CET)</b><br>
-> Submission format: either <b>extended abstracts</b> (4 pages) or <b>full papers</b> (8) anonymously using: <br><a href="https://learn-to-race.org/workshop-ai4ad-ijcai2022/assets/FormattingGuidelines-IJCAI-ECAI-22.zip" target="_blank">https://learn-to-race.org/workshop-ai4ad-ijcai2022/assets/FormattingGuidelines-IJCAI-ECAI-22.zip</a>
+> Submission format: either <b>extended abstracts</b> (4 pages, excluding references) or <b>full papers</b> (8 pages, excluding reference) anonymously using: <br><a href="https://learn-to-race.org/workshop-ai4ad-ijcai2022/assets/FormattingGuidelines-IJCAI-ECAI-22.zip" target="_blank">https://learn-to-race.org/workshop-ai4ad-ijcai2022/assets/FormattingGuidelines-IJCAI-ECAI-22.zip</a>
 
 We are accepting papers for three tracks
 - Full papers (9 pages, excluding references)
