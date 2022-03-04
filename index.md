@@ -19,6 +19,10 @@ article_header:
 ---
 
 <style>
+.schedule-table-heading {
+    display: inline;
+}
+
 .article__header--overlay .overlay {
     min-height: 36rem;
     padding-top: 5rem;
@@ -179,9 +183,9 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 ## Schedule
 
 <div style="display:block; width:900px; padding:20px; border:solid 4px #CCCCCC;">
-<div style="display:inline;">Time</div>
-<div style="display:inline;">Event</div>
-<div style="display:inline;">Content</div>
+<div class="schedule-table-heading">Time</div>
+<div class="schedule-table-heading">Event</div>
+<div class="schedule-table-heading>Content</div>
 <div style="display:block;">Block</div>
 </div>
 
