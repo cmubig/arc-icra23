@@ -136,9 +136,20 @@ img {
 
 Welcome to the 2nd <a href="https://ijcai-22.org/" target="_blank">IJCAI</a> Workshop on <i>Artificial Intelligence for Autonomous Driving</i>!
 
-As autonomous technology approaches maturity, it is of paramount importance for autonomous vehicles to adheres to safety specifications, whether in urban driving or high-speed racing. Racing demands each vehicle to drive at its physical limits with barely any margin for safety, when any infraction could lead to catastrophic failures. Given this inherent tension, we envision autonomous racing to serve as a particularly challenging proving ground for safe learning algorithms.<br>
+While there have been significant advances in vehicle autonomy (e.g., perception, trajectory forecasting, planning and control, etc.), it is of paramount importance for autonomous systems to adhere to safety specifications, as any safety infraction in urban and highway driving, or high-speed racing could lead to catastrophic failures. Given this inherent tension between safety and performance, we introduce a new simulation environment in autonomous racing as a particularly challenging proving ground for safe learning algorithms. We envision this workshop bringing together researchers and industry practitioners from different AI subfields to work towards safer and more robust autonomous technology.<br>
 
-We propose the Safe Learning for Autonomous Driving workshop, as a venue for research towards achieving the safety benefits of autonomous vehicles, supplemented by standardized evaluation in a high-fidelity racing environment. Participants can choose to take part in the Challenge by competing for top leaderboard positions and/or by submitting articles to one of three conference paper tracks.
+We encourage participants to take part in the Challenge by competing for top leaderboard positions, to submit articles for review, and to engage with us at IJCAI 2022.<br>
+
+<!--
+How to attend:
+<ul>
+<li>1. Register for IJCAI</li>
+<li>2. </li>
+<li>3.</li>
+</ul>
+-->
+
+
 
 ## Dates
 
