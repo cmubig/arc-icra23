@@ -18,7 +18,7 @@ title:
 
 # Call for Papers
 
-<p>The 2nd Workshop on [Artificial Intelligence for Autonomous Driving](https://learn-to-race.org/workshop-ai4ad-ijcai2022/) is co-located with the International Joint Conference on Artificial Intelligence, to be held on 23 July, 2022 (Hybrid).</p>
+<p>The 2nd Workshop on <a href="https://learn-to-race.org/workshop-ai4ad-ijcai2022/" target="_blank">Artificial Intelligence for Autonomous Driving</a> is co-located with the International Joint Conference on Artificial Intelligence, to be held on 23 July, 2022 (Hybrid).</p>
 
 Existing research on autonomous driving primarily focuses on urban driving, which is insufficient for characterising the complex driving behaviour underlying high-speed racing. At the same time, existing racing simulation frameworks struggle in capturing realism, with respect to visual rendering, vehicular dynamics, and task objectives, inhibiting the transfer of learning agents to real-world contexts. The Safe Learning for Autonomous Driving workshop provides a venue for research and standardized experimentation on high-speed autonomous racing. Participants can choose to take part in the Learn to Race competition or directly submit papers to the workshop via the call for papers.
 
