@@ -63,7 +63,7 @@ To further increase workshop engagement, we propose a new autonomous driving cha
 
 The main goal of the challenge in this AI4AD workshop is to evaluate the joint safety, performance, and generalization capabilities of perception and control algorithms, in autonomous driving. Analogous to racing being used to test cutting-edge vehicle technology, we envision racing to serve as a particularly challenging proving ground for safe learning algorithms as: (i) vehicles are required to drive at their physical limits, with barely any margin for safety, where any infraction could lead to catastrophic failure; (ii) autonomous agents are required to make sub-second decisions, in fast-changing environments; and (iii) visual perception pipelines must remain robust to distribution shifts, novel road features, and other obstacles, in order to facilitate cross-domain safety and performance.
 
-## Submission Guidelines
+## Paper Submission Guidelines
 
 > Submission deadline: <b>13 May 2022 at 23:59, Central European Time (CET)</b><br>
 > Submission format: either <b>extended abstracts</b> (4 pages, excluding references) or <b>full papers</b> (8 pages, excluding references)<br>
