@@ -22,6 +22,8 @@ article_header:
 .schedule-table-heading {
     display: inline;
     font-weight: bold;
+    font-size:20px;
+    color: #999999;
 }
 
 .article__header--overlay .overlay {
