@@ -27,6 +27,7 @@ article_header:
 }
 
 .schedule-table-timecol {
+    padding:20px 0 0 0;
     display:inline;
 }
 
@@ -40,14 +41,14 @@ article_header:
 
 .schedule-table-row-even {
     display:block;
-    width:700px;
+    width:800px;
     background-color: #EEEEEE;
     padding:10px;
 }
 
 .schedule-table-row-odd {
     display:block;
-    width:700px;
+    width:800px;
     padding:10px;
 }
 
