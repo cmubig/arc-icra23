@@ -238,7 +238,7 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol">Talk Title TBD</div>
+<div class="schedule-table-contentcol">Talk title TBD</div>
 </div>
 
 <div class="schedule-table-row-even">
