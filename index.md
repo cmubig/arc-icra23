@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Artificial Intelligence for Autonomous Driving
-excerpt: + <a href="https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge">Autonomous Racing Virtual Challenge</a>
+excerpt: 2nd IJCAI 2022 Workshop + Autonomous Racing Virtual Challenge
 show_info: true
 titles:
   en      : &EN       Home
