@@ -57,11 +57,11 @@ We are accepting papers in the following broad areas of safe vehicle autonomy, i
 - Connected autonomous driving and vehicle-to-vehicle communication
 - Autonomous driving for traffic management and emission reduction
 
-## Workshop Challenge
+## Challenge Participation
 
-We introduce a new simulation environment in autonomous racing, as a particularly challenging proving-ground for safe learning algorithms.
+To further increase workshop engagement, we propose a new autonomous driving challenge to stimulate interdisciplinary autonomous driving research and help advance state-of-the-art on a practical benchmark. The challenge will be based on the Learn-to-Race Autonomous Racing Framework: <a href="https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge" target="_blank">https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge</a>
 
-https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge
+The main goal of the challenge in this AI4AD workshop is to evaluate the joint safety, performance, and generalization capabilities of perception and control algorithms, in autonomous driving. Analogous to racing being used to test cutting-edge vehicle technology, we envision racing to serve as a particularly challenging proving ground for safe learning algorithms as: (i) vehicles are required to drive at their physical limits, with barely any margin for safety, where any infraction could lead to catastrophic failure; (ii) autonomous agents are required to make sub-second decisions, in fast-changing environments; and (iii) visual perception pipelines must remain robust to distribution shifts, novel road features, and other obstacles, in order to facilitate cross-domain safety and performance
 
 ## Submission Guidelines
 
