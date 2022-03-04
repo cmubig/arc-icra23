@@ -37,6 +37,9 @@ article_header:
 
 .schedule-table-contentcol {
     display:inline;
+    display:inline-block;
+    inline-size: 300px;
+    font-size:14px;
 }
 
 .schedule-table-row-even {
