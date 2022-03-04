@@ -41,7 +41,7 @@ article_header:
 .schedule-table-row-even {
     display:block;
     width:700px;
-    background-color: #999999;
+    background-color: #DDDDDD;
     padding:5px;
 }
 
