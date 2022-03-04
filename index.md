@@ -254,7 +254,7 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol">Talk Title TBD</div>
+<div class="schedule-table-contentcol">Talk title TBD</div>
 </div>
 
 <div class="schedule-table-row-odd">
@@ -282,7 +282,7 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol">Content</div>
+<div class="schedule-table-contentcol">Talk title TBD</div>
 </div>
 
 <div class="schedule-table-row-even">
@@ -305,13 +305,31 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 
 <div class="schedule-table-row-odd">
 <div class="schedule-table-timecol">14:30</div>
-<div class="schedule-table-eventcol">Johannes Betz</div>
-<div class="schedule-table-contentcol">Content</div>
+<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:60px;">
+<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="/challenge/assets/images/speakers/johannes_betz.png" alt="Johannes Betz">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Johannes Betz</p>
+<p style="margin:0 0 0 10px; font-size:10px;">UPenn</p>
+</div>
+</div>
+</div>
+<div class="schedule-table-contentcol">Talk title TBD</div>
 </div>
 
 <div class="schedule-table-row-even">
 <div class="schedule-table-timecol">15:00</div>
-<div class="schedule-table-eventcol">Justyna Zander</div>
+<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:60px;">
+<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="/challenge/assets/images/speakers/justyna_zander.png" alt="Justyna Zander">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Justyna Zander</p>
+<p style="margin:0 0 0 10px; font-size:10px;">NVIDIA</p>
+</div>
+</div>
+</div>
 <div class="schedule-table-contentcol">Content</div>
 </div>
 
