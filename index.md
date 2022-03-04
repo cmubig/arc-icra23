@@ -164,7 +164,7 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 > <b>Notification:</b> 3 June 2022<br>
 > <b>Camera Ready</b> + Video upload: 17 June 2022
 
-### Challenge
+### Challenge Participation
 
 > <b>Open:</b> TBD<br>
 > <b>Close:</b> TBD<br>
