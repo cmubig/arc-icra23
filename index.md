@@ -34,7 +34,7 @@ article_header:
 .schedule-table-eventcol {
     display:inline;
     display:inline-block;
-    inline-size: 250px;
+    inline-size: 350px;
 }
 
 .schedule-table-contentcol {
