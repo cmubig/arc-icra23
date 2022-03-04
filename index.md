@@ -189,7 +189,13 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 <div class="schedule-table-heading">Time</div>
 <div class="schedule-table-heading">Event</div>
 <div class="schedule-table-heading">Content</div>
-<div style="display:block;">Block</div>
+
+<div style="display:block;">
+<div>Time</div>
+<div>Event</div>
+<div>Content</div>
+</div>
+
 </div>
 
 ## Speakers
