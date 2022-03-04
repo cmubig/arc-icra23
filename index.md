@@ -243,7 +243,17 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 
 <div class="schedule-table-row-even">
 <div class="schedule-table-timecol">09:30</div>
-<div class="schedule-table-eventcol">Sahika Genc</div>
+<div class="schedule-table-eventcol">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:60px;">
+<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="/challenge/assets/images/speakers/sahika_genc.png" alt="Sahika Genc">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Sahika Genc</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Amazon AWS</p>
+</div>
+</div>
+</div>
 <div class="schedule-table-contentcol">Talk Title TBD</div>
 </div>
 
