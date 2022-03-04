@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Artificial Intelligence for Autonomous Driving
-excerpt: 2nd IJCAI 2022 Workshop + Autonomous Racing Virtual Challenge
+excerpt: 2nd IJCAI 2022 Workshop
 show_info: true
 titles:
   en      : &EN       Home
