@@ -24,6 +24,7 @@ article_header:
     font-weight: bold;
     font-size: 20px;
     color: #999999;
+    padding:0 0 20px 0;
 }
 
 .schedule-table-timecol {
