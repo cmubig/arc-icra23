@@ -27,7 +27,7 @@ article_header:
 }
 
 .schedule-table-timecol {
-    padding:50px 0 50px 0;
+    padding:0 50px 0 50px;
     display:inline;
 }
 
