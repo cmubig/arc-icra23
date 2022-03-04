@@ -134,7 +134,7 @@ img {
 
 ## About
 
-Welcome to the Learn-to-Race Autonomous Racing Virtual Challenge on <i>Artificial Intelligence for Autonomous Driving</i>.
+Welcome to the 2nd <a href="https://ijcai-22.org/" target="_blank">IJCAI</a> Workshop on <i>Artificial Intelligence for Autonomous Driving</i>!
 
 As autonomous technology approaches maturity, it is of paramount importance for autonomous vehicles to adheres to safety specifications, whether in urban driving or high-speed racing. Racing demands each vehicle to drive at its physical limits with barely any margin for safety, when any infraction could lead to catastrophic failures. Given this inherent tension, we envision autonomous racing to serve as a particularly challenging proving ground for safe learning algorithms.<br>
 
