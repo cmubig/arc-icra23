@@ -335,8 +335,17 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 
 <div class="schedule-table-row-odd">
 <div class="schedule-table-timecol">15:30</div>
-<div class="schedule-table-eventcol">Ding Zhao</div>
-<div class="schedule-table-contentcol">Content</div>
+<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:60px;">
+<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="/challenge/assets/images/speakers/ding_zhao.png" alt="Ding Zhao">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Ding Zhao</p>
+<p style="margin:0 0 0 10px; font-size:10px;">CMU</p>
+</div>
+</div>
+</div>
+<div class="schedule-table-contentcol">Talk title TBD</div>
 </div>
 
 <div class="schedule-table-row-even">
