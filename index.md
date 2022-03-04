@@ -34,13 +34,13 @@ article_header:
 .schedule-table-eventcol {
     display:inline;
     display:inline-block;
-    inline-size: 350px;
+    inline-size: 300px;
 }
 
 .schedule-table-contentcol {
     display:inline;
     display:inline-block;
-    inline-size: 300px;
+    inline-size: 250px;
     font-size:14px;
 }
 
