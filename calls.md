@@ -18,7 +18,7 @@ title:
 
 # Call for Papers
 
-<!--p>The 1st Workshop on [Safe Learning for Autonomous Driving](https://learn-to-race.org/challenge) is co-located with the International Conference on Learning Representations, to be held from April 25-29, 2022 (Virtual).</p-->
+<p>The 2nd Workshop on [Artificial Intelligence for Autonomous Driving](https://learn-to-race.org/workshop-ai4ad-ijcai2022/) is co-located with the International Joint Conference on Artificial Intelligence, to be held on 23 July, 2022 (Hybrid).</p>
 
 Existing research on autonomous driving primarily focuses on urban driving, which is insufficient for characterising the complex driving behaviour underlying high-speed racing. At the same time, existing racing simulation frameworks struggle in capturing realism, with respect to visual rendering, vehicular dynamics, and task objectives, inhibiting the transfer of learning agents to real-world contexts. The Safe Learning for Autonomous Driving workshop provides a venue for research and standardized experimentation on high-speed autonomous racing. Participants can choose to take part in the Learn to Race competition or directly submit papers to the workshop via the call for papers.
 
@@ -55,12 +55,11 @@ We are accepting papers in the following broad areas of safe vehicle autonomy, i
 - Connected autonomous driving and vehicle-to-vehicle communication
 - Autonomous driving for traffic management and emission reduction
 
-## Workshop Challenge Topics
+## Workshop Challenge
 
-Through this workshop, we are launching an AI challenge with two subtasks:
+We introduce a new simulation environment in autonomous racing, as a particularly challenging proving ground for safe learning algorithms.
 
-- Sub-task #1: Learn-to-Race (L2R): Maximise performance in simulated Formula-style autonomous racing, using the L2R environment.
-- Sub-task #2: Safety-aware learning: Maximise both agent performance and safety in the L2R environment.
+https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge
 
 ## Submission Guidelines
 
@@ -74,14 +73,14 @@ We will follow the submission guidelines specified by ICLR 2022 which can be fou
 ## Organising Committee
 
 - Jonathan Francis; CMU + Bosch Research
-- Siddha Ganju; NVIDIA
 - Bingqing Chen; CMU
-- James Herman; Intellimize
-- Gyan Tatiya; Tufts
+- Xinshuo Weng; CMU
+- Daniel Omeiza; Oxford
+- Siddha Ganju; NVIDIA
 - Hitesh Arora; Amazon
-- Sylvia L. Herbert; UCSD
 - Jean Oh; CMU
 - Eric Nyberg; CMU
+- Sylvia L. Herbert; UCSD
 
 ## Publication
 
@@ -97,11 +96,13 @@ We will follow the submission guidelines specified by ICLR 2022 which can be fou
 
 ## Important Dates (all tracks)
 
+Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brussels, Vienna.</b>
+
 - Challenge entry submission deadline (to be featured at the Workshop): 15 February 2022, 12:00 UTC
 - Challenge winners notification (private): 21 February 2022
-- Paper submission (all tracks: paper, challenge): 28 February 2022, 12:00 UTC
-- Reviewing starts: 1 March 2022, 12:00 UTC
-- Reviewing ends: 20 March 2022, 12:00 UTC
-- Notification of paper acceptance: 24 March 2022
-- Camera-ready paper submission: 15 April 2022, 12:00 UTC
-- Workshop Date: 29 April 2022, 12:00 UTC
+- Paper submission (all tracks: paper, challenge): 13 May 2022
+- Reviewing starts: 14 May 2022
+- Reviewing ends: 20 March 2022
+- Notification of paper acceptance: 3 June 2022
+- Camera-ready paper submission + video upload: 17 June 2022
+- Workshop Date: 23 July 2022
