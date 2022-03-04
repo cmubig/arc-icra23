@@ -169,8 +169,8 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 > <b>Open:</b> TBD<br>
 > <b>Close:</b> TBD<br>
 > <b>Winners notification:</b> TBD<br>
-<!-- > <b>Close:</b> 15 February 2022 at 23:59 UTC: <b><span id="countdown"></span></b><br>-->
-> <b>Winners notification:</b> 21 February 2022
+<!-- > <b>Close:</b> 15 February 2022 at 23:59 UTC: <b><span id="countdown"></span></b><br>
+> <b>Winners notification:</b> 21 February 2022-->
 
 ### Workshop
 
