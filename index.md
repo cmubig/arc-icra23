@@ -218,110 +218,104 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 
 <div class="schedule-table-row-even">
 <div class="schedule-table-timecol">08:50</div>
-<div class="schedule-table-eventcol">Event</div>
-<div class="schedule-table-contentcol">Content</div>
+<div class="schedule-table-eventcol">Welcome</div>
+<div class="schedule-table-contentcol">Opening Remarks</div>
 </div>
 
 <div class="schedule-table-row-odd">
 <div class="schedule-table-timecol">09:00</div>
-<div class="schedule-table-eventcol">Event</div>
-<div class="schedule-table-contentcol">Content</div>
+<div class="schedule-table-eventcol">Max Kumskoy</div>
+<div class="schedule-table-contentcol">Talk Title TBD</div>
 </div>
 
 <div class="schedule-table-row-even">
 <div class="schedule-table-timecol">09:30</div>
-<div class="schedule-table-eventcol">Event</div>
-<div class="schedule-table-contentcol">Content</div>
+<div class="schedule-table-eventcol">Sahika Genc</div>
+<div class="schedule-table-contentcol">Talk Title TBD</div>
 </div>
 
 <div class="schedule-table-row-odd">
 <div class="schedule-table-timecol">10:00</div>
-<div class="schedule-table-eventcol">Event</div>
+<div class="schedule-table-eventcol">Poster Session + Gathertown</div>
 <div class="schedule-table-contentcol">Content</div>
 </div>
 
 <div class="schedule-table-row-even">
 <div class="schedule-table-timecol">11:00</div>
-<div class="schedule-table-eventcol">Event</div>
+<div class="schedule-table-eventcol">Spotlight Talks</div>
 <div class="schedule-table-contentcol">Content</div>
 </div>
 
 <div class="schedule-table-row-odd">
 <div class="schedule-table-timecol">11:30</div>
-<div class="schedule-table-eventcol">Event</div>
+<div class="schedule-table-eventcol">Jaime Fisac</div>
 <div class="schedule-table-contentcol">Content</div>
 </div>
 
 <div class="schedule-table-row-even">
 <div class="schedule-table-timecol">12:00</div>
-<div class="schedule-table-eventcol">Event</div>
+<div class="schedule-table-eventcol">Lunch + Social</div>
 <div class="schedule-table-contentcol">Content</div>
 </div>
 
 <div class="schedule-table-row-odd">
 <div class="schedule-table-timecol">13:30</div>
-<div class="schedule-table-eventcol">Event</div>
+<div class="schedule-table-eventcol">Autonomous Racing Virtual Challenge: Contributed Talks</div>
 <div class="schedule-table-contentcol">Content</div>
 </div>
 
 <div class="schedule-table-row-even">
-<div class="schedule-table-timecol">13:40</div>
-<div class="schedule-table-eventcol">Event</div>
-<div class="schedule-table-contentcol">Content</div>
-</div>
-
-<div class="schedule-table-row-odd">
 <div class="schedule-table-timecol">14:00</div>
-<div class="schedule-table-eventcol">Event</div>
+<div class="schedule-table-eventcol">Spotlight Talks</div>
 <div class="schedule-table-contentcol">Content</div>
 </div>
 
-<div class="schedule-table-row-even">
+<div class="schedule-table-row-odd">
 <div class="schedule-table-timecol">14:30</div>
-<div class="schedule-table-eventcol">Event</div>
+<div class="schedule-table-eventcol">Johannes Betz</div>
 <div class="schedule-table-contentcol">Content</div>
 </div>
 
-<div class="schedule-table-row-odd">
+<div class="schedule-table-row-even">
 <div class="schedule-table-timecol">15:00</div>
-<div class="schedule-table-eventcol">Event</div>
+<div class="schedule-table-eventcol">Justyna Zander</div>
 <div class="schedule-table-contentcol">Content</div>
 </div>
 
-<div class="schedule-table-row-even">
+<div class="schedule-table-row-odd">
 <div class="schedule-table-timecol">15:30</div>
-<div class="schedule-table-eventcol">Event</div>
+<div class="schedule-table-eventcol">Ding Zhao</div>
 <div class="schedule-table-contentcol">Content</div>
 </div>
 
-<div class="schedule-table-row-odd">
+<div class="schedule-table-row-even">
 <div class="schedule-table-timecol">16:00</div>
-<div class="schedule-table-eventcol">Event</div>
+<div class="schedule-table-eventcol">Break, Social and Posters</div>
 <div class="schedule-table-contentcol">Content</div>
 </div>
 
-<div class="schedule-table-row-even">
+<div class="schedule-table-row-odd">
 <div class="schedule-table-timecol">17:00</div>
-<div class="schedule-table-eventcol">Event</div>
-<div class="schedule-table-contentcol">Content</div>
-</div>
-
-<div class="schedule-table-row-odd">
-<div class="schedule-table-timecol">17:30</div>
-<div class="schedule-table-eventcol">Event</div>
+<div class="schedule-table-eventcol">Changliu Liu</div>
 <div class="schedule-table-contentcol">Content</div>
 </div>
 
 <div class="schedule-table-row-even">
-<div class="schedule-table-timecol">18:00</div>
-<div class="schedule-table-eventcol">Event</div>
+<div class="schedule-table-timecol">17:30</div>
+<div class="schedule-table-eventcol">Rowan McAllister</div>
 <div class="schedule-table-contentcol">Content</div>
 </div>
 
 <div class="schedule-table-row-odd">
-<div class="schedule-table-timecol">18:30</div>
-<div class="schedule-table-eventcol">Event</div>
+<div class="schedule-table-timecol">18:00</div>
+<div class="schedule-table-eventcol">David Held</div>
 <div class="schedule-table-contentcol">Content</div>
+</div>
+
+<div class="schedule-table-row-even">
+<div class="schedule-table-timecol">18:30</div>
+<div class="schedule-table-eventcol">Goodbye</div>
+<div class="schedule-table-contentcol">Closing Remarks</div>
 </div>
 
 </div>
