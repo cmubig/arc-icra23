@@ -371,13 +371,31 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 
 <div class="schedule-table-row-even">
 <div class="schedule-table-timecol">17:30</div>
-<div class="schedule-table-eventcol">Rowan McAllister</div>
-<div class="schedule-table-contentcol">Content</div>
+<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:60px;">
+<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="/challenge/assets/images/speakers/rowan_mcallister.png" alt="Rowan McAllister">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Rowan McAllister</p>
+<p style="margin:0 0 0 10px; font-size:10px;">TRI</p>
+</div>
+</div>
+</div>
+<div class="schedule-table-contentcol">Talk title TBD</div>
 </div>
 
 <div class="schedule-table-row-odd">
 <div class="schedule-table-timecol">18:00</div>
-<div class="schedule-table-eventcol">David Held</div>
+<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:60px;">
+<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="/challenge/assets/images/speakers/david_held.png" alt="David Held">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">David Held</p>
+<p style="margin:0 0 0 10px; font-size:10px;">CMU</p>
+</div>
+</div>
+</div>
 <div class="schedule-table-contentcol">Content</div>
 </div>
 
