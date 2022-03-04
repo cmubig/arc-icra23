@@ -244,7 +244,7 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 </div>
 
 <div class="schedule-table-row-even">
-<div class="schedule-table-timecol">09:30</div>
+<div class="schedule-table-timecol" style="vertical-align: 10px;">09:30</div>
 <div class="schedule-table-eventcol">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
@@ -272,7 +272,7 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 </div>
 
 <div class="schedule-table-row-odd">
-<div class="schedule-table-timecol">11:30</div>
+<div class="schedule-table-timecol" style="vertical-align: 10px;">11:30</div>
 <div class="schedule-table-eventcol">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
@@ -306,7 +306,7 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 </div>
 
 <div class="schedule-table-row-odd">
-<div class="schedule-table-timecol">14:30</div>
+<div class="schedule-table-timecol" style="vertical-align: 10px;">14:30</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
 <img style="width:50px; height:50px; position: relative; bottom: 10px;" src="/challenge/assets/images/speakers/johannes_betz.png" alt="Johannes Betz">
@@ -321,7 +321,7 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 </div>
 
 <div class="schedule-table-row-even">
-<div class="schedule-table-timecol">15:00</div>
+<div class="schedule-table-timecol" style="vertical-align: 10px;">15:00</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
 <img style="width:50px; height:50px; position: relative; bottom: 10px;" src="/challenge/assets/images/speakers/justyna_zander.png" alt="Justyna Zander">
@@ -336,7 +336,7 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 </div>
 
 <div class="schedule-table-row-odd">
-<div class="schedule-table-timecol">15:30</div>
+<div class="schedule-table-timecol" style="vertical-align: 10px;">15:30</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
 <img style="width:50px; height:50px; position: relative; bottom: 10px;" src="/challenge/assets/images/speakers/ding_zhao.png" alt="Ding Zhao">
@@ -357,7 +357,7 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 </div>
 
 <div class="schedule-table-row-odd">
-<div class="schedule-table-timecol">17:00</div>
+<div class="schedule-table-timecol" style="vertical-align: 10px;">17:00</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
 <img style="width:50px; height:50px; position: relative; bottom: 10px;" src="/challenge/assets/images/speakers/changliu_liu.png" alt="Changliu Liu">
@@ -372,7 +372,7 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 </div>
 
 <div class="schedule-table-row-even">
-<div class="schedule-table-timecol">17:30</div>
+<div class="schedule-table-timecol" style="vertical-align: 10px;">17:30</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
 <img style="width:50px; height:50px; position: relative; bottom: 10px;" src="/challenge/assets/images/speakers/rowan_mcallister.png" alt="Rowan McAllister">
@@ -387,7 +387,7 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 </div>
 
 <div class="schedule-table-row-odd">
-<div class="schedule-table-timecol">18:00</div>
+<div class="schedule-table-timecol" style="vertical-align: 10px;">18:00</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
 <img style="width:50px; height:50px; position: relative; bottom: 10px;" src="/challenge/assets/images/speakers/david_held.png" alt="David Held">
