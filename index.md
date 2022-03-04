@@ -271,7 +271,17 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 
 <div class="schedule-table-row-odd">
 <div class="schedule-table-timecol">11:30</div>
-<div class="schedule-table-eventcol">Jaime Fisac</div>
+<div class="schedule-table-eventcol">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:60px;">
+<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="/challenge/assets/images/speakers/jaime_fisac.png" alt="Jaime Fisac">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Jaime Fisac</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Princeton</p>
+</div>
+</div>
+</div>
 <div class="schedule-table-contentcol">Content</div>
 </div>
 
