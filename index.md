@@ -41,13 +41,14 @@ article_header:
 .schedule-table-row-even {
     display:block;
     width:700px;
-    background-color: #DDDDDD;
-    padding:5px;
+    background-color: #EEEEEE;
+    padding:10px;
 }
 
 .schedule-table-row-odd {
     display:block;
     width:700px;
+    padding:10px;
 }
 
 .article__header--overlay .overlay {
