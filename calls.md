@@ -93,11 +93,13 @@ We will follow the submission guidelines specified by IJCAI 2022 which can be fo
 - Neither papers from the main track nor the challenge tracks will have archival proceedings.
 - De-anonymised, accepted papers will be posted on the website.
 
+<!--
 ## Contact addresses
 
 - Re: general inquiries: sl4ad.workshop+info [AT] gmail.com
 - Re: paper submission inquiries: sl4ad.workshop+papers [AT] gmail.com
 - Re: challenge-related inquiries: sl4ad.workshop+challenge [AT] gmail.com
+-->
 
 ## Important Dates (all tracks)
 
