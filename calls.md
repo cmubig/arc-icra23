@@ -29,7 +29,7 @@ We envision this workshop bringing together researchers and industry practitione
 We are accepting papers in the following broad areas of safe vehicle autonomy, including (but not limited to):
 
 - Safe reinforcement learning, safe exploration, constrained reinforcement learning
-- Safe learning approaches inspired by control theory, e.g. control barrier function, Lyapunov method, reachability analysis
+- Safe learning approaches inspired by control theory, e.g., control barrier function, Lyapunov method, reachability analysis
 - Safety verification, Certifying learning-based control under dynamical uncertainty, Dependability analysis for learning-based systems
 - Robustness to out-of-distribution road scenes
 - Learning vehicle dynamics at high-speeds and in unstable regimes
