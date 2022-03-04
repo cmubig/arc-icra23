@@ -356,8 +356,17 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 
 <div class="schedule-table-row-odd">
 <div class="schedule-table-timecol">17:00</div>
-<div class="schedule-table-eventcol">Changliu Liu</div>
-<div class="schedule-table-contentcol">Content</div>
+<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:60px;">
+<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="/challenge/assets/images/speakers/changliu_liu.png" alt="Changliu Liu">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Changliu Liu</p>
+<p style="margin:0 0 0 10px; font-size:10px;">CMU</p>
+</div>
+</div>
+</div>
+<div class="schedule-table-contentcol">Talk title TBD</div>
 </div>
 
 <div class="schedule-table-row-even">
