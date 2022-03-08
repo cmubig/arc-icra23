@@ -18,7 +18,7 @@ title:
 
 # Call for Papers
 
-<p>The 2nd Workshop on <a href="https://learn-to-race.org/workshop-ai4ad-ijcai2022/" target="_blank">Artificial Intelligence for Autonomous Driving</a> (AI4AD) is co-located with the International Joint Conference on Artificial Intelligence (IJCAI 2022), to be held on 23 July 2022 (hybrid).</p>
+<p>The 2nd Workshop on <a href="https://learn-to-race.org/workshop-ai4ad-ijcai2022/" target="_blank">Artificial Intelligence for Autonomous Driving</a> (AI4AD) is co-located with the International Joint Conference on Artificial Intelligence (IJCAI 2022), to be held on 23 July 2022 in hybrid format.</p>
 
 While there have been significant advances in vehicle autonomy (e.g., perception, trajectory forecasting, planning and control, etc.), it is of paramount importance for autonomous systems to adhere to safety specifications, as any safety infraction in urban and highway driving, or high-speed racing could lead to catastrophic failures. Given this inherent tension between safety and performance, we introduce a new simulation environment in autonomous racing as a particularly challenging proving ground for safe learning algorithms.<br>
 
