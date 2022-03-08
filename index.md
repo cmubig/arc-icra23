@@ -180,6 +180,7 @@ While there have been significant advances in vehicle autonomy (e.g., perception
 We envision this workshop bringing together researchers and industry practitioners from different AI subfields to work towards safer and more robust autonomous technology. We encourage participants to take part in the Challenge by competing for top leaderboard positions, to submit articles for review, and to engage with us at IJCAI 2022.<br>
 
 For more information on the tracks and submission topics, please review our Call for Papers page: <a href="https://learn-to-race.org/workshop-ai4ad-ijcai2022/calls.html" target="_blank">https://learn-to-race.org/workshop-ai4ad-ijcai2022/calls.html</a>
+
 <!--
 How to attend:
 <ul>
