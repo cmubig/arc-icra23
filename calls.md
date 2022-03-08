@@ -99,11 +99,11 @@ We will follow the submission guidelines specified by IJCAI 2022, which can be f
 
 Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brussels, Vienna.</b>
 
-- Challenge entry submission deadline (to be featured at the Workshop): 15 February 2022, 12:00 UTC
-- Challenge winners notification (private): 21 February 2022
+<!--- Challenge entry submission deadline (to be featured at the Workshop): 15 February 2022, 12:00 UTC
+- Challenge winners notification (private): 21 February 2022-->
 - Paper submission (all tracks: paper, challenge): 13 May 2022
 - Reviewing starts: 14 May 2022
-- Reviewing ends: 20 March 2022
+- Reviewing ends: 30 May 2022
 - Notification of paper acceptance: 3 June 2022
 - Camera-ready paper submission + video upload: 17 June 2022
 - Workshop Date: 23 July 2022
