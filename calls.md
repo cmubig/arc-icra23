@@ -89,7 +89,7 @@ We will follow the submission guidelines specified by IJCAI 2022, which can be f
 ## Organising Committee
 
 - Jonathan Francis; CMU + Bosch Research
-- Xinshuo Weng; CMU
+- Xinshuo Weng; CMU + NVIDIA
 - Hitesh Arora; Amazon
 - Siddha Ganju; NVIDIA
 - Bingqing Chen; CMU
