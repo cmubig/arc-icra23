@@ -58,7 +58,7 @@ We are accepting papers in the following broad areas of safe vehicle autonomy, i
 - AI ethics in autonomous driving
 - Autonomous driving datasets, simulation, evaluations, and metrics
 - Connected autonomous driving, vehicle-to-vehicle, vehicle-to-infrastructure communication, digital twins
-- Autonomous driving for traffic management and emission reduction; intelligent transportation systemsa
+- Autonomous driving for traffic management and emission reduction; intelligent transportation systems
 
 ## Challenge Participation
 
