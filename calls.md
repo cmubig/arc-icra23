@@ -92,7 +92,7 @@ We will follow the submission guidelines specified by IJCAI 2022, which can be f
 - Xinshuo Weng; CMU + NVIDIA Research
 - Hitesh Arora; Amazon
 - Siddha Ganju; NVIDIA
-- Bingqing Chen; CMU
+- Bingqing Chen; CMU + Bosch Research
 - Daniel Omeiza; Oxford
 - Jean Oh; CMU
 - Eric Nyberg; CMU
