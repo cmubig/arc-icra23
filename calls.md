@@ -50,6 +50,7 @@ We are accepting papers in the following broad areas of safe vehicle autonomy, i
 - Visual grounding and its application to autonomous driving
 - Vision-language navigation for autonomous driving
 - Audio-visual navigation for autonomous driving
+- Neuro-symbolic approaches in autonomous driving
 - Auditory perception (detection, tracking, segmentation, motion estimation, etc)
 - Brain-inspired autonomous control systems
 - Human factors in autonomous driving
