@@ -56,7 +56,7 @@ We are accepting papers in the following broad areas of safe vehicle autonomy, i
 - Brain-inspired autonomous control systems
 - Human factors in autonomous driving
 - AI ethics in autonomous driving
-- Autonomous driving datasets, evaluations, and metrics
+- Autonomous driving datasets, simulation, evaluations, and metrics
 - Connected autonomous driving, vehicle-to-vehicle, vehicle-to-infrastructure communication, digital twins
 - Autonomous driving for traffic management and emission reduction; intelligent transportation systemsa
 
