@@ -128,6 +128,14 @@ img {
 </style>
 
 <script>
+  var x = setInterval(function() {
+    var d = new Date();
+    var n = d.toLocaleTimeString("en-US", {timeZone: "Europe/Vienna", hour: '2-digit', minute:'2-digit', hour12: false})
+    document.getElementById("cet").innerHTML = n
+  }, 1000);
+</script>
+
+<script>
   {%- include scripts/lib/swiper.js -%}
   var SOURCES = window.TEXT_VARIABLES.sources;
   window.Lazyload.js(SOURCES.jquery, function() {
@@ -218,6 +226,8 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 > <b>Event:</b> 23 July 2022
 
 ## Schedule
+
+Saturday, 23 July, 2022. All times are in Central European Time (CET). Current time is <span id="cet"></span>
 
 <div style="display:block; width:900px; padding:20px; border:solid 4px #CCCCCC;">
 <div class="schedule-table-heading" style="margin-left:57px; display:inline-block; inline-size:100px;">Time</div>
