@@ -74,8 +74,8 @@ Here are some of the fundamental questions that we pose in this challenge:
 
 > Submission deadline: <b>13 May 2022 at 23:59, Central European Time (CET)</b><br>
 > Submission format: either <b>extended abstracts</b> (4 pages, excluding references) or <b>full papers</b> (8 pages, excluding references)<br>
-> Author kit: <a href="https://learn-to-race.org/workshop-ai4ad-ijcai2022/assets/FormattingGuidelines-IJCAI-ECAI-22.zip" target="_blank">https://learn-to-race.org/workshop-ai4ad-ijcai2022/assets/FormattingGuidelines-IJCAI-ECAI-22.zip</a>
-> Submission site: <a href="https://cmt3.research.microsoft.com/AI4AD2022" target="_blank">https://cmt3.research.microsoft.com/AI4AD2022</a> 
+> Author kit: <a href="https://learn-to-race.org/workshop-ai4ad-ijcai2022/assets/FormattingGuidelines-IJCAI-ECAI-22.zip" target="_blank">https://learn-to-race.org/workshop-ai4ad-ijcai2022/assets/FormattingGuidelines-IJCAI-ECAI-22.zip</a><br>
+> Submission site: <a href="https://cmt3.research.microsoft.com/AI4AD2022" target="_blank">https://cmt3.research.microsoft.com/AI4AD2022</a>
 
 We will follow the submission guidelines specified by IJCAI 2022, which can be found <a href="https://ijcai-22.org/calls-papers/" target="_blank">here</a>.
 
