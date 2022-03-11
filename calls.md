@@ -39,7 +39,7 @@ We are accepting papers in the following broad areas of safe vehicle autonomy, i
 - Multi-task learning in autonomous driving
 - End-to-end and real-time autonomous driving systems
 - Novel automotive sensors and their applications
-- Behavior prediction of pedestrians, vehicles, and animals
+- Behavior prediction of pedestrians, vehicles, and animals; trajectory forecasting
 - Explainability in autonomous driving
 - Learning to drive via imitation learning
 - Learning to drive via distribution awareness
