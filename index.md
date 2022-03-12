@@ -689,18 +689,19 @@ The Learn-to-Race Autonomous Racing Virtual Challenge is now active. <a href="ht
 <li>Matthew Bauch</li>
 <li><a href="https://manojbhat09.github.io/" target="_blank">Manoj Bhat</a></li>
 <li>Shravya Bhat</li>
+<li>Wenhao Ding</li>
 <li>Joe Fontaine</li>
 <li>Sahika Genc</li>
 <li>Shivam Goel</li>
 <li>James Herman</li>
 <li>Ruoxin Huang</li>
-<li>Soonmin Hwang</li>
 </ul>
 </div>
 
 <!-- column 2 -->
 <div style="width:201px; display:inline-block; vertical-align: top;">
 <ul>
+<li>Soonmin Hwang</li>
 <li>Jennifer Isaza</li>
 <li>Sidharth Kathpal</li>
 <li>Ankit Laddha</li>
@@ -710,13 +711,13 @@ The Learn-to-Race Autonomous Racing Virtual Challenge is now active. <a href="ht
 <li>Aarati Noronha</li>
 <li>Karthik Paga</li>
 <li>Cameron Peron</li>
-<li>Ehsan Qasemi</li>
 </ul>
 </div>
 
 <!-- column 3 -->
 <div style="width:201px; display:inline-block; vertical-align: top;">
 <ul>
+<li>Ehsan Qasemi</li>
 <li>Joao Semedo</li>
 <li>Aditya Sharma</li>
 <li>Yash Shukla</li>
@@ -725,7 +726,6 @@ The Learn-to-Race Autonomous Racing Virtual Challenge is now active. <a href="ht
 <li><a href="https://github.com/weirayao" target="_blank">Weiran Yao</a></li>
 <li><a href="https://xyaoab.github.io/" target="_blank">Xinjie Yao</a></li>
 <!--li>&nbsp;</li>
-<li>&nbsp;</li>
 <li>&nbsp;</li>
 <li>&nbsp;</li-->
 </ul>
