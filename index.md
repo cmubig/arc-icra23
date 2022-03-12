@@ -227,7 +227,7 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 
 ## Schedule
 
-Saturday, 23 July, 2022. All times are in Central European Time (CET). Current time is <span id="cet"></span>
+Saturday, 23 July, 2022. All times are in Central European Time (CET). Current time is <span id="cet"></span>.
 
 <div style="display:block; width:900px; padding:20px; border:solid 4px #CCCCCC;">
 <div class="schedule-table-heading" style="margin-left:57px; display:inline-block; inline-size:100px;">Time</div>
