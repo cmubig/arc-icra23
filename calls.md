@@ -82,8 +82,10 @@ Here are some of the fundamental questions that we pose in this challenge:
 
 We will follow the submission guidelines specified by IJCAI 2022, which can be found <a href="https://ijcai-22.org/calls-papers/" target="_blank">here</a>.
 
+- Only <b>pdf</b> format is allowed for the paper and attached supplementary.
 - Submitted papers will undergo double-blind review and should, therefore, be anonymised.
-- Papers will not have archival conference proceedings.
+- There will be no rebuttal (author feedback) phase and no proceedings.
+- All accepted papers will be presented at virtual poster sessions.
 - De-anonymised, accepted papers will be posted on this website.
 
 ## Organising Committee
