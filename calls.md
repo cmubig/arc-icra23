@@ -87,6 +87,7 @@ We will follow the submission guidelines specified by IJCAI 2022, which can be f
 - There will be no rebuttal (author feedback) phase and no proceedings.
 - All accepted papers will be presented at virtual poster sessions.
 - De-anonymised, accepted papers will be posted on this website.
+- We will issue <i>Best Paper</i> and <i>Best Student Paper</i> awards, as voted by our program committee.
 
 ## Organising Committee
 
