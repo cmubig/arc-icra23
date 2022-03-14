@@ -540,7 +540,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 
 ## Challenge
 
-<div class="swiper swiper-demo">
+<!--div class="swiper swiper-demo">
   <div class="swiper__wrapper">
     <div class="swiper__slide">
       <img src="{{ site.baseurl }}/assets/images/challenge/lvms-overhead.png" alt="LVMS">
@@ -554,7 +554,9 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
   </div>
   <div class="swiper__button swiper__button--prev fas fa-chevron-left"></div>
   <div class="swiper__button swiper__button--next fas fa-chevron-right"></div>
-</div>
+</div-->
+
+<img src="{{ site.baseurl }}/assets/images/challenge/banner" alt="L2R Autonomous Racing Virtual Challenge: Safe Learning for Autonomous Driving">
 
 <img src="{{ site.baseurl }}/assets/images/challenge/aicrowd_challenge_steps.gif" alt="Steps to victory!">
 
