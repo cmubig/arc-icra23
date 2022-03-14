@@ -558,7 +558,7 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
   <div class="swiper__button swiper__button--next fas fa-chevron-right"></div>
 </div-->
 
-<img src="{{ site.baseurl }}/assets/images/challenge/banner" alt="L2R Autonomous Racing Virtual Challenge: Safe Learning for Autonomous Driving">
+<img src="{{ site.baseurl }}/assets/images/challenge/banner.png" alt="L2R Autonomous Racing Virtual Challenge: Safe Learning for Autonomous Driving">
 
 <img src="{{ site.baseurl }}/assets/images/challenge/aicrowd_challenge_steps.gif" alt="Steps to victory!">
 
