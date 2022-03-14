@@ -540,7 +540,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 
 ## Challenge
 
-We also feature an exciting and new AI Challenge in high-speed autonomous racing. Here, the goal is to evaluate the joint safety, performance, and generalisation capabilities of perception and control algorithms, as they operate simulated Formula-style racing vehicles at their physical limits!
+We also feature an exciting and new AI Challenge in high-speed autonomous racing. Here, the goal is to evaluate the joint safety, performance, and generalisation capabilities of perception and control algorithms, as they operate simulated Formula-style racing vehicles at their physical limits! The Learn-to-Race Autonomous Racing Virtual Challenge is now active. <a href="https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge" target="_blank">Participate now</a> on AICrowd.
 
 <!--div class="swiper swiper-demo">
   <div class="swiper__wrapper">
@@ -558,11 +558,9 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
   <div class="swiper__button swiper__button--next fas fa-chevron-right"></div>
 </div-->
 
-<img src="{{ site.baseurl }}/assets/images/challenge/banner.png" alt="L2R Autonomous Racing Virtual Challenge: Safe Learning for Autonomous Driving">
+<img src="{{ site.baseurl }}/assets/images/challenge/banner_noarch.png" alt="L2R Autonomous Racing Virtual Challenge: Safe Learning for Autonomous Driving">
 
 <img src="{{ site.baseurl }}/assets/images/challenge/aicrowd_challenge_steps.gif" alt="Steps to victory!">
-
-The Learn-to-Race Autonomous Racing Virtual Challenge is now active. <a href="https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge" target="_blank">Participate now</a> on AICrowd!
 
 ## Organisers
 
