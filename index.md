@@ -540,6 +540,8 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 
 ## Challenge
 
+We also feature an exciting and new AI Challenge in high-speed autonomous racing. Here, the goal is to evaluate the joint safety, performance, and generalisation capabilities of perception and control algorithms, as they operate simulated Formula-style racing vehicles at their physical limits!
+
 <!--div class="swiper swiper-demo">
   <div class="swiper__wrapper">
     <div class="swiper__slide">
