@@ -556,6 +556,8 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
   <div class="swiper__button swiper__button--next fas fa-chevron-right"></div>
 </div>
 
+<img src="aicrowd_challenge_steps.gif" alt="Steps to victory!">
+
 The Learn-to-Race Autonomous Racing Virtual Challenge is now active. <a href="https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge" target="_blank">Participate now</a> on AICrowd!
 
 ## Organisers
