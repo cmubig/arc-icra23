@@ -718,40 +718,39 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <li>Soonmin Hwang</li>
 <li>Jennifer Isaza</li>
 <li>Sidharth Kathpal</li>
+<li>Tanmay Kulkarni</li>
 <li>Ankit Laddha</li>
 <li>Jingyuan Li</li>
 <li>Sharada Mohanty</li>
 <li><a href="https://navars.xyz/" target="_blank">Ingrid Navarro</a></li>
 <li>Aarati Noronha</li>
 <li>Alessandro Oltramari</li>
-<li>Karthik Paga</li>
 </ul>
 </div>
 
 <!-- column 3 -->
 <div style="width:201px; display:inline-block; vertical-align: top;">
 <ul>
+<li>Karthik Paga</li>
 <li>Cameron Peron</li>
 <li>Ehsan Qasemi</li>
 <li>Joao Semedo</li>
 <li>Aditya Sharma</li>
 <li>Yash Shukla</li>
 <li>Jivko Sinapov</li>
+<li>Jayant Tamarapalli</li>
 <li>Gyan Tatiya</li>
 <li><a href="https://github.com/weirayao" target="_blank">Weiran Yao</a></li>
-<li><a href="https://xyaoab.github.io/" target="_blank">Xinjie Yao</a></li>
-<li>Ivan Zhukov</li>
-<!--li>&nbsp;</li-->
 </ul>
 </div>
 
 <!-- column 4 -->
 <div style="width:201px; display:inline-block; vertical-align: top;">
 <ul>
+<li><a href="https://xyaoab.github.io/" target="_blank">Xinjie Yao</a></li>
+<li>Sahiti Yerramilli</li>
+<li>Ivan Zhukov</li>
 <!--li>&nbsp;</li>
-<li>&nbsp;</li>
-<li>&nbsp;</li>
-<li>&nbsp;</li>
 <li>&nbsp;</li>
 <li>&nbsp;</li>
 <li>&nbsp;</li>
