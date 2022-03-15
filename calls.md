@@ -72,6 +72,7 @@ Here are some of the fundamental questions that we pose in this challenge:
 - How should an autonomous agent explore safely and adapt to unseen scenarios?
 - How can we inject domain knowledge (e.g., model-based priors, common sense, logical rules, safety specifications, skill primitives, expert demonstrations) such that the autonomous agent is safer and more sample-efficient?
 
+Participants have special invitation to submit descriptions of their research, development, and experimentation in the challenge as academic manuscripts to the workshop. Top-performing challenge teams will be invited to present their work during the workshop session, entitled <i>Autonomous Racing Virtual Challenge: Contributed Talks</i>.
 
 ## Paper Submission Guidelines
 
@@ -90,7 +91,7 @@ Additional notes:
 - There will be no rebuttal (author feedback) phase and no proceedings.
 - All accepted papers will be presented at virtual poster sessions.
 - De-anonymised, accepted papers will be posted on this website.
-- We will issue <i>Best Paper</i> and <i>Best Student Paper</i> awards, as voted by our program committee.
+- We will issue <i>Best Paper</i> and <i>Best Student Paper</i> awards, as voted by our program committee. Presentation of these works will be featured during the workshop's <i>Spotlight Talks</i> sessions
 
 ## Organising Committee
 
@@ -118,6 +119,7 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 
 <!--- Challenge entry submission deadline (to be featured at the Workshop): 15 February 2022, 12:00 UTC
 - Challenge winners notification (private): 21 February 2022-->
+- Challenge participation deadline (to be featured at the workshop): 6 May 2022
 - Paper submission (all tracks: paper, challenge): 13 May 2022
 - Reviewing starts: 14 May 2022
 - Reviewing ends: 30 May 2022
