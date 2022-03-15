@@ -88,6 +88,7 @@ Additional notes:
 - Only <b>pdf</b> format is allowed for the paper and attached supplementary.
 - Submitted papers will undergo double-blind review and should, therefore, be anonymised.
 - Both submissions types can consist of work-in-progress, work under review, or work already accepted/published elsewhere.
+- Submissions will be evaluated based on this <a href="{{ site.baseurl }}/assets/images/reviewer_questions.png" target="_blank">reviewer rubric</a>.
 - There will be no rebuttal (author feedback) phase and no proceedings.
 - All accepted papers will be presented at virtual poster sessions.
 - De-anonymised, accepted papers will be posted on this website.
