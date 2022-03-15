@@ -72,7 +72,7 @@ Here are some of the fundamental questions that we pose in this challenge:
 - How should an autonomous agent explore safely and adapt to unseen scenarios?
 - How can we inject domain knowledge (e.g., model-based priors, common sense, logical rules, safety specifications, skill primitives, expert demonstrations) such that the autonomous agent is safer and more sample-efficient?
 
-Participants have special invitation to submit descriptions of their research, development, and experimentation in the challenge as academic manuscripts to the workshop. Top-performing challenge teams will be invited to present their work during the <i>Autonomous Racing Virtual Challenge: Contributed Talks</i> workshop session, will be provided mentorship from select organizing committee members in generating strong academic research manuscripts, are eligible to receive community award prizes, and will receive invitation to contribute to a new survey paper on <i>safe, performant, and generalisable learning paradigms in autonomous driving research</i>.
+Participants have special invitation to submit descriptions of their research, development, and experimentation in the challenge as academic manuscripts to the workshop (see Paper Submission Guidelines, below). Top-performing challenge teams will be invited to present their work during the <i>Autonomous Racing Virtual Challenge: Contributed Talks</i> workshop session, will be provided mentorship from select organizing committee members in generating strong academic research manuscripts, are eligible to receive community award prizes, and will receive invitation to contribute to a new survey paper on <i>safe, performant, and generalisable learning paradigms in autonomous driving research</i>.
 
 ## Paper Submission Guidelines
 
