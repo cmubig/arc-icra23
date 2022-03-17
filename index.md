@@ -734,7 +734,7 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <li>Karthik Paga</li>
 <li>Cameron Peron</li>
 <li>Ehsan Qasemi</li>
-<li>Joao Semedo</li>
+<li>João Semedo</li>
 <li>Aditya Sharma</li>
 <li>Yash Shukla</li>
 <li>Jivko Sinapov</li>
