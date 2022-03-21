@@ -42,7 +42,8 @@ article_header:
     display:inline;
     display:inline-block;
     inline-size: 250px;
-    font-size:14px;
+    font-size:12px;
+    letter-spacing: 2px;
 }
 
 .schedule-table-row-even {
