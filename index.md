@@ -42,7 +42,7 @@ article_header:
     display:inline;
     display:inline-block;
     inline-size: 250px;
-    font-size:13px;
+    font-size:14px;
     line-height: normal;
 }
 
@@ -247,7 +247,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <div class="schedule-table-eventcol">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="/challenge/assets/images/speakers/max_kumskoy.png" alt="Max Kumskoy">
+<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/max_kumskoy.png" alt="Max Kumskoy">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Max Kumskoy</p>
@@ -263,7 +263,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <div class="schedule-table-eventcol">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="/challenge/assets/images/speakers/sahika_genc.png" alt="Sahika Genc">
+<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/sahika_genc.png" alt="Sahika Genc">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Sahika Genc</p>
@@ -291,7 +291,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <div class="schedule-table-eventcol">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="/challenge/assets/images/speakers/jaime_fisac.png" alt="Jaime Fisac">
+<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/jaime_fisac.png" alt="Jaime Fisac">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Jaime Fisac</p>
@@ -324,7 +324,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <div class="schedule-table-timecol" style="vertical-align: 10px;">14:30</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="/challenge/assets/images/speakers/johannes_betz.png" alt="Johannes Betz">
+<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/johannes_betz.png" alt="Johannes Betz">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Johannes Betz</p>
@@ -339,7 +339,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <div class="schedule-table-timecol" style="vertical-align: 10px;">15:00</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="/challenge/assets/images/speakers/justyna_zander.png" alt="Justyna Zander">
+<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/justyna_zander.png" alt="Justyna Zander">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Justyna Zander</p>
@@ -354,7 +354,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <div class="schedule-table-timecol" style="vertical-align: 10px;">15:30</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="/challenge/assets/images/speakers/ding_zhao.png" alt="Ding Zhao">
+<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/ding_zhao.png" alt="Ding Zhao">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Ding Zhao</p>
@@ -375,7 +375,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <div class="schedule-table-timecol" style="vertical-align: 10px;">17:00</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="/challenge/assets/images/speakers/changliu_liu.png" alt="Changliu Liu">
+<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/changliu_liu.png" alt="Changliu Liu">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Changliu Liu</p>
@@ -390,7 +390,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <div class="schedule-table-timecol" style="vertical-align: 10px;">17:30</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="/challenge/assets/images/speakers/rowan_mcallister.png" alt="Rowan McAllister">
+<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/rowan_mcallister.png" alt="Rowan McAllister">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Rowan McAllister</p>
@@ -405,7 +405,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <div class="schedule-table-timecol" style="vertical-align: 10px;">18:00</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="/challenge/assets/images/speakers/david_held.png" alt="David Held">
+<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/david_held.png" alt="David Held">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">David Held</p>
@@ -431,7 +431,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <a href="https://arrival.com/us/en" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/speakers/max_kumskoy.png" alt="Max Kumskoy">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/max_kumskoy.png" alt="Max Kumskoy">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Max Kumskoy</p>
@@ -443,7 +443,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <a href="https://www.amazon.science/author/sahika-genc" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/speakers/sahika_genc.png" alt="Sahika Genc">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/sahika_genc.png" alt="Sahika Genc">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Sahika Genc</p>
@@ -455,7 +455,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <a href="https://ece.princeton.edu/people/jaime-fernandez-fisac" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/speakers/jaime_fisac.png" alt="Jaime Fisac">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/jaime_fisac.png" alt="Jaime Fisac">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Jaime Fisac</p>
@@ -467,7 +467,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <a href="https://joebetz.science/" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/speakers/johannes_betz.png" alt="Johannes Betz">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/johannes_betz.png" alt="Johannes Betz">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Johannes Betz</p>
@@ -479,7 +479,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <a href="https://blogs.nvidia.com/blog/author/justynaz/" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/speakers/justyna_zander.png" alt="Justyna Zander">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/justyna_zander.png" alt="Justyna Zander">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Justyna Zander</p>
@@ -492,7 +492,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <a href="https://safeai-lab.github.io/" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/speakers/ding_zhao.png" alt="Ding Zhao">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/ding_zhao.png" alt="Ding Zhao">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Ding Zhao</p>
@@ -504,7 +504,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <a href="https://www.cs.cmu.edu/~cliu6/index.html" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/speakers/changliu_liu.png" alt="Changliu Liu">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/changliu_liu.png" alt="Changliu Liu">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Changliu Liu</p>
@@ -516,7 +516,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <a href="https://rowanmcallister.github.io/" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/speakers/rowan_mcallister.png" alt="Rowan McAllister">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/rowan_mcallister.png" alt="Rowan McAllister">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Rowan McAllister</p>
@@ -528,7 +528,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <a href="https://davheld.github.io/" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/speakers/david_held.png" alt="David Held">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/david_held.png" alt="David Held">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">David Held</p>
@@ -579,7 +579,7 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <a href="https://www.linkedin.com/in/jonmfrancis/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/jonathan_francis.png" alt="Jonathan Francis">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/jonathan_francis.png" alt="Jonathan Francis">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Jonathan Francis</p>
@@ -592,7 +592,7 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <a href="https://xinshuoweng.com/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/xinshuo_weng.png" alt="Xinshuo Weng">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/xinshuo_weng.png" alt="Xinshuo Weng">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Xinshuo Weng</p>
@@ -605,7 +605,7 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <a href="https://www.linkedin.com/in/hitesharora11" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/hitesh_arora.png" alt="Hitesh Arora">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/hitesh_arora.png" alt="Hitesh Arora">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Hitesh Arora</p>
@@ -618,7 +618,7 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <a href="https://www.linkedin.com/in/sidgan/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/siddha_ganju.png" alt="Siddha Ganju">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/siddha_ganju.png" alt="Siddha Ganju">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Siddha Ganju</p>
@@ -631,7 +631,7 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <a href="https://www.linkedin.com/in/bingqing-chen-631b754a/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/bingqing_chen.png" alt="Bingqing Chen">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/bingqing_chen.png" alt="Bingqing Chen">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Bingqing Chen</p>
@@ -644,7 +644,7 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <a href="https://danielomeiza.github.io/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/daniel_omeiza.png" alt="Daniel Omeiza">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/daniel_omeiza.png" alt="Daniel Omeiza">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Daniel Omeiza</p>
@@ -657,7 +657,7 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <a href="https://www.cs.cmu.edu/~./jeanoh/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/jean_oh.png" alt="Jean Oh">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/jean_oh.png" alt="Jean Oh">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Jean Oh</p>
@@ -670,7 +670,7 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <a href="https://www.cs.cmu.edu/~ehn/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/eric_nyberg.png" alt="Eric Nyberg">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/eric_nyberg.png" alt="Eric Nyberg">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Eric Nyberg</p>
@@ -683,7 +683,7 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <a href="https://sylviaherbert.com" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/sylvia_herbert.png" alt="Sylvia Herbert">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/sylvia_herbert.png" alt="Sylvia Herbert">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Sylvia Herbert</p>
@@ -765,36 +765,36 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 
 ## Sponsors
 
-<img src="/challenge/assets/images/sponsors/sponsor_banner.png">
+<img src="{{ site.baseurl }}/assets/images/sponsors/sponsor_banner.png">
 
 <!--
 <div class="col-lg-12 col-xl-6">
             <div class="logos-organizers">
               <div class="logo-organizer">
-                <img class="img-fluid" src="/challenge/assets/images/sponsors/arrival_logo.png">
+                <img class="img-fluid" src="{{ site.baseurl }}/assets/images/sponsors/arrival_logo.png">
               </div>
               <div class="logo-organizer">
-                <img class="img-fluid" src="/challenge/assets/images/sponsors/cmu_logo.png">
+                <img class="img-fluid" src="{{ site.baseurl }}/assets/images/sponsors/cmu_logo.png">
               </div>
               <div class="logo-organizer">
-                <img class="img-fluid" src="/challenge/assets/images/sponsors/aicrowd_logo.png">
+                <img class="img-fluid" src="{{ site.baseurl }}/assets/images/sponsors/aicrowd_logo.png">
               </div>
               <div class="logo-organizer">
-                <img class="img-fluid" src="/challenge/assets/images/sponsors/aws_logo.png">
+                <img class="img-fluid" src="{{ site.baseurl }}/assets/images/sponsors/aws_logo.png">
               </div>
               <div class="logo-organizer">
-                <img class="img-fluid" src="/challenge/assets/images/sponsors/bosch_logo.png">
+                <img class="img-fluid" src="{{ site.baseurl }}/assets/images/sponsors/bosch_logo.png">
               </div>
             </div>
           </div>
 -->
 <!--
 <div style="width:900px; display:inline-block;">
-<img style="height:100px; width:186px;" src="/challenge/assets/images/sponsors/arrival_logo.png">
-<img style="height:100px; width:157px;" src="/challenge/assets/images/sponsors/cmu_logo.png">
-<img style="height:100px; width:100px;" src="/challenge/assets/images/sponsors/aicrowd_logo.png">
-<img style="height:100px; width:98px;" src="/challenge/assets/images/sponsors/aws_logo.png">
-<img style="height:100px; width:272px;" src="/challenge/assets/images/sponsors/bosch_logo.png">
-<img style="height:100px; width:354px;" src="/challenge/assets/images/sponsors/honda_logo.png">
+<img style="height:100px; width:186px;" src="{{ site.baseurl }}/assets/images/sponsors/arrival_logo.png">
+<img style="height:100px; width:157px;" src="{{ site.baseurl }}/assets/images/sponsors/cmu_logo.png">
+<img style="height:100px; width:100px;" src="{{ site.baseurl }}/assets/images/sponsors/aicrowd_logo.png">
+<img style="height:100px; width:98px;" src="{{ site.baseurl }}/assets/images/sponsors/aws_logo.png">
+<img style="height:100px; width:272px;" src="{{ site.baseurl }}/assets/images/sponsors/bosch_logo.png">
+<img style="height:100px; width:354px;" src="{{ site.baseurl }}/assets/images/sponsors/honda_logo.png">
 </div>
 -->
