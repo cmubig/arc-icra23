@@ -402,22 +402,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 </div>
 
 <div class="schedule-table-row-odd">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">18:00</div>
-<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/david_held.png" alt="David Held">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">David Held</p>
-<p style="margin:0 0 0 10px; font-size:10px;">CMU</p>
-</div>
-</div>
-</div>
-<div class="schedule-table-contentcol">Talk title TBD</div>
-</div>
-
-<div class="schedule-table-row-even">
-<div class="schedule-table-timecol">18:30</div>
+<div class="schedule-table-timecol">18:00</div>
 <div class="schedule-table-eventcol">Conclusion</div>
 <div class="schedule-table-contentcol">Closing Remarks</div>
 </div>
