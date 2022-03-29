@@ -14,7 +14,7 @@ article_header:
   type: overlay
   theme: dark
   actions:
-    - true
+    - text: 22 July 2022 | Baltimore, Maryland, USA (Hybrid)
   background_image:
     gradient: 'linear-gradient(135deg, rgba(52, 140, 96, 0.4), rgba(136, 73, 107, 0.4))'
     src: /assets/images/l2r_banner2.png
@@ -82,14 +82,6 @@ article_header:
 
 .overlay__excerpt {
     margin: 20px 0 0 0;
-}
-
-ul.menu::after {
-    content:"23 July 2022 | Vienna, Austria (Hybrid)";
-}
-
-ul.menu a {
-    display: block;
 }
 
 .pc_list_item {
