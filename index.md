@@ -13,6 +13,7 @@ key: page-home
 article_header:
   type: overlay
   theme: dark
+  actions: true
   background_image:
     gradient: 'linear-gradient(135deg, rgba(52, 140, 96, 0.4), rgba(136, 73, 107, 0.4))'
     src: /assets/images/l2r_banner2.png
@@ -82,12 +83,12 @@ article_header:
     margin: 20px 0 0 0;
 }
 
-ul.menu li::after {
-    content:"6 December 2021 - 15 February 2022";
+ul.menu::after {
+    content:"23 July 2022 | Vienna, Austria (Hybrid)";
 }
 
 ul.menu a {
-    display: none;
+    display: block;
 }
 
 .pc_list_item {
