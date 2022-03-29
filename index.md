@@ -84,6 +84,14 @@ article_header:
     margin: 20px 0 0 0;
 }
 
+ul.menu li::after {
+    content:"23 July 2022 | Vienna, Austria (Hybrid)";
+}
+
+ul.menu a {
+    display: none;
+}
+
 .pc_list_item {
     display:inline-block;
     width:200px;
