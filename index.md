@@ -301,7 +301,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol">Talk title TBD</div>
+<div class="schedule-table-contentcol"><i>Game-Theoretic Autonomous Driving: the multiagent core of learning, interaction and safety</i></div>
 </div>
 
 <div class="schedule-table-row-even">
