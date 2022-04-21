@@ -323,18 +323,18 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 </div>
 
 <div class="schedule-table-row-odd">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">14:30</div>
+<div class="schedule-table-timecol" style="vertical-align: 10px;">17:00</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/johannes_betz.png" alt="Johannes Betz">
+<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/changliu_liu.png" alt="Changliu Liu">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Johannes Betz</p>
-<p style="margin:0 0 0 10px; font-size:10px;">UPenn</p>
+<p style="margin:0 0 0 10px;">Changliu Liu</p>
+<p style="margin:0 0 0 10px; font-size:10px;">CMU</p>
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol"><i>Learning to Handle Autonomous Vehicles at the Limit - Experiences from Roborace and the Indy Autonomous Challenge</i></div>
+<div class="schedule-table-contentcol"><i>Safe Learning, Prediction, and Coordination for Autonomous Driving</i></div>
 </div>
 
 <div class="schedule-table-row-even">
@@ -374,18 +374,18 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 </div>
 
 <div class="schedule-table-row-odd">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">17:00</div>
+<div class="schedule-table-timecol" style="vertical-align: 10px;">14:30</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/changliu_liu.png" alt="Changliu Liu">
+<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/johannes_betz.png" alt="Johannes Betz">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Changliu Liu</p>
-<p style="margin:0 0 0 10px; font-size:10px;">CMU</p>
+<p style="margin:0 0 0 10px;">Johannes Betz</p>
+<p style="margin:0 0 0 10px; font-size:10px;">UPenn</p>
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol"><i>Safe Learning, Prediction, and Coordination for Autonomous Driving</i></div>
+<div class="schedule-table-contentcol"><i>Learning to Handle Autonomous Vehicles at the Limit - Experiences from Roborace and the Indy Autonomous Challenge</i></div>
 </div>
 
 <div class="schedule-table-row-even">
