@@ -111,9 +111,9 @@ Additional notes:
 Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brussels, Vienna.</b>
 
 <div>
-Submissions open: 3 March 2022<br>
-Challenge participation deadline: 6 May 2022<br>
-Submissions due: <p style="display:inline; text-decoration:line-through;">13 May 2022</p><p style="display:inline; color:red;">&nbsp;20 May 2022</p><br>
+Paper submissions open: 3 March 2022<br>
+Challenge participation deadline (to be featured in the Challenge segment of the workshop): 6 May 2022<br>
+Paper submissions due: <p style="display:inline; text-decoration:line-through;">13 May 2022</p><p style="display:inline; color:red;">&nbsp;20 May 2022</p><br>
 Notification: 3 June 2022<br>
 Camera Ready + Video upload: 17 June 2022<br>
 Workshop Date: 23 July 2022
