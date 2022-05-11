@@ -209,12 +209,12 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 
 ### Paper Submission
 
-> <b>Submissions open:</b> 3 March 2022<br>
-> <b>Submissions due:</b> 13 May 2022<br>
-> <b>Reviewing starts:</b> 14 May 2022<br>
-> <b>Reviewing ends:</b> 30 May 2022<br>
-> <b>Notification:</b> 3 June 2022<br>
-> <b>Camera Ready</b> + Video upload: 17 June 2022
+<b>Submissions open:</b> 3 March 2022<br>
+<b>Submissions due:</b> <p style="text-decoration: line-through;">13 May 2022</p><br>
+<b>Reviewing starts:</b> 14 May 2022<br>
+<b>Reviewing ends:</b> 30 May 2022<br>
+<b>Notification:</b> 3 June 2022<br>
+<b>Camera Ready</b> + Video upload: 17 June 2022
 
 <!--
 ### Challenge Participation
