@@ -211,9 +211,7 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 
 <div>
 <b>Submissions open:</b> 3 March 2022<br>
-<b>Submissions due:</b> <p style="display:inline; text-decoration:line-through;">13 May 2022</p><p style="display:inline; color:red;">20 May 2022</p><br>
-<b>Reviewing starts:</b> 14 May 2022<br>
-<b>Reviewing ends:</b> 30 May 2022<br>
+<b>Submissions due:</b> <p style="display:inline; text-decoration:line-through;">13 May 2022</p><p style="display:inline; color:red;">&nbsp;20 May 2022</p><br>
 <b>Notification:</b> 3 June 2022<br>
 <b>Camera Ready</b> + Video upload: 17 June 2022
 </div>
