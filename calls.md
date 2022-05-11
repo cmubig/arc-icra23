@@ -121,7 +121,7 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 <!--- Challenge entry submission deadline (to be featured at the Workshop): 15 February 2022, 12:00 UTC
 - Challenge winners notification (private): 21 February 2022-->
 - Challenge participation deadline (to be featured at the workshop): 6 May 2022
-- Paper submission: <p style="text-decoration: line-through;">13 May 2022</p>
+- Paper submission: 13 May 2022
 - Reviewing starts: 14 May 2022
 - Reviewing ends: 30 May 2022
 - Notification of paper acceptance: 3 June 2022
