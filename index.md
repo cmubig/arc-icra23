@@ -216,18 +216,9 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 <b>Camera Ready</b> + Video upload: 17 June 2022
 </div>
 
-<!--
-### Challenge Participation
-
-> <b>Open:</b> TBD<br>
-> <b>Close:</b> TBD<br>
-> <b>Winners notification:</b> TBD<br>
-> <b>Close:</b> 15 February 2022 at 23:59 UTC: <b><span id="countdown"></span></b><br>
-> <b>Winners notification:</b> 21 February 2022-->
-
 ### Workshop
 
-> <b>Event:</b> 23 July 2022
+<b>Event:</b> 23 July 2022
 
 ## Schedule
 
