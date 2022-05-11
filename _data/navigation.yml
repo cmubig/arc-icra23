@@ -78,16 +78,6 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       Calls
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      # @end locale config
-    url: /calls.html
-
-  - titles:
-      # @start locale config
       en      : &EN       Organisers
       en-GB   : *EN
       en-US   : *EN
@@ -95,6 +85,16 @@ header:
       en-AU   : *EN
       # @end locale config
     url: /index.html#organisers
+
+  - titles:
+      # @start locale config
+      en      : &EN       Calls
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url: /calls.html
 #
 #  - titles:
 #      # @start locale config
