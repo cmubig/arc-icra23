@@ -106,15 +106,15 @@ Additional notes:
 - Eric Nyberg; CMU
 - Sylvia L. Herbert; UCSD
 
-## Important Dates (all tracks)
+## Important Dates
 
 Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brussels, Vienna.</b>
 
 <div>
-<b>Submissions open:</b> 3 March 2022<br>
-<b>Challenge participation deadline:</b> 6 May 2022<br>
-<b>Submissions due:</b> <p style="display:inline; text-decoration:line-through;">13 May 2022</p><p style="display:inline; color:red;">&nbsp;20 May 2022</p><br>
-<b>Notification:</b> 3 June 2022<br>
-<b>Camera Ready</b> + Video upload: 17 June 2022
-<b>Workshop Date:</b> 23 July 2022
+Submissions open: 3 March 2022<br>
+Challenge participation deadline: 6 May 2022<br>
+Submissions due: <p style="display:inline; text-decoration:line-through;">13 May 2022</p><p style="display:inline; color:red;">&nbsp;20 May 2022</p><br>
+Notification: 3 June 2022<br>
+Camera Ready + Video upload: 17 June 2022<br>
+Workshop Date: 23 July 2022
 </div>
