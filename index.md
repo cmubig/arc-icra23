@@ -668,7 +668,7 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <ul>
 <li>Shravya Bhat</li>
 <li>Wenhao Ding</li>
-<li>Menanja Djuric</li>
+<li>Nemanja Djuric</li>
 <li>Xiangyu Gao</li>
 <li>Shivam Goel</li>
 <li>Soonmin Hwang</li>
