@@ -701,7 +701,7 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <li>João Semedo</li>
 <li>Jayant Tamarapalli</li>
 <li>Gyan Tatiya</li>
-<li>Yujie Wei</li>
+<li>Yujie Wei (+<b>ER</b>)</li>
 <li><a href="https://github.com/weirayao" target="_blank">Weiran Yao</a></li>
 <li><a href="https://xyaoab.github.io/" target="_blank">Xinjie Yao</a></li>
 <li>Sahiti Yerramilli</li>
