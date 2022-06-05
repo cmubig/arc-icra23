@@ -690,7 +690,7 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <li><a href="https://navars.xyz/" target="_blank">Ingrid Navarro</a> (+<b>TR</b>)</li>
 <li>Aarati Noronha</li>
 <li>Alessandro Oltramari (+<b>TR</b>)</li>
-<li>Karthik Paga (+<b>ER</b>, +<b>TR</b>)</li>
+<li>Karthik Paga (<b>ER</b>, +<b>TR</b>)</li>
 <li>Ehsan Qasemi (+<b>TR</b>)</li>
 </ul>
 </div>
