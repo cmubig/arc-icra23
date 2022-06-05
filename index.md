@@ -679,26 +679,27 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <li>Sidharth Kathpal</li>
 <li>Anirudh Koul</li>
 <li>Tanmay Kulkarni</li>
+<li>Jingyuan Li</li>
 </ul>
 </div>
 
 <!-- column 2 -->
 <div class="pc-column" style="margin:0 30px 0 0;">
 <ul>
-<li>Jingyuan Li</li>
 <li>Raghuram Annasamy (+<b>ER</b>, +<b>TR</b>)</li>
 <li><a href="https://navars.xyz/" target="_blank">Ingrid Navarro</a> (+<b>TR</b>)</li>
 <li>Aarati Noronha</li>
 <li>Alessandro Oltramari (+<b>TR</b>)</li>
 <li>Karthik Paga (<b>ER</b>, +<b>TR</b>)</li>
 <li>Ehsan Qasemi (+<b>TR</b>)</li>
+<li>João Semedo</li>
 </ul>
 </div>
 
 <!-- column 3 -->
 <div class="pc-column">
 <ul>
-<li>João Semedo</li>
+<li>Yash Shukla</li>
 <li>Jayant Tamarapalli</li>
 <li>Gyan Tatiya</li>
 <li>Yujie Wei (+<b>ER</b>)</li>
