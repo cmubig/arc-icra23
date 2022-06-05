@@ -61,12 +61,6 @@ article_header:
     padding:10px;
 }
 
-.pc-column {
-    width:250px;
-    display:inline-block;
-    vertical-align: top;
-}
-
 .article__header--overlay .overlay {
     min-height: 36rem;
     padding-top: 5rem;
@@ -96,6 +90,12 @@ ul.menu li::after {
 
 ul.menu a {
     display: none;
+}
+
+.pc-column {
+    width:270px;
+    display:inline-block;
+    vertical-align: top;
 }
 
 .pc_list_item {
