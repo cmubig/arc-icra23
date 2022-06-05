@@ -686,12 +686,12 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <!-- column 2 -->
 <div class="pc-column" style="margin:0 30px 0 0;">
 <ul>
-<li>Raghuram Annasamy (+<b>ER</b>, +<b>TR</b>)</li>
+<li>Raghuram Annasamy (+<b>ER</b>, <b>TR</b>)</li>
 <li><a href="https://navars.xyz/" target="_blank">Ingrid Navarro</a> (+<b>TR</b>)</li>
 <li>Aarati Noronha</li>
-<li>Alessandro Oltramari (+<b>TR</b>)</li>
-<li>Karthik Paga (<b>ER</b>, +<b>TR</b>)</li>
-<li>Ehsan Qasemi (+<b>TR</b>)</li>
+<li>Alessandro Oltramari (<b>TR</b>)</li>
+<li>Karthik Paga (<b>ER</b>, <b>TR</b>)</li>
+<li>Ehsan Qasemi (<b>TR</b>)</li>
 <li>João Semedo</li>
 </ul>
 </div>
