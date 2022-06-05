@@ -563,7 +563,7 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Xinshuo Weng</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">PhD candidate at CMU, Research Scientist at NVIDIA; focusing on 3D computer vision and generative models for autonomous systems</p>
+<p style="margin:0 0 0 10px; font-size:10px;">PhD candidate at CMU, Research Scientist at NVIDIA Research; focusing on 3D computer vision and generative models for autonomous systems</p>
 </div>
 </div>
 </a>
@@ -666,49 +666,45 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <!-- column 1 -->
 <div style="width:201px; display:inline-block;">
 <ul>
-<li>Shravya Bhat</li>
 <li>Wenhao Ding</li>
-<li>Nemanja Djuric</li>
+<li>Nemanja Djuric (+ER)</li>
 <li>Xiangyu Gao</li>
 <li>Shivam Goel</li>
-<li>Soonmin Hwang</li>
-<li>Jennifer Isaza</li>
+<li>Sidharth Kathpal</li>
+<li>Anirudh Koul</li>
 </ul>
 </div>
 
 <!-- column 2 -->
 <div style="width:201px; display:inline-block; vertical-align: top;">
 <ul>
-<li>Sidharth Kathpal</li>
-<li>Anirudh Koul</li>
 <li>Tanmay Kulkarni</li>
 <li>Jingyuan Li</li>
-<li>Raghuram Annasamy</li>
+<li>Raghuram Annasamy (+ER, +TR)</li>
 <li><a href="https://navars.xyz/" target="_blank">Ingrid Navarro</a></li>
+<li>Aarati Noronha</li>
+<li>Alessandro Oltramari</li>
 </ul>
 </div>
 
 <!-- column 3 -->
 <div style="width:201px; display:inline-block; vertical-align: top;">
 <ul>
-<li>Aarati Noronha</li>
-<li>Alessandro Oltramari</li>
-<li>Ehsan Qasemi</li>
+<li>Karthik Paga (+ER, +TR)</li>
+<li>Ehsan Qasemi (+TR)</li>
 <li>João Semedo</li>
-<li>Aditya Sharma</li>
 <li>Jayant Tamarapalli</li>
+<li>Gyan Tatiya</li>
+<li>Yujie Wei</li>
+<li><a href="https://github.com/weirayao" target="_blank">Weiran Yao</a></li>
 </ul>
 </div>
 
 <!-- column 4 -->
 <div style="width:201px; display:inline-block; vertical-align: top;">
 <ul>
-<li>Gyan Tatiya</li>
-<li>Yujie Wei</li>
-<li><a href="https://github.com/weirayao" target="_blank">Weiran Yao</a></li>
 <li><a href="https://xyaoab.github.io/" target="_blank">Xinjie Yao</a></li>
 <li>Sahiti Yerramilli</li>
-<li>Ivan Zhukov</li>
 </ul>
 </div>
 
