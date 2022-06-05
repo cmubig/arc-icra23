@@ -689,8 +689,8 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <li>Raghuram Annasamy (+<b>ER</b>, +<b>TR</b>)</li>
 <li><a href="https://navars.xyz/" target="_blank">Ingrid Navarro</a> (+<b>TR</b>)</li>
 <li>Aarati Noronha</li>
-<li>Alessandro Oltramari</li>
-<li>Karthik Paga (+<b>ER</b>, +TR)</li>
+<li>Alessandro Oltramari (+<b>TR</b)></li>
+<li>Karthik Paga (+<b>ER</b>, +<b>TR</b>)</li>
 <li>Ehsan Qasemi (+<b>TR</b>)</li>
 </ul>
 </div>
@@ -714,7 +714,8 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 </ul>
 </div-->
 
-
+<b>ER</b> — PC member served additionally as an Emergency Reviewer.<br>
+<b>TR</b> — According to Chair ratings, PC member ranked in the top 16% of reviewers.<br>
 
 ---
 
