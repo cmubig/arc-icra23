@@ -716,8 +716,8 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 
 ---
 
-<b>ER</b> — PC member served additionally as an Emergency Reviewer.<br>
-<b>TR</b> — According to Chair ratings, PC member ranked in the top 16% of reviewers.<br>
+<b>ER</b> — <i>PC member served additionally as an Emergency Reviewer.</i><br>
+<b>TR</b> — <i>According to Chair ratings, PC member ranked in the top 16% of reviewers.</i><br>
 
 ## Sponsors
 
