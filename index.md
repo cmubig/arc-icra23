@@ -683,7 +683,7 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 </div>
 
 <!-- column 2 -->
-<div class="pc-column" style="padding:0 30px 0 0;">
+<div class="pc-column" style="margin:0 30px 0 0;">
 <ul>
 <li>Jingyuan Li</li>
 <li>Raghuram Annasamy (+<b>ER</b>, +<b>TR</b>)</li>
@@ -717,7 +717,7 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 ---
 
 <b>ER</b> — <i>PC member served additionally as an Emergency Reviewer.</i><br>
-<b>TR</b> — <i>According to Chair ratings, PC member ranked in the top 16% of reviewers.</i><br>
+<b>TR</b> — <i>According to Chair ratings, PC member ranked in the top 16% of reviewers.</i>
 
 ## Sponsors
 
