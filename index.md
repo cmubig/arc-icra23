@@ -673,8 +673,8 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <div class="pc-column">
 <ul>
 <li>Wenhao Ding</li>
-<li>Nemanja Djuric (+<b>ER</b>)</li>
-<li>Xiangyu Gao</li>
+<li>Nemanja Djuric</li>
+<li>Xiangyu Gao (+<b>ER</b>)</li>
 <li>Shivam Goel</li>
 <li>Sidharth Kathpal</li>
 <li>Anirudh Koul</li>
@@ -717,7 +717,7 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 ---
 
 <b>ER</b> — <i>PC member served additionally as an Emergency Reviewer.</i><br>
-<b>TR</b> — <i>According to Chair ratings, PC member ranked in the top 16% of reviewers.</i>
+<b>TR</b> — <i>According to Chair ratings, PC member ranked in the Top 16% of Reviewers.</i>
 
 ## Sponsors
 
