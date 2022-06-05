@@ -61,6 +61,12 @@ article_header:
     padding:10px;
 }
 
+.pc-column {
+    width:201px;
+    display:inline-block;
+    vertical-align: top;
+}
+
 .article__header--overlay .overlay {
     min-height: 36rem;
     padding-top: 5rem;
@@ -664,49 +670,51 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 ## Program Committee
 
 <!-- column 1 -->
-<div style="width:201px; display:inline-block;">
+<div class="pc-column">
 <ul>
 <li>Wenhao Ding</li>
-<li>Nemanja Djuric (+ER)</li>
+<li>Nemanja Djuric (+<b>ER</b>)</li>
 <li>Xiangyu Gao</li>
 <li>Shivam Goel</li>
 <li>Sidharth Kathpal</li>
 <li>Anirudh Koul</li>
+<li>Tanmay Kulkarni</li>
 </ul>
 </div>
 
 <!-- column 2 -->
-<div style="width:201px; display:inline-block; vertical-align: top;">
+<div class="pc-column">
 <ul>
-<li>Tanmay Kulkarni</li>
 <li>Jingyuan Li</li>
-<li>Raghuram Annasamy (+ER, +TR)</li>
-<li><a href="https://navars.xyz/" target="_blank">Ingrid Navarro</a></li>
+<li>Raghuram Annasamy (+<b>ER</b>, +<b>TR</b>)</li>
+<li><a href="https://navars.xyz/" target="_blank">Ingrid Navarro</a> (+<b>TR</b>)</li>
 <li>Aarati Noronha</li>
 <li>Alessandro Oltramari</li>
+<li>Karthik Paga (+<b>ER</b>, +TR)</li>
+<li>Ehsan Qasemi (+<b>TR</b>)</li>
 </ul>
 </div>
 
 <!-- column 3 -->
-<div style="width:201px; display:inline-block; vertical-align: top;">
+<div class="pc-column">
 <ul>
-<li>Karthik Paga (+ER, +TR)</li>
-<li>Ehsan Qasemi (+TR)</li>
 <li>João Semedo</li>
 <li>Jayant Tamarapalli</li>
 <li>Gyan Tatiya</li>
 <li>Yujie Wei</li>
 <li><a href="https://github.com/weirayao" target="_blank">Weiran Yao</a></li>
-</ul>
-</div>
-
-<!-- column 4 -->
-<div style="width:201px; display:inline-block; vertical-align: top;">
-<ul>
 <li><a href="https://xyaoab.github.io/" target="_blank">Xinjie Yao</a></li>
 <li>Sahiti Yerramilli</li>
 </ul>
 </div>
+
+<!-- column 4 >
+<div style="width:201px; display:inline-block; vertical-align: top;">
+<ul>
+</ul>
+</div-->
+
+
 
 ---
 
