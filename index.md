@@ -677,7 +677,6 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <li>Xiangyu Gao (+<b>ER</b>)</li>
 <li>Shivam Goel</li>
 <li>Sidharth Kathpal</li>
-<li>Anirudh Koul</li>
 <li>Tanmay Kulkarni</li>
 <li>Jingyuan Li</li>
 </ul>
