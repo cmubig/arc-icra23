@@ -223,18 +223,20 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 <b>Oral/Poster video upload</b>: 1 July 2022
 </div>
 
-### Workshop Event (IJCAI-ECAI 2022, Workshop #48)
+### Workshop Event
+
+IJCAI-ECAI 2022, Workshop #48<br>
 
 <b>Date:</b> 23 July 2022<br>
-<b>Location:</b> "Strauss1" room of the <b>Messe Wien Exhibition and Congress Center</b><br><br>
+<b>Location:</b> "Strauss1" room of the <i>Messe Wien Exhibition and Congress Center</i><br>
 
-<b>Messe Wien</b><br>
-Hall B, entrance Congress Center<br>
-Messeplatz 1<br>
-A-1020 Vienna<br>
-Metro stop U2 "Messe Prater"<br><br>
+> <b>Messe Wien</b><br>
+> Hall B, entrance Congress Center<br>
+> Messeplatz 1<br>
+> A-1020 Vienna<br>
+> Metro stop U2 "Messe Prater"<br><br>
 
-Additional venue information: https://ijcai-22.org/venue/
+Additional venue information: <a href="https://ijcai-22.org/venue/" target="_blank">https://ijcai-22.org/venue/</a>
 
 ## Schedule
 
