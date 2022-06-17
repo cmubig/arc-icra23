@@ -211,7 +211,7 @@ How to attend:
 
 ## Dates
 
-### Paper Submission
+### Paper + Presentation Deadlines
 
 Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brussels, Vienna</b>.
 
@@ -225,16 +225,16 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 
 ### Workshop Event
 
-IJCAI-ECAI 2022, Workshop #48<br>
+IJCAI-ECAI 2022 Workshop #48<br>
 
 <b>Date:</b> 23 July 2022<br>
-<b>Location:</b> "Strauss1" room of the <i>Messe Wien Exhibition and Congress Center</i><br>
+<b>Location:</b> "Strauss1" room of the <i>Messe Wien Exhibition and Congress Center</i> in Vienna, Austria.<br>
 
 > <b>Messe Wien</b><br>
 > Hall B, entrance Congress Center<br>
 > Messeplatz 1<br>
 > A-1020 Vienna<br>
-> Metro stop U2 "Messe Prater"<br><br>
+> Metro stop U2 "Messe Prater"
 
 Additional venue information: <a href="https://ijcai-22.org/venue/" target="_blank">https://ijcai-22.org/venue/</a>
 
