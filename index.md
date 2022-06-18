@@ -236,7 +236,7 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 
 Additional venue information: <a href="https://ijcai-22.org/venue/" target="_blank">https://ijcai-22.org/venue/</a>
 
-## Schedule
+## Workshop Schedule
 
 Saturday, 23 July, 2022. All times are in Central European Time (CET). Current time is <span id="cet"></span>.
 
@@ -318,19 +318,19 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 </div>
 
 <div class="schedule-table-row-odd">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">13:30</div>
+<div class="schedule-table-timecol" style="vertical-align: 10px;">13:00</div>
 <div class="schedule-table-eventcol">Autonomous Racing Virtual Challenge: Contributed Talks</div>
 <!--div class="schedule-table-contentcol">Content</div-->
 </div>
 
 <div class="schedule-table-row-even">
-<div class="schedule-table-timecol">14:00</div>
+<div class="schedule-table-timecol">13:30</div>
 <div class="schedule-table-eventcol">Spotlight Talks</div>
 <!--div class="schedule-table-contentcol">Content</div-->
 </div>
 
 <div class="schedule-table-row-odd">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">14:30</div>
+<div class="schedule-table-timecol" style="vertical-align: 10px;">14:00</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
 <img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/changliu_liu.png" alt="Changliu Liu">
@@ -345,7 +345,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 </div>
 
 <div class="schedule-table-row-even">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">15:00</div>
+<div class="schedule-table-timecol" style="vertical-align: 10px;">14:30</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
 <img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/justyna_zander.png" alt="Justyna Zander">
@@ -360,7 +360,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 </div>
 
 <div class="schedule-table-row-odd">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">15:30</div>
+<div class="schedule-table-timecol" style="vertical-align: 10px;">15:00</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
 <img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/ding_zhao.png" alt="Ding Zhao">
@@ -375,13 +375,13 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 </div>
 
 <div class="schedule-table-row-even">
-<div class="schedule-table-timecol">16:00</div>
+<div class="schedule-table-timecol">15:30</div>
 <div class="schedule-table-eventcol">Break, Social, and Posters</div>
 <!--div class="schedule-table-contentcol">Content</div-->
 </div>
 
 <div class="schedule-table-row-odd">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">17:00</div>
+<div class="schedule-table-timecol" style="vertical-align: 10px;">16:30</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
 <img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/johannes_betz.png" alt="Johannes Betz">
@@ -396,7 +396,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 </div>
 
 <div class="schedule-table-row-even">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">17:30</div>
+<div class="schedule-table-timecol" style="vertical-align: 10px;">17:00</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
 <img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/rowan_mcallister.png" alt="Rowan McAllister">
@@ -411,7 +411,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 </div>
 
 <div class="schedule-table-row-odd">
-<div class="schedule-table-timecol">18:00</div>
+<div class="schedule-table-timecol">17:30</div>
 <div class="schedule-table-eventcol">Conclusion</div>
 <div class="schedule-table-contentcol">Closing Remarks</div>
 </div>
