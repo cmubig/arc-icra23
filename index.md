@@ -287,7 +287,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 
 <div class="schedule-table-row-odd">
 <div class="schedule-table-timecol">10:00</div>
-<div class="schedule-table-eventcol">Poster Session + Gathertown</div>
+<div class="schedule-table-eventcol">Social + Poster Session</div>
 <!--div class="schedule-table-contentcol">Content</div-->
 </div>
 
@@ -309,7 +309,22 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol">Robust Collaborative Perception against Communication Interruption</div>
+<div class="schedule-table-contentcol"><i>#9: Robust Collaborative Perception against Communication Interruption</i></div>
+</div>
+
+<div class="schedule-table-row-even">
+<div class="schedule-table-timecol" style="vertical-align: 10px;">&nbsp;</div>
+<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:60px;">
+&nbsp;
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Balint Gyevnar</p>
+<p style="margin:0 0 0 10px; font-size:10px;">U Edinburgh</p>
+</div>
+</div>
+</div>
+<div class="schedule-table-contentcol"><i>#16: A Human-Centric Method for Generating Causal Explanations in Natural Language for Autonomous Vehicle Motion Planning</i></div>
 </div>
 
 <div class="schedule-table-row-odd">
@@ -330,7 +345,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 
 <div class="schedule-table-row-even">
 <div class="schedule-table-timecol">12:00</div>
-<div class="schedule-table-eventcol">Lunch + Social</div>
+<div class="schedule-table-eventcol">Lunch Break</div>
 <!--div class="schedule-table-contentcol">Content</div-->
 </div>
 
@@ -393,7 +408,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 
 <div class="schedule-table-row-even">
 <div class="schedule-table-timecol">15:30</div>
-<div class="schedule-table-eventcol">Break, Social, and Posters</div>
+<div class="schedule-table-eventcol">Social + Posters</div>
 <!--div class="schedule-table-contentcol">Content</div-->
 </div>
 
