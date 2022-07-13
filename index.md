@@ -220,22 +220,22 @@ We envision this workshop bringing together researchers and industry practitione
 </div>
 <div style="width:400px; display:inline;">
 <ul>
-</li>Robustness to out-of-distribution road scenes</li>
-</li>Uncertainty propagation through autonomous driving pipelines</li>
-</li>Planning and control for autonomous driving</li>
-</li>Cooperative and competitive multi-agent systems</li>
-</li>Visual grounding and its application to autonomous driving</li>
-</li>Vision-language navigation for autonomous driving</li>
-</li>Audio-visual navigation for autonomous driving</li>
-</li>Neuro-symbolic approaches in autonomous driving</li>
-</li>Knowledge representation and reasoning for autonomous driving</li>
-</li>Auditory perception (detection, tracking, segmentation, motion estimation, etc)</li>
-</li>Brain-inspired autonomous control systems</li>
-</li>Human factors in autonomous driving</li>
-</li>AI ethics in autonomous driving</li>
-</li>Autonomous driving datasets, simulation, evaluations, and metrics</li>
-</li>Connected autonomous driving, vehicle-to-vehicle, vehicle-to-infrastructure communication, digital twins</li>
-</li>Autonomous driving for traffic management and emission reduction; intelligent transportation systems</li>
+<li>Robustness to out-of-distribution road scenes</li>
+<li>Uncertainty propagation through autonomous driving pipelines</li>
+<li>Planning and control for autonomous driving</li>
+<li>Cooperative and competitive multi-agent systems</li>
+<li>Visual grounding and its application to autonomous driving</li>
+<li>Vision-language navigation for autonomous driving</li>
+<li>Audio-visual navigation for autonomous driving</li>
+<li>Neuro-symbolic approaches in autonomous driving</li>
+<li>Knowledge representation and reasoning for autonomous driving</li>
+<li>Auditory perception (detection, tracking, segmentation, motion estimation, etc)</li>
+<li>Brain-inspired autonomous control systems</li>
+<li>Human factors in autonomous driving</li>
+<li>AI ethics in autonomous driving</li>
+<li>Autonomous driving datasets, simulation, evaluations, and metrics</li>
+<li>Connected autonomous driving, vehicle-to-vehicle, vehicle-to-infrastructure communication, digital twins</li>
+<li>Autonomous driving for traffic management and emission reduction; intelligent transportation systems</li>
 </ul>
 </div>
 </div>
