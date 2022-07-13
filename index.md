@@ -237,8 +237,6 @@ We envision this workshop bringing together researchers and industry practitione
 </div>
 </div>
 
-... And more!
-
 ## Dates
 
 ### Paper + Presentation Deadlines
