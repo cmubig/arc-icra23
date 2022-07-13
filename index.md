@@ -46,6 +46,7 @@ article_header:
     inline-size: 250px;
     font-size:14px;
     line-height: normal;
+    margin:0 0 0 40px;
 }
 
 .schedule-table-row-even {
