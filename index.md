@@ -303,8 +303,8 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <div style="display:inline-block; width:60px;">
 &nbsp;
 </div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Shunli Ren</p>
+<div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 40px">
+<p style="margin:0 0 0 10px; ">Shunli Ren</p>
 <p style="margin:0 0 0 10px; font-size:10px;">SJTU</p>
 </div>
 </div>
@@ -318,7 +318,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <div style="display:inline-block; width:60px;">
 &nbsp;
 </div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
+<div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 40px">
 <p style="margin:0 0 0 10px;">Balint Gyevnar</p>
 <p style="margin:0 0 0 10px; font-size:10px;">U Edinburgh</p>
 </div>
@@ -361,7 +361,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <div style="display:inline-block; width:60px;">
 &nbsp;
 </div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
+<div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 40px">
 <p style="margin:0 0 0 10px;">Matthew R Howe</p>
 <p style="margin:0 0 0 10px; font-size:10px;">U Adelaide</p>
 </div>
@@ -376,7 +376,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <div style="display:inline-block; width:60px;">
 &nbsp;
 </div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
+<div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 40px">
 <p style="margin:0 0 0 10px;">Lachlan Mares</p>
 <p style="margin:0 0 0 10px; font-size:10px;">U Adelaide</p>
 </div>
@@ -397,7 +397,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <div style="display:inline-block; width:60px;">
 &nbsp;
 </div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
+<div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 40px">
 <p style="margin:0 0 0 10px;">Eleonora Giunchiglia</p>
 <p style="margin:0 0 0 10px; font-size:10px;">Oxford</p>
 </div>
@@ -412,7 +412,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <div style="display:inline-block; width:60px;">
 &nbsp;
 </div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
+<div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 40px">
 <p style="margin:0 0 0 10px;">Soumith Udatha</p>
 <p style="margin:0 0 0 10px; font-size:10px;">CMU</p>
 </div>
