@@ -288,7 +288,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <div class="schedule-table-row-odd">
 <div class="schedule-table-timecol">10:00</div>
 <div class="schedule-table-eventcol">Social + Poster Session</div>
-<!--div class="schedule-table-contentcol">Content</div-->
+<div class="schedule-table-contentcol">Paper IDs: 1, 4, 5, 6, 7, 12, 13, 14, 17</div>
 </div>
 
 <div class="schedule-table-row-even">
@@ -439,7 +439,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <div class="schedule-table-row-even">
 <div class="schedule-table-timecol">15:30</div>
 <div class="schedule-table-eventcol">Social + Posters</div>
-<!--div class="schedule-table-contentcol">Content</div-->
+<div class="schedule-table-contentcol">Paper IDs: 1, 4, 5, 6, 7, 12, 13, 14, 17</div>
 </div>
 
 <div class="schedule-table-row-odd">
