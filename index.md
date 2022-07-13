@@ -398,7 +398,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 &nbsp;
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 40px">
-<p style="margin:0 0 0 10px;">Eleonora Giunchiglia</p>
+<p style="margin:0 0 0 10px;">Mihaela Catalina Stoian</p>
 <p style="margin:0 0 0 10px; font-size:10px;">Oxford</p>
 </div>
 </div>
