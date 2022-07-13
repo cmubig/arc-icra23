@@ -226,7 +226,7 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 ### Workshop Event (IJCAI-ECAI 2022 Workshop #48)
 
 <b>Date:</b> 23 July 2022<br>
-<b>Location:</b> "Strauss1" room of the <i>Messe Wien Exhibition and Congress Center</i> in Vienna, Austria.<br>
+<b>Location:</b> "Lehar 3" room of the <i>Messe Wien Exhibition and Congress Center</i> in Vienna, Austria.<br>
 
 > <b>Messe Wien</b><br>
 > Hall B, entrance Congress Center<br>
