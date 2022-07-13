@@ -199,7 +199,7 @@ We envision this workshop bringing together researchers and industry practitione
 ### Topics covered
 
 <div>
-<div style="width:400px; display:inline;">
+<div style="width:350px; display:inline-block; font-size:20px">
 <ul>
 <li>Safe reinforcement learning, safe exploration, constrained reinforcement learning</li>
 <li>Safe learning approaches inspired by control theory, e.g., control barrier function, Lyapunov method, reachability analysis</li>
@@ -218,7 +218,7 @@ We envision this workshop bringing together researchers and industry practitione
 <li>Learning to drive via distribution awareness</li>
 </ul>
 </div>
-<div style="width:400px; display:inline;">
+<div style="width:350px; display:inline-block; font-size:20px">
 <ul>
 <li>Robustness to out-of-distribution road scenes</li>
 <li>Uncertainty propagation through autonomous driving pipelines</li>
