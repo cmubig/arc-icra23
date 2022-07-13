@@ -199,10 +199,9 @@ We envision this workshop bringing together researchers and industry practitione
 ### Topics covered
 
 <div>
-<div style="width:49%; display:inline-block; font-size:15px; vertical-align:top">
+<div style="width:49%; display:inline-block; font-size:14px; vertical-align:top">
 <ul>
-<li>Safe reinforcement learning, safe exploration, constrained reinforcement learning</li>
-<li>Safe learning approaches inspired by control theory, e.g., control barrier function, Lyapunov method, reachability analysis</li>
+<li>Safe reinforcement learning, safe exploration, constrained reinforcement learning, safe learning + control theory</li>
 <li>Safety verification, certifying learning-based control under dynamical uncertainty, dependability analysis</li>
 <li>Robustness to out-of-distribution road scenes</li>
 <li>Learning vehicle dynamics at high-speeds and in unstable regimes</li>
@@ -212,23 +211,21 @@ We envision this workshop bringing together researchers and industry practitione
 <li>Multi-task learning in autonomous driving</li>
 <li>End-to-end and real-time autonomous driving systems</li>
 <li>Novel automotive sensors and their applications</li>
-<li>Behavior prediction of pedestrians, vehicles, and animals; trajectory forecasting</li>
+<li>Trajectory forecasting; Behavior prediction of pedestrians, vehicles, and animals</li>
 <li>Explainability in autonomous driving</li>
 <li>Learning to drive via imitation learning</li>
 <li>Learning to drive via distribution awareness</li>
 </ul>
 </div>
-<div style="width:49%; display:inline-block; font-size:15px; vertical-align:top">
+<div style="width:49%; display:inline-block; font-size:14px; vertical-align:top">
 <ul>
-<li>Robustness to out-of-distribution road scenes</li>
 <li>Uncertainty propagation through autonomous driving pipelines</li>
 <li>Planning and control for autonomous driving</li>
 <li>Cooperative and competitive multi-agent systems</li>
 <li>Visual grounding and its application to autonomous driving</li>
 <li>Vision-language navigation for autonomous driving</li>
 <li>Audio-visual navigation for autonomous driving</li>
-<li>Neuro-symbolic approaches in autonomous driving</li>
-<li>Knowledge representation and reasoning for autonomous driving</li>
+<li>Neuro-symbolic approaches in autonomous driving; Knowledge representation and reasoning</li>
 <li>Auditory perception (detection, tracking, segmentation, motion estimation, etc)</li>
 <li>Brain-inspired autonomous control systems</li>
 <li>Human factors in autonomous driving</li>
@@ -239,6 +236,8 @@ We envision this workshop bringing together researchers and industry practitione
 </ul>
 </div>
 </div>
+
+... And more!
 
 ## Dates
 
