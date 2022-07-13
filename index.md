@@ -355,6 +355,36 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <!--div class="schedule-table-contentcol">Content</div-->
 </div>
 
+<div class="schedule-table-row-odd">
+<div class="schedule-table-timecol" style="vertical-align: 10px;">&nbsp;</div>
+<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:60px;">
+&nbsp;
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Matthew R Howe</p>
+<p style="margin:0 0 0 10px; font-size:10px;">U Adelaide</p>
+</div>
+</div>
+</div>
+<div class="schedule-table-contentcol"><i>#3: The Edge of Disaster: A Battle Between Autonomous Racing and Safety</i></div>
+</div>
+
+<div class="schedule-table-row-odd">
+<div class="schedule-table-timecol" style="vertical-align: 10px;">&nbsp;</div>
+<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:60px;">
+&nbsp;
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Lachlan Mares</p>
+<p style="margin:0 0 0 10px; font-size:10px;">U Adelaide</p>
+</div>
+</div>
+</div>
+<div class="schedule-table-contentcol"><i>#8: Learn 2 Rage: Experiencing The Emotional Roller Coaster That Is Reinforcement Learning</i></div>
+</div>
+
 <div class="schedule-table-row-even">
 <div class="schedule-table-timecol">13:30</div>
 <div class="schedule-table-eventcol">Spotlight Talks</div>
@@ -438,7 +468,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 
 <div class="schedule-table-row-even">
 <div class="schedule-table-timecol">15:30</div>
-<div class="schedule-table-eventcol">Social + Posters</div>
+<div class="schedule-table-eventcol">Social + Poster Session</div>
 <div class="schedule-table-contentcol">Paper IDs: 1, 4, 5, 6, 7, 12, 13, 14, 17</div>
 </div>
 
