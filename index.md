@@ -234,7 +234,9 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 > A-1020 Vienna<br>
 > Metro stop U2 "Messe Prater"
 
-Additional venue information: <a href="https://ijcai-22.org/venue/" target="_blank">https://ijcai-22.org/venue/</a>
+Additional venue information: <a href="https://ijcai-22.org/venue/" target="_blank">https://ijcai-22.org/venue/</a><br><br>
+
+Additional schedule information: <a href="https://www.ijcai-22.org/ijcai-2022-schedule/" target="_blank">https://www.ijcai-22.org/ijcai-2022-schedule/</a>
 
 ## Workshop Schedule
 
