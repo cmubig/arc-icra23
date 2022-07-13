@@ -46,7 +46,6 @@ article_header:
     inline-size: 250px;
     font-size:14px;
     line-height: normal;
-    margin:0 0 0 40px;
 }
 
 .schedule-table-row-even {
@@ -310,7 +309,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol"><i>#9: Robust Collaborative Perception against Communication Interruption</i></div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><i>#9: Robust Collaborative Perception against Communication Interruption</i></div>
 </div>
 
 <div class="schedule-table-row-even">
@@ -325,7 +324,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol"><i>#16: A Human-Centric Method for Generating Causal Explanations in Natural Language for Autonomous Vehicle Motion Planning</i></div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><i>#16: A Human-Centric Method for Generating Causal Explanations in Natural Language for Autonomous Vehicle Motion Planning</i></div>
 </div>
 
 <div class="schedule-table-row-odd">
@@ -368,7 +367,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol"><i>#3: The Edge of Disaster: A Battle Between Autonomous Racing and Safety</i></div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><i>#3: The Edge of Disaster: A Battle Between Autonomous Racing and Safety</i></div>
 </div>
 
 <div class="schedule-table-row-odd">
@@ -383,7 +382,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol"><i>#8: Learn 2 Rage: Experiencing The Emotional Roller Coaster That Is Reinforcement Learning</i></div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><i>#8: Learn 2 Rage: Experiencing The Emotional Roller Coaster That Is Reinforcement Learning</i></div>
 </div>
 
 <div class="schedule-table-row-even">
@@ -404,7 +403,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol"><i>#10: ROAD-R: The Autonomous Driving Dataset with Logical Requirements</i></div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><i>#10: ROAD-R: The Autonomous Driving Dataset with Logical Requirements</i></div>
 </div>
 
 <div class="schedule-table-row-even">
@@ -419,7 +418,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol"><i>#18: Safe Reinforcement Learning with Probabilistic Control Barrier Functions for Ramp Merging</i></div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><i>#18: Safe Reinforcement Learning with Probabilistic Control Barrier Functions for Ramp Merging</i></div>
 </div>
 
 <div class="schedule-table-row-odd">
