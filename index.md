@@ -220,7 +220,7 @@ We envision this workshop bringing together researchers and industry practitione
 <div style="width:49%; display:inline-block; font-size:14px; vertical-align:top">
 <ul>
 <li>Uncertainty propagation through autonomous driving pipelines</li>
-<li>Planning and control for autonomous driving</li>
+<li>Classical planning and control for autonomous driving</li>
 <li>Cooperative and competitive multi-agent systems</li>
 <li>Visual grounding and its application to autonomous driving</li>
 <li>Vision-language navigation for autonomous driving</li>
