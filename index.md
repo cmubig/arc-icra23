@@ -290,7 +290,8 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Max Kumskoy</p>
-<p style="margin:0 0 0 10px;">Ivan Zhukov</p>
+<p style="margin:0 0 0 10px; font-size:10px;">ARRIVAL</p>
+<p style="margin:10px 0 0 10px;">Ivan Zhukov</p>
 <p style="margin:0 0 0 10px; font-size:10px;">ARRIVAL</p>
 </div>
 </div>
@@ -546,11 +547,11 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <a href="https://arrival.com/us/en" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/max_kumskoy.png" alt="Max Kumskoy">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/max_ivan.png" alt="Max Kumskoy, Ivan Zhukov">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Max Kumskoy</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Head of Automated Driving Systems<br>ARRIVAL</p>
+<p style="margin:0 0 0 10px;">Max Kumskoy, Ivan Zhukov</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Automated Driving Systems<br>ARRIVAL</p>
 </div>
 </div>
 </a>
