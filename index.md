@@ -804,21 +804,23 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <!-- column 1 -->
 <div class="pc-column">
 <ul>
+<li>Raghuram Annasamy (+<b>ER</b>, <b>TR</b>)</li>
+<li>Johannes Betz (<b>SMR</b>)</li>
 <li>Wenhao Ding</li>
 <li>Nemanja Djuric</li>
+<li>Jaime Fisac (<b>SMR</b>)</li>
 <li>Xiangyu Gao (+<b>ER</b>)</li>
 <li>Shivam Goel</li>
 <li>Sidharth Kathpal</li>
 <li>Anirudh Koul</li>
-<li>Tanmay Kulkarni</li>
-<li>Jingyuan Li</li>
 </ul>
 </div>
 
 <!-- column 2 -->
 <div class="pc-column" style="margin:0 30px 0 0;">
 <ul>
-<li>Raghuram Annasamy (+<b>ER</b>, <b>TR</b>)</li>
+<li>Tanmay Kulkarni</li>
+<li>Jingyuan Li</li>
 <li><a href="https://navars.xyz/" target="_blank">Ingrid Navarro</a> (<b>TR</b>)</li>
 <li>Aarati Noronha</li>
 <li>Alessandro Oltramari (<b>TR</b>)</li>
@@ -838,6 +840,7 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <li><a href="https://github.com/weirayao" target="_blank">Weiran Yao</a></li>
 <li><a href="https://xyaoab.github.io/" target="_blank">Xinjie Yao</a></li>
 <li>Sahiti Yerramilli</li>
+<li>Ding Zhao (<b>SMR</b>)</li>
 </ul>
 </div>
 
@@ -850,7 +853,8 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 ---
 
 <b>ER</b> — <i>Recognises PC member who served ("+" additionally) as an Emergency Reviewer.</i><br>
-<b>TR</b> — <i>Recognises PC member who, according to Chair ratings, ranked in the Top 16% of Reviewers.</i>
+<b>TR</b> — <i>Recognises PC member who, according to Chair ratings, ranked in the Top 16% of Reviewers.</i><br>
+<b>SMR</b> — <i>Recognises PC member who agreed to provide their services as a Senior Meta-Reviewer.</i>
 
 ## Sponsors
 
