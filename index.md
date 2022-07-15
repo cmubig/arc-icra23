@@ -286,14 +286,16 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
 <img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/max_kumskoy.png" alt="Max Kumskoy">
+<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/ivan_zhukov.png" alt="Ivan Zhukov">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Max Kumskoy</p>
+<p style="margin:0 0 0 10px;">Ivan Zhukov</p>
 <p style="margin:0 0 0 10px; font-size:10px;">ARRIVAL</p>
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol">Talk title TBD</div>
+<div class="schedule-table-contentcol">ARRIVAL Vehicle Simulation - full stack simulator for research, development, and testing of any vehicle, vehicle system, or feature</div>
 </div>
 
 <div class="schedule-table-row-even">
@@ -315,7 +317,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <div class="schedule-table-row-odd">
 <div class="schedule-table-timecol">10:00</div>
 <div class="schedule-table-eventcol">Social + Poster Session</div>
-<div class="schedule-table-contentcol">Paper IDs: 1, 4, 5, 6, 7, 12, 13, 14, 17</div>
+<!--div class="schedule-table-contentcol">Paper IDs: 1, 4, 5, 6, 7, 12, 13, 14, 17</div-->
 </div>
 
 <div class="schedule-table-row-even">
@@ -409,7 +411,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><i>#8: Learn 2 Rage: Experiencing The Emotional Roller Coaster That Is Reinforcement Learning</i></div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><i>Learn 2 Rage: Experiencing The Emotional Roller Coaster That Is Reinforcement Learning</i></div>
 </div>
 
 <div class="schedule-table-row-even">
@@ -496,7 +498,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <div class="schedule-table-row-even">
 <div class="schedule-table-timecol">15:30</div>
 <div class="schedule-table-eventcol">Social + Poster Session</div>
-<div class="schedule-table-contentcol">Paper IDs: 1, 4, 5, 6, 7, 12, 13, 14, 17</div>
+<!--div class="schedule-table-contentcol">Paper IDs: 1, 4, 5, 6, 7, 12, 13, 14, 17</div-->
 </div>
 
 <div class="schedule-table-row-odd">
