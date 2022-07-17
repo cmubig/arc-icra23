@@ -467,21 +467,6 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 </div>
 
 <div class="schedule-table-row-even">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">14:30</div>
-<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/justyna_zander.png" alt="Justyna Zander">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Justyna Zander</p>
-<p style="margin:0 0 0 10px; font-size:10px;">NVIDIA</p>
-</div>
-</div>
-</div>
-<div class="schedule-table-contentcol"><i>Advanced simulation as a means for developing and validating autonomous vehicles at scale</i></div>
-</div>
-
-<div class="schedule-table-row-odd">
 <div class="schedule-table-timecol" style="vertical-align: 10px;">15:00</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
@@ -496,13 +481,13 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <div class="schedule-table-contentcol"><i>Developing Trustworthy AI for Autonomous Driving</i></div>
 </div>
 
-<div class="schedule-table-row-even">
+<div class="schedule-table-row-odd">
 <div class="schedule-table-timecol">15:30</div>
 <div class="schedule-table-eventcol">Social + Poster Session</div>
 <!--div class="schedule-table-contentcol">Paper IDs: 1, 4, 5, 6, 7, 12, 13, 14, 17</div-->
 </div>
 
-<div class="schedule-table-row-odd">
+<div class="schedule-table-row-even">
 <div class="schedule-table-timecol" style="vertical-align: 10px;">16:30</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
@@ -517,7 +502,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <div class="schedule-table-contentcol"><i>Learning to Handle Autonomous Vehicles at the Limit - Experiences from Roborace and the Indy Autonomous Challenge</i></div>
 </div>
 
-<div class="schedule-table-row-even">
+<div class="schedule-table-row-odd">
 <div class="schedule-table-timecol" style="vertical-align: 10px;">17:00</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
@@ -591,19 +576,6 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 </div>
 </div>
 </a>
-
-<a href="https://blogs.nvidia.com/blog/author/justynaz/" target="_blank" class="speaker_profile">
-<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/justyna_zander.png" alt="Justyna Zander">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Justyna Zander</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Global Head of Verification and Validation for Autonomous Driving<br>NVIDIA</p>
-</div>
-</div>
-</a>
-
 
 <a href="https://safeai-lab.github.io/" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
