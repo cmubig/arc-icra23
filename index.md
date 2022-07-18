@@ -357,24 +357,8 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><i>A Human-Centric Method for Generating Causal Explanations in Natural Language for Autonomous Vehicle Motion Planning</i></div>
 </div>
 
-<div class="schedule-table-row-odd">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">11:30</div>
-<div class="schedule-table-eventcol">
-<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/jaime_fisac.png" alt="Jaime Fisac">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Jaime Fisac</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Princeton</p>
-</div>
-</div>
-</div>
-<div class="schedule-table-contentcol"><i>Game-Theoretic Autonomous Driving: the multi-agent core of learning, interaction and safety</i></div>
-</div>
-
 <div class="schedule-table-row-even">
-<div class="schedule-table-timecol">12:00</div>
+<div class="schedule-table-timecol">11:30</div>
 <div class="schedule-table-eventcol">Lunch Break</div>
 <!--div class="schedule-table-contentcol">Content</div-->
 </div>
@@ -564,18 +548,6 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Sahika Genc</p>
 <p style="margin:0 0 0 10px; font-size:10px;">Principal Scientist<br>Amazon AWS</p>
-</div>
-</div>
-</a>
-
-<a href="https://ece.princeton.edu/people/jaime-fernandez-fisac" target="_blank" class="speaker_profile">
-<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/jaime_fisac.png" alt="Jaime Fisac">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Jaime Fisac</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Assistant Professor<br>Princeton University</p>
 </div>
 </div>
 </a>
