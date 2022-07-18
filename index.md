@@ -407,12 +407,12 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 &nbsp;
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 40px">
-<p style="margin:0 0 0 10px;">Bingqing Chen</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Bosch Research</p>
+<p style="margin:0 0 0 10px;">Lachlan Mares</p>
+<p style="margin:0 0 0 10px; font-size:10px;">U Adelaide</p>
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><i>Safe Autonomous Racing via Approximate Reachability on Ego-vision</i></div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><i>Learn 2 Rage: Experiencing The Emotional Roller Coaster That Is Reinforcement Learning</i></div>
 </div>
 
 <div class="schedule-table-row-even">
