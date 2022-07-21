@@ -483,7 +483,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 
 <div class="schedule-table-row-odd">
 <div class="schedule-table-timecol">15:30</div>
-<div class="schedule-table-eventcol">Poster Recap + Social</div>
+<div class="schedule-table-eventcol">Social + Poster Session</div>
 <!--div class="schedule-table-contentcol">Paper IDs: 1, 4, 5, 6, 7, 12, 13, 14, 17</div-->
 <div class="schedule-table-contentcol"><a href="https://app.gather.town/app/LKQOfjZkcrh2dfm4/AI4AD" target="_blank"><b>Gathertown</b></a> and in-person displays</div>
 </div>
