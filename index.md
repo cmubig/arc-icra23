@@ -717,7 +717,7 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 </div>
 </a>
 
-<a href="https://danielomeiza.github.io/" target="_blank" class="organiser_profile">
+<a href="https://www.linkedin.com/in/bhat-manoj/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/manoj_bhat.png" alt="Manoj Bhat">
