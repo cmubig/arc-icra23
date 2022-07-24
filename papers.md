@@ -26,6 +26,14 @@ title:
     <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_10.pdf" target="_blank">Paper</a>] [Poster] [Video]</p>
 </div>
 
+### Best Paper Runner-up
+
+<div class="container" style="margin-top:30px;margin-bottom:30px;">
+    <p style="margin:0 0 4px 0;font-size:18px;">A Human-Centric Method for Generating Causal Explanations in Natural Language for Autonomous Vehicle Motion Planning</p>
+    <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Balint Gyevnar, Massimiliano Tamborski, Cheng Wang, Christopher Lucas, Shay Cohen, Stefano V Albrecht</p>
+    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_16.pdf" target="_blank">Paper</a>] [Poster] [Video]</p>
+</div>
+
 ### Accepted Papers
 
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
@@ -92,12 +100,6 @@ title:
     <p style="margin:0 0 4px 0;font-size:18px;">An Interpretable Deep Reinforcement Learning Approach to Autonomous Driving</p>
     <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Zhihao Song, Yunpeng Jiang, Jianyi Zhang, Paul Weng, Dong Li, Wulong Liu, Jianye Hao</p>
     <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_14.pdf" target="_blank">Paper</a>] [Poster] [Video]</p>
-</div>
-
-<div class="container" style="margin-top:30px;margin-bottom:30px;">
-    <p style="margin:0 0 4px 0;font-size:18px;">A Human-Centric Method for Generating Causal Explanations in Natural Language for Autonomous Vehicle Motion Planning</p>
-    <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Balint Gyevnar, Massimiliano Tamborski, Cheng Wang, Christopher Lucas, Shay Cohen, Stefano V Albrecht</p>
-    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_16.pdf" target="_blank">Paper</a>] [Poster] [Video]</p>
 </div>
 
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
