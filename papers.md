@@ -18,6 +18,14 @@ title:
 
 # Papers
 
+### Best Paper Award Recipient
+
+<div class="container" style="margin-top:30px;margin-bottom:30px;">
+    <p style="margin:0 0 4px 0;font-size:18px;">ROAD-R: The Autonomous Driving Dataset with Logical Requirements</p>
+    <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Eleonora Giunchiglia, Mihaela C Stoian, Salman Khan, Fabio Cuzzolin, Thomas Lukasiewicz</p>
+    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_10.pdf" target="_blank">Paper</a>] [Poster] [Video]</p>
+</div>
+
 ### Accepted Papers
 
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
@@ -66,12 +74,6 @@ title:
     <p style="margin:0 0 4px 0;font-size:18px;">Robust Collaborative Perception against Communication Interruption</p>
     <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Shunli Ren, Zixing Lei, Zi Wang, Siheng Chen, Wenjun Zhang</p>
     <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_9.pdf" target="_blank">Paper</a>] [Poster] [Video]</p>
-</div>
-
-<div class="container" style="margin-top:30px;margin-bottom:30px;">
-    <p style="margin:0 0 4px 0;font-size:18px;">ROAD-R: The Autonomous Driving Dataset with Logical Requirements</p>
-    <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Eleonora Giunchiglia, Mihaela C Stoian, Salman Khan, Fabio Cuzzolin, Thomas Lukasiewicz</p>
-    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_10.pdf" target="_blank">Paper</a>] [Poster] [Video]</p>
 </div>
 
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
