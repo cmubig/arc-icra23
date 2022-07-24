@@ -34,6 +34,20 @@ title:
     <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_16.pdf" target="_blank">Paper</a>] [Poster] [Video]</p>
 </div>
 
+### Spotlights
+
+<div class="container" style="margin-top:30px;margin-bottom:30px;">
+    <p style="margin:0 0 4px 0;font-size:18px;">Robust Collaborative Perception against Communication Interruption</p>
+    <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Shunli Ren, Zixing Lei, Zi Wang, Siheng Chen, Wenjun Zhang</p>
+    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_9.pdf" target="_blank">Paper</a>] [Poster] [Video]</p>
+</div>
+
+<div class="container" style="margin-top:30px;margin-bottom:30px;">
+    <p style="margin:0 0 4px 0;font-size:18px;">Safe Reinforcement Learning with Probabilistic Control Barrier Functions for Ramp Merging</p>
+    <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Soumith Udatha and John M Dolan</p>
+    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_18.pdf" target="_blank">Paper</a>] [Poster] [Video]</p>
+</div>
+
 ### Accepted Papers
 
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
@@ -79,12 +93,6 @@ title:
 </div>
 
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
-    <p style="margin:0 0 4px 0;font-size:18px;">Robust Collaborative Perception against Communication Interruption</p>
-    <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Shunli Ren, Zixing Lei, Zi Wang, Siheng Chen, Wenjun Zhang</p>
-    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_9.pdf" target="_blank">Paper</a>] [Poster] [Video]</p>
-</div>
-
-<div class="container" style="margin-top:30px;margin-bottom:30px;">
     <p style="margin:0 0 4px 0;font-size:18px;">Towards Efficient and Explainable Distracted Driver Detection</p>
     <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Thanh Quang Tran and Dung D. D. Le</p>
     <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_12.pdf" target="_blank">Paper</a>] [Poster] [Video]</p>
@@ -106,10 +114,4 @@ title:
     <p style="margin:0 0 4px 0;font-size:18px;">Self-Supervised Pretraining for Object Detection in Autonomous Driving</p>
     <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Aytaç Kanacı, Izzeddin Teeti, Fabio Cuzzolin</p>
     <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_17.pdf" target="_blank">Paper</a>] [Poster] [Video]</p>
-</div>
-
-<div class="container" style="margin-top:30px;margin-bottom:30px;">
-    <p style="margin:0 0 4px 0;font-size:18px;">Safe Reinforcement Learning with Probabilistic Control Barrier Functions for Ramp Merging</p>
-    <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Soumith Udatha and John M Dolan</p>
-    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_18.pdf" target="_blank">Paper</a>] [Poster] [Video]</p>
 </div>
