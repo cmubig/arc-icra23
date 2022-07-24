@@ -57,7 +57,7 @@ title:
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
     <p style="margin:0 0 4px 0;font-size:18px;">Intelligent Traffic Monitoring with Hybrid AI</p>
     <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Ehsan Qasemi and Alessandro Oltramari</p>
-    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[Paper] [Poster] [Video]</p>
+    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_5.pdf" target="_blank">Paper</a>] [Poster] [Video]</p>
 </div>
 
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
