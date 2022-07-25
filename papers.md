@@ -23,7 +23,7 @@ title:
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
     <p style="margin:0 0 4px 0;font-size:18px;">ROAD-R: The Autonomous Driving Dataset with Logical Requirements</p>
     <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Eleonora Giunchiglia, Mihaela C Stoian, Salman Khan, Fabio Cuzzolin, Thomas Lukasiewicz</p>
-    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_10.pdf" target="_blank">Paper</a>] [Poster] [Video]</p>
+    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_10.pdf" target="_blank">Paper</a>] [Video]</p>
 </div>
 
 ### Best Paper Runner-up
@@ -31,7 +31,7 @@ title:
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
     <p style="margin:0 0 4px 0;font-size:18px;">A Human-Centric Method for Generating Causal Explanations in Natural Language for Autonomous Vehicle Motion Planning</p>
     <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Balint Gyevnar, Massimiliano Tamborski, Cheng Wang, Christopher Lucas, Shay Cohen, Stefano V Albrecht</p>
-    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_16.pdf" target="_blank">Paper</a>] [Poster] [Video]</p>
+    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_16.pdf" target="_blank">Paper</a>] [Video]</p>
 </div>
 
 ### Spotlights
@@ -39,13 +39,13 @@ title:
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
     <p style="margin:0 0 4px 0;font-size:18px;">Robust Collaborative Perception against Communication Interruption</p>
     <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Shunli Ren, Zixing Lei, Zi Wang, Siheng Chen, Wenjun Zhang</p>
-    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_9.pdf" target="_blank">Paper</a>] [Poster] [Video]</p>
+    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_9.pdf" target="_blank">Paper</a>] [Video]</p>
 </div>
 
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
     <p style="margin:0 0 4px 0;font-size:18px;">Safe Reinforcement Learning with Probabilistic Control Barrier Functions for Ramp Merging</p>
     <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Soumith Udatha and John M Dolan</p>
-    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_18.pdf" target="_blank">Paper</a>] [Poster] [Video]</p>
+    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_18.pdf" target="_blank">Paper</a>] [Video]</p>
 </div>
 
 ### Accepted Posters
