@@ -23,7 +23,7 @@ title:
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
     <p style="margin:0 0 4px 0;font-size:18px;">ROAD-R: The Autonomous Driving Dataset with Logical Requirements</p>
     <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Eleonora Giunchiglia, Mihaela C Stoian, Salman Khan, Fabio Cuzzolin, Thomas Lukasiewicz</p>
-    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_10.pdf" target="_blank">Paper</a>] [Video]</p>
+    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_10.pdf" target="_blank">Paper</a>] [<a href="https://youtu.be/_-Ll5d1VQXY" target="_blank">Video</a>]</p>
 </div>
 
 ### Best Paper Runner-up
