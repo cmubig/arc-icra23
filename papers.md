@@ -65,7 +65,7 @@ title:
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
     <p style="margin:0 0 4px 0;font-size:18px;">Vision-Based Regularizing Action Policies for Smoothing Control in Autonomous Miniature Car Racing</p>
     <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Bo-Jiun Hsu, Hoang-Giang Cao, I Lee, Chih-Yu Kao, Jin-Bo Huang, I-Chen Wu</p>
-    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_4.pdf" target="_blank">Paper</a>] [Video]</p>
+    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_4.pdf" target="_blank">Paper</a>] [<a href="https://youtu.be/d1kHQuskOb4" target="_blank">Video</a>]</p>
 </div>
 
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
