@@ -53,7 +53,7 @@ title:
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
     <p style="margin:0 0 4px 0;font-size:18px;">Predictive Intelligent Driver Model using Deep Learning-based Prediction of Surrounding Vehicle Trajectory</p>
     <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Honggyu Lee, Dongyeon Yu, Taeyun Kim, Hyobin Kim, Sung-Ho Hwang</p>
-    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_1.pdf" target="_blank">Paper</a>] [Poster] [Video]</p>
+    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_1.pdf" target="_blank">Paper</a>] [Poster] [<a href="https://youtu.be/XpsnlvX9hNg" target="_blank">Video</a>]</p>
 </div>
 
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
