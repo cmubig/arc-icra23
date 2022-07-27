@@ -83,7 +83,7 @@ title:
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
     <p style="margin:0 0 4px 0;font-size:18px;">PIT: Progressive Interaction Transformer for Pedestrian Intention Prediction</p>
     <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Yuchen Zhou, Chao Gou, Jie Zhu, Yaokun Li</p>
-    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_7.pdf" target="_blank">Paper</a>] [Video]</p>
+    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_7.pdf" target="_blank">Paper</a>] [<a href="https://youtu.be/V18WtVaqafc" target="_blank">Video</a>]</p>
 </div>
 
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
