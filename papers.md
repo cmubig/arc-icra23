@@ -48,7 +48,7 @@ title:
     <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_18.pdf" target="_blank">Paper</a>] [<a href="https://youtu.be/9cUIOWafELs" target="_blank">Video</a>]</p>
 </div>
 
-### Accepted Posters
+### Challenge Orals + Accepted Posters
 
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
     <p style="margin:0 0 4px 0;font-size:18px;">Predictive Intelligent Driver Model using Deep Learning-based Prediction of Surrounding Vehicle Trajectory</p>
