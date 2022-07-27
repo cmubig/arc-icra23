@@ -500,7 +500,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol"><i>Learning to Handle Autonomous Vehicles at the Limit - Experiences from Roborace and the Indy Autonomous Challenge</i></div>
+<div class="schedule-table-contentcol"><a href="https://youtu.be/uFSLC3ylUW4"><i>Learning to Handle Autonomous Vehicles at the Limit - Experiences from Roborace and the Indy Autonomous Challenge</i></a></div>
 </div>
 
 <div class="schedule-table-row-odd">
