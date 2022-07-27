@@ -433,7 +433,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><i>Safe Reinforcement Learning with Probabilistic Control Barrier Functions for Ramp Merging</i></div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><a href="https://youtu.be/9cUIOWafELs" target="_blank"><i>Safe Reinforcement Learning with Probabilistic Control Barrier Functions for Ramp Merging</i></a></div>
 </div>
 
 <div class="schedule-table-row-even">
