@@ -101,7 +101,7 @@ title:
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
     <p style="margin:0 0 4px 0;font-size:18px;">Real-Time Street Parking Sign Detection and Recognition</p>
     <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Hieu Chau, Yin Jin, Jiayu Li, Juhua Hu, Wei Cheng</p>
-    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_13.pdf" target="_blank">Paper</a>] [Video]</p>
+    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_13.pdf" target="_blank">Paper</a>] [<a href="https://youtu.be/vl3DirApxDY" target="_blank">Video</a>]</p>
 </div>
 
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
