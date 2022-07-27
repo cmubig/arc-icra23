@@ -478,7 +478,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol"><i>Developing Trustworthy AI for Autonomous Driving</i></div>
+<div class="schedule-table-contentcol"><a href="https://youtu.be/TjxgChqlXF8"><i>Developing Trustworthy AI for Autonomous Driving</i></a></div>
 </div>
 
 <div class="schedule-table-row-odd">
