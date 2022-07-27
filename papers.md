@@ -89,7 +89,7 @@ title:
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
     <p style="margin:0 0 4px 0;font-size:18px;">Learn 2 Rage: Experiencing The Emotional Roller Coaster That Is Reinforcement Learning</p>
     <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Lachlan L Mares, Stefan Podgorski, Ian Reid</p>
-    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_8.pdf" target="_blank">Paper</a>] [Video]</p>
+    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_8.pdf" target="_blank">Paper</a>] [<a href="https://youtu.be/5oYUBg9SZEk" target="_blank">Video</a>]</p>
 </div>
 
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
