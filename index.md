@@ -515,7 +515,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol"><i>Robust Behavior Models for Autonomous Driving</i></div>
+<div class="schedule-table-contentcol"><a href="https://youtu.be/zaOAfv7YYE0" target="_blank"><i>Robust Behavior Models for Autonomous Driving</i></a></div>
 </div>
 
 <div class="schedule-table-row-even">
