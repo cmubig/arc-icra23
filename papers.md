@@ -107,7 +107,7 @@ title:
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
     <p style="margin:0 0 4px 0;font-size:18px;">An Interpretable Deep Reinforcement Learning Approach to Autonomous Driving</p>
     <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Zhihao Song, Yunpeng Jiang, Jianyi Zhang, Paul Weng, Dong Li, Wulong Liu, Jianye Hao</p>
-    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_14.pdf" target="_blank">Paper</a>] [Video]</p>
+    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_14.pdf" target="_blank">Paper</a>] [<a href="https://youtu.be/xuT2q4PRoEI" target="_blank">Video</a>]</p>
 </div>
 
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
