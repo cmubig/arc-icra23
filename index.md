@@ -312,7 +312,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol"><i>Deep Reinforcement Learning for Autonomous Driving with AWS DeepRacer</i></div>
+<div class="schedule-table-contentcol"><a href="https://youtu.be/AOOZTR2fZdE" target="_blank"><i>Deep Reinforcement Learning for Autonomous Driving with AWS DeepRacer</i></a></div>
 </div>
 
 <div class="schedule-table-row-odd">
@@ -340,7 +340,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><i>Robust Collaborative Perception against Communication Interruption</i></div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><a href="https://youtu.be/3cIWpMrsyeE" target="_blank"><i>Robust Collaborative Perception against Communication Interruption</i></a></div>
 </div>
 
 <div class="schedule-table-row-even">
@@ -355,7 +355,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><i>A Human-Centric Method for Generating Causal Explanations in Natural Language for Autonomous Vehicle Motion Planning</i></div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><a href="https://youtu.be/gmjylztszZA" target="_blank"><i>A Human-Centric Method for Generating Causal Explanations in Natural Language for Autonomous Vehicle Motion Planning</i></a></div>
 </div>
 
 <div class="schedule-table-row-odd">
@@ -382,7 +382,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><i>The Edge of Disaster: A Battle Between Autonomous Racing and Safety</i></div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><a href="https://youtu.be/bTBk8MFdIOA" target="_blank"><i>The Edge of Disaster: A Battle Between Autonomous Racing and Safety</i></a></div>
 </div>
 
 <div class="schedule-table-row-even">
@@ -397,7 +397,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><i>Learn 2 Rage: Experiencing The Emotional Roller Coaster That Is Reinforcement Learning</i></div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><a href="https://youtu.be/5oYUBg9SZEk" target="_blank"><i>Learn 2 Rage: Experiencing The Emotional Roller Coaster That Is Reinforcement Learning</i></a></div>
 </div>
 
 <div class="schedule-table-row-odd">
@@ -418,7 +418,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><i>ROAD-R: The Autonomous Driving Dataset with Logical Requirements</i></div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><a href="https://youtu.be/_-Ll5d1VQXY" target="_blank"><i>ROAD-R: The Autonomous Driving Dataset with Logical Requirements</i></a></div>
 </div>
 
 <div class="schedule-table-row-odd">
