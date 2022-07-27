@@ -463,7 +463,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol"><i>Bringing AI Up To Speed with Autonomous Racing </i></div>
+<div class="schedule-table-contentcol"><a href="https://youtu.be/0wdf8anWf3k" target="_blank"><i>Bringing AI Up To Speed with Autonomous Racing</i></a></div>
 </div>
 
 <div class="schedule-table-row-even">
