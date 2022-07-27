@@ -296,7 +296,7 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol"><i>ARRIVAL Vehicle Simulation: Full-stack Simulator for Research, Development, and Testing of any Vehicle, Vehicle System, or Feature</i></div>
+<div class="schedule-table-contentcol"><i>ARRIVAL Vehicle Simulation: Full-stack Simulator for Research, Development, and Testing of any Vehicle, Vehicle System, or Feature</i> (Recording embargoed)</div>
 </div>
 
 <div class="schedule-table-row-even">
