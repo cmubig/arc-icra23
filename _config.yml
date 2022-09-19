@@ -22,7 +22,7 @@ title: AORC Workshop
 email:
 description: >- # this means to ignore newlines until "baseurl:"
 #   Learn-to-Race Challenges in Autononous Driving
-baseurl: "/aorc_icra23_workshop" # the subpath of your site, e.g. /blog
+baseurl: "/aorc-icra23-workshop" # the subpath of your site, e.g. /blog
 url: "cmubig.github.io" # l2r-workshop-website" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: cmubig
