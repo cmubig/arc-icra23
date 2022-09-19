@@ -34,7 +34,7 @@ highlight_theme: default
 plugins:
   - jekyll-feed
 
-conf_name: AORC
+conf_name: ARC
 conf_full_name: Assessment of Robotic Capabilities
 
 # Exclude from processing.
