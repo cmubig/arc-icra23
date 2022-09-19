@@ -1,6 +1,6 @@
 ---
 layout: article
-title: {{ site.conf_full_name }}
+title: Assessment of Robotic Capabilities Workshop
 excerpt: ICRA 2023 Workshop
 show_info: true
 titles:
@@ -219,41 +219,18 @@ willing to contribute to this work.
 
 ### Topics covered
 
+We will discuss how five robotics capabilities should be measured for policymaking:
+
 <div>
 <div style="width:49%; display:inline-block; font-size:14px; vertical-align:top">
-<ul>
-<li>Safe reinforcement learning, safe exploration, constrained reinforcement learning, safe learning + control theory</li>
-<li>Safety verification, certifying learning-based control under dynamical uncertainty, dependability analysis</li>
-<li>Robustness to out-of-distribution road scenes</li>
-<li>Learning vehicle dynamics at high-speeds and in unstable regimes</li>
-<li>Vision-based perception and scene understanding for autonomous driving</li>
-<li>Representation learning for visuomotor control</li>
-<li>Transfer learning; simulation to real-world; meta-learning; domain adaptation; *-shot learning; self/semi/weakly-supervised learning; multi-task learning</li>
-<li>End-to-end and real-time autonomous driving systems</li>
-<li>Novel automotive sensors and their applications</li>
-<li>Trajectory forecasting; Behavior prediction of pedestrians, vehicles, and animals</li>
-<li>Explainability in autonomous driving</li>
-<li>Learning to drive via imitation learning</li>
-<li>Learning to drive via distribution awareness</li>
-</ul>
-</div>
-<div style="width:49%; display:inline-block; font-size:14px; vertical-align:top">
-<ul>
-<li>Uncertainty propagation through autonomous driving pipelines</li>
-<li>Classical planning and control for autonomous driving</li>
-<li>Cooperative and competitive multi-agent systems</li>
-<li>Visual grounding and its application to autonomous driving</li>
-<li>Vision-language navigation for autonomous driving</li>
-<li>Audio-visual navigation for autonomous driving</li>
-<li>Neuro-symbolic approaches in autonomous driving; Knowledge representation and reasoning</li>
-<li>Auditory perception (detection, tracking, segmentation, motion estimation, etc)</li>
-<li>Brain-inspired autonomous control systems</li>
-<li>Human factors in autonomous driving</li>
-<li>AI ethics in autonomous driving</li>
-<li>Autonomous driving datasets, simulation, evaluations, and metrics</li>
-<li>Connected autonomous driving, vehicle-to-vehicle, vehicle-to-infrastructure communication, digital twins</li>
-<li>Autonomous driving for traffic management and emission reduction; intelligent transportation systems</li>
-</ul>
+<ol>
+<li>navigation/mobility</li>
+
+<li>manipulation/dexterity</li>
+<li>perception</li>
+<li>communication/language</li>
+<li>learning/adaption</li>
+</ol>
 </div>
 </div>
 
@@ -264,27 +241,21 @@ willing to contribute to this work.
 Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brussels, Vienna</b>.
 
 <div>
-<b>Submissions open:</b> 3 March 2022<br>
-<b>Submissions due:</b> <p style="display:inline; text-decoration:line-through;">13 May 2022</p><p style="display:inline; color:red;">&nbsp;20 May 2022</p><br>
-<b>Notification:</b> 3 June 2022<br>
-<b>Camera Ready</b>: 17 June 2022<br>
-<b>Oral/Poster video upload</b>: 1 July 2022
+<b>Submissions open:</b> TBD<br>
+<b>Submissions due:</b> TBD<br>
+<b>Notification:</b> TBD<br>
+<b>Camera Ready</b>: TBD<br>
+<b>Oral/Poster video upload</b>: TBD
 </div>
 
-### Workshop Event (IJCAI-ECAI 2022 Workshop #48)
+### Workshop Event (ICRA 2023 Workshop)
 
-<b>Date:</b> 23 July 2022<br>
-<b>Location:</b> "Lehar 3" room of the <i>Messe Wien Exhibition and Congress Center</i> in Vienna, Austria.<br>
+<b>Date:</b> 28 May 2023<br>
+<b>Location:</b> TBD <br>
 
-> <b>Messe Wien</b><br>
-> Hall B, entrance Congress Center<br>
-> Messeplatz 1<br>
-> A-1020 Vienna<br>
-> Metro stop U2 "Messe Prater"
+Additional venue information: <a href="https://www.icra2023.org/about/venue" target="_blank">https://www.icra2023.org/about/venue</a><br>
 
-Additional venue information: <a href="https://ijcai-22.org/venue/" target="_blank">https://ijcai-22.org/venue/</a><br>
-
-Additional schedule information: <a href="https://www.ijcai-22.org/ijcai-2022-schedule/" target="_blank">https://www.ijcai-22.org/ijcai-2022-schedule/</a>
+Additional schedule information: <a href="" target="_blank">TBD</a>
 
 ## Workshop Schedule
 
@@ -638,38 +609,6 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 
 </div>
 
-## Challenge
-
-We also feature an exciting and new AI Challenge in high-speed autonomous racing. Here, the goal is to evaluate the joint safety, performance, and generalisation capabilities of perception and control algorithms, as they operate simulated Formula-style racing vehicles at their physical limits! The Learn-to-Race Autonomous Racing Virtual Challenge is now active. <a href="https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge" target="_blank">Participate now</a>!
-
-<!--div class="swiper swiper-demo">
-  <div class="swiper__wrapper">
-    <div class="swiper__slide">
-      <img src="{{ site.baseurl }}/assets/images/challenge/lvms-overhead.png" alt="LVMS">
-    </div>
-    <div class="swiper__slide">
-      <img src="{{ site.baseurl }}/assets/images/challenge/anglesey-overhead.png" alt="LVMS">
-    </div>
-    <div class="swiper__slide">
-      <img src="{{ site.baseurl }}/assets/images/challenge/thruxton-overhead.png" alt="LVMS">
-    </div>
-  </div>
-  <div class="swiper__button swiper__button--prev fas fa-chevron-left"></div>
-  <div class="swiper__button swiper__button--next fas fa-chevron-right"></div>
-</div-->
-
-<div style="display:block; width:100%;">
-<div style="display:block; margin-bottom:7px;">
-<div style="display:inline; margin-right:5px;"><a href="https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge" target="_blank"><img width="410px" height="226px" src="{{ site.baseurl }}/assets/images/challenge/banner-l2rc-text.png" alt="L2R Autonomous Racing Virtual Challenge: Safe Learning for Autonomous Driving"></a></div>
-<div style="display:inline;"><a href="https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge" target="_blank"><img width="410px" height="226px" src="{{ site.baseurl }}/assets/images/challenge/banner-lvms.png" alt="L2R Autonomous Racing Virtual Challenge: Safe Learning for Autonomous Driving"></a></div>
-</div>
-<div style="display:block;">
-<div style="display:inline; margin-right:5px;"><a href="https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge" target="_blank"><img width="410px" height="226px" src="{{ site.baseurl }}/assets/images/challenge/banner-driving.gif" alt="L2R Autonomous Racing Virtual Challenge: Safe Learning for Autonomous Driving"></a></div>
-<div style="display:inline;"><a href="https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge" target="_blank"><img width="410px" height="226px" src="{{ site.baseurl }}/assets/images/challenge/banner-car.png" alt="L2R Autonomous Racing Virtual Challenge: Safe Learning for Autonomous Driving"></a></div>
-</div>
-</div>
-
-<a href="https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge" target="_blank"><img src="{{ site.baseurl }}/assets/images/challenge/aicrowd_challenge_steps.gif" alt="Steps to victory!"></a>
 
 ## Organisers
 
@@ -688,80 +627,80 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 </div>
 </a>
 
-<a href="https://xinshuoweng.com/" target="_blank" class="organiser_profile">
+<a href="" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/xinshuo_weng.png" alt="Xinshuo Weng">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/temp_pic.png" alt="Stuart Elliott">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Xinshuo Weng</p>
+<p style="margin:0 0 0 10px;">Stuart Elliott</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Research Scientist at NVIDIA Research; focusing on 3D computer vision and generative models for autonomous systems</p>
+<p style="margin:0 0 0 10px; font-size:10px;"></p>
 </div>
 </div>
 </a>
 
-<a href="https://www.linkedin.com/in/hitesharora11" target="_blank" class="organiser_profile">
+<a href="" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/hitesh_arora.png" alt="Hitesh Arora">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/temp_pic.png" alt="Abel Baret">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Hitesh Arora</p>
+<p style="margin:0 0 0 10px;">Abel Baret</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Researcher at Amazon, focusing on multimodal perception and reinforcement learning, applied to autonomous driving</p>
+<p style="margin:0 0 0 10px; font-size:10px;"></p>
 </div>
 </div>
 </a>
 
-<a href="https://www.linkedin.com/in/bingqing-chen-631b754a/" target="_blank" class="organiser_profile">
+<a href="" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/bingqing_chen.png" alt="Bingqing Chen">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/temp_pic.png" alt="Margarita Kalamova">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Bingqing Chen</p>
+<p style="margin:0 0 0 10px;">Margarita Kalamova</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Machine Learning Research Scientist at Bosch Research, focusing on constraint-based optimisation, physical mechanisms, and safe learning, applied to autonomous driving</p>
+<p style="margin:0 0 0 10px; font-size:10px;"></p>
 </div>
 </div>
 </a>
 
-<a href="https://www.linkedin.com/in/sidgan/" target="_blank" class="organiser_profile">
+<a href="" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/siddha_ganju.png" alt="Siddha Ganju">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/temp__pic.png" alt="Leo Chen">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Siddha Ganju</p>
+<p style="margin:0 0 0 10px;">Leo Chen</p>
 <!--p style="margin:0 0 0 10px;">NVIDIA</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Researcher and Data Scientist at NVIDIA, focusing on computer vision optimization for vehicle autonomy and medical instruments</p>
+<p style="margin:0 0 0 10px; font-size:10px;"></p>
 </div>
 </div>
 </a>
 
-<a href="https://www.linkedin.com/in/bhat-manoj/" target="_blank" class="organiser_profile">
+<a href="" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/manoj_bhat.png" alt="Manoj Bhat">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/temp_pic.png" alt="Sebastian Scherer">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Manoj Bhat</p>
+<p style="margin:0 0 0 10px;">Sebastian Scherer</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Machine Learning Researcher at Amazon, focusing on Neural Radiance fields, reinforcement learning, and representation learning applied to autonomous driving</p>
+<p style="margin:0 0 0 10px; font-size:10px;"></p>
 </div>
 </div>
 </a>
 
-<a href="https://danielomeiza.github.io/" target="_blank" class="organiser_profile">
+<a href="" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/daniel_omeiza.png" alt="Daniel Omeiza">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/temp_pic.png" alt="Vihaan Misra">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Daniel Omeiza</p>
+<p style="margin:0 0 0 10px;">Vihaan Misra</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">PhD student at Oxford, focusing on explainable AI and decision-making, in autonomous driving</p>
+<p style="margin:0 0 0 10px; font-size:10px;"></p>
 </div>
 </div>
 </a>
@@ -779,28 +718,28 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 </div>
 </a>
 
-<a href="https://www.cs.cmu.edu/~ehn/" target="_blank" class="organiser_profile">
+<a href="" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/eric_nyberg.png" alt="Eric Nyberg">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/temp_pic.png" alt="Beverley-Claire Okogwu">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Eric Nyberg</p>
+<p style="margin:0 0 0 10px;">Beverley-Claire Okogwu</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Professor of Computer Science at CMU and Program Director, Masters of Computational Data Science; hybrid reasoning systems and artificial intelligence</p>
+<p style="margin:0 0 0 10px; font-size:10px;"></p>
 </div>
 </div>
 </a>
 
-<a href="https://sylviaherbert.com" target="_blank" class="organiser_profile">
+<a href="" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/sylvia_herbert.png" alt="Sylvia Herbert">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/temp_pic.png" alt="Peter Schaldenbrand">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Sylvia Herbert</p>
+<p style="margin:0 0 0 10px;">Peter Schaldenbrand</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Assistant Professor at UCSD and Director of Safe Autonomous Systems Lab; uncertainty modeling in control, safety-aware learning, autonomy</p>
+<p style="margin:0 0 0 10px; font-size:10px;"></p>
 </div>
 </div>
 </a>
@@ -812,43 +751,21 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <!-- column 1 -->
 <div class="pc-column">
 <ul>
-<li>Raghuram Annasamy (+<b>ER</b>, <b>TR</b>)</li>
-<li>Johannes Betz (<b>SMR</b>)</li>
-<li>Wenhao Ding</li>
-<li>Nemanja Djuric</li>
-<li>Jaime Fisac (<b>SMR</b>)</li>
-<li>Xiangyu Gao (+<b>ER</b>)</li>
-<li>Shivam Goel</li>
-<li>Sidharth Kathpal</li>
-<li>Anirudh Koul</li>
+<li></li>
 </ul>
 </div>
 
 <!-- column 2 -->
 <div class="pc-column" style="margin:0 30px 0 0;">
 <ul>
-<li>Tanmay Kulkarni</li>
-<li>Jingyuan Li</li>
-<li><a href="https://navars.xyz/" target="_blank">Ingrid Navarro</a> (<b>TR</b>)</li>
-<li>Aarati Noronha</li>
-<li>Alessandro Oltramari (<b>TR</b>)</li>
-<li>Karthik Paga (<b>ER</b>, <b>TR</b>)</li>
-<li>Ehsan Qasemi (<b>TR</b>)</li>
-<li>João Semedo</li>
+<li></li>
 </ul>
 </div>
 
 <!-- column 3 -->
 <div class="pc-column">
 <ul>
-<li>Yash Shukla</li>
-<li>Jayant Tamarapalli</li>
-<li>Gyan Tatiya</li>
-<li>Yujie Wei (+<b>ER</b>)</li>
-<li><a href="https://github.com/weirayao" target="_blank">Weiran Yao</a></li>
-<li><a href="https://xyaoab.github.io/" target="_blank">Xinjie Yao</a></li>
-<li>Sahiti Yerramilli</li>
-<li>Ding Zhao (<b>SMR</b>)</li>
+<li></li>
 </ul>
 </div>
 
