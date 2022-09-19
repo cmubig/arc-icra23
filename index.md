@@ -1,7 +1,7 @@
 ---
 layout: article
-title: Assessment of Robotics Capabilities
-excerpt: IJCAI-ECAI 2022 Workshop + Challenge
+title: {{ site.conf_full_name }}
+excerpt: ICRA 2023 Workshop
 show_info: true
 titles:
   en      : &EN       Home
@@ -14,7 +14,7 @@ article_header:
   type: overlay
   theme: dark
   actions:
-    - text: 28 May 2023 | Vienna, Austria (Hybrid)
+    - text: 28 May 2023 | London, UK
   background_image:
     gradient: 'linear-gradient(135deg, rgba(52, 140, 96, 0.4), rgba(136, 73, 107, 0.4))'
     src: /assets/images/l2r_banner2.png
@@ -85,7 +85,7 @@ article_header:
 }
 
 ul.menu li::after {
-    content:"23 July 2022 | Vienna, Austria (Hybrid)";
+    content:"28 May 2023 | London, UK";
 }
 
 ul.menu a {
@@ -154,7 +154,7 @@ img {
 
 <script>
 
-  var countDownDate = new Date("Feb 15, 2022 23:59:59 UTC").getTime();  
+  var countDownDate = new Date("May 28, 2023 23:59:59 UTC").getTime();  
   countDownDate = countDownDate + 1000 * 3600 * 12
 
 
@@ -190,12 +190,32 @@ img {
 
 ## About
 
-Welcome to the 1st <a href="https://ijcai-22.org/" target="_blank">IJCAI</a> Workshop on <i>{{ site.conf_full_name }}</i> ({{ site.conf_name }})!
+Welcome to the 1st <a href="" target="_blank">IJCAI</a> Workshop on <i>{{ site.conf_full_name }}</i> ({{ site.conf_name }})!
 
-While there have been significant advances in vehicle autonomy (e.g., perception, trajectory forecasting, planning and control, etc.), it is of paramount importance for autonomous systems to adhere to safety specifications, as any safety infraction in urban and highway driving, or high-speed racing could lead to catastrophic failures. Given this inherent tension between safety and performance, we introduce a new simulation environment in autonomous racing as a particularly challenging proving ground for safe learning algorithms.
-<br>
 
-We envision this workshop bringing together researchers and industry practitioners from different AI subfields to work towards safer and more robust autonomous technology. We encourage participants to take part in the Challenge by competing for top leaderboard positions, to submit articles for review, and to engage with us at IJCAI 2022.<br>
+In the same way policy makers make use of economic indicators – such as GDP, unemployment or inflation rates –  to get a
+sense of countries’ economic and social health and design appropriate interventions, high-level indicators describing
+what AI can or cannot do are yet missing. In order to respond to the challenges posed by the development of AI and
+robotics over time, arise the urge to development of a set of valid measures describing AI and robotics capabilities.
+
+The Assessment of robotics capabilities for policy makers workshop will present and refine a set of proposed measures of
+robotics capabilities developed for policy makers. Its ultimate goal will be to present policy makers a comprehensive
+picture of AI capabilities in robotics and offer a reflection on the ways it might affect work and education.
+
+“Although AI and robotics evaluations for policymakers will not be designed for the computer science community, they
+ need to be designed in large part by the computer science community.” Hence, speakers from the robotics community will
+ offer a novel view on robotics state of the art by proposing a set of performance levels from key areas of robotics
+ capability – navigation/mobility, manipulation/dexterity, perception, communication/language, learning/adaption – and
+ connect those levels to relevant robotics benchmarks. By gathering together robotics researchers from diverse areas
+ and policy makers, the workshop will encourage participants to engage in rich conversations and exchange of ideas in
+ order to build a valid and coherent system of measure for robotics capabilities.
+
+The outcome of the workshop will have a long-term impact on the AI and Future of Skills project. In addition to the
+commissioned papers for the conference, outcomes from discussions and exchange of ideas will be incorporated in OECD
+future reports and work to develop a set of measures of AI and robotics capabilities for policy makers. Moreover, this
+workshop will be the occasion for the project to enlarge its multi-disciplinary expert community to robotics experts
+willing to contribute to this work.
+
 
 ### Topics covered
 
