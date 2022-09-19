@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Artificial Intelligence for Autonomous Driving
+title: Assessment of Robotics Capabilities
 excerpt: IJCAI-ECAI 2022 Workshop + Challenge
 show_info: true
 titles:
@@ -14,7 +14,7 @@ article_header:
   type: overlay
   theme: dark
   actions:
-    - text: 23 July 2022 | Vienna, Austria (Hybrid)
+    - text: 28 May 2023 | Vienna, Austria (Hybrid)
   background_image:
     gradient: 'linear-gradient(135deg, rgba(52, 140, 96, 0.4), rgba(136, 73, 107, 0.4))'
     src: /assets/images/l2r_banner2.png
@@ -190,9 +190,10 @@ img {
 
 ## About
 
-Welcome to the 2nd <a href="https://ijcai-22.org/" target="_blank">IJCAI</a> Workshop on <i>Artificial Intelligence for Autonomous Driving</i> (AI4AD)!
+Welcome to the 1st <a href="https://ijcai-22.org/" target="_blank">IJCAI</a> Workshop on <i>{{ site.conf_full_name }}</i> ({{ site.conf_name }})!
 
-While there have been significant advances in vehicle autonomy (e.g., perception, trajectory forecasting, planning and control, etc.), it is of paramount importance for autonomous systems to adhere to safety specifications, as any safety infraction in urban and highway driving, or high-speed racing could lead to catastrophic failures. Given this inherent tension between safety and performance, we introduce a new simulation environment in autonomous racing as a particularly challenging proving ground for safe learning algorithms.<br>
+While there have been significant advances in vehicle autonomy (e.g., perception, trajectory forecasting, planning and control, etc.), it is of paramount importance for autonomous systems to adhere to safety specifications, as any safety infraction in urban and highway driving, or high-speed racing could lead to catastrophic failures. Given this inherent tension between safety and performance, we introduce a new simulation environment in autonomous racing as a particularly challenging proving ground for safe learning algorithms.
+<br>
 
 We envision this workshop bringing together researchers and industry practitioners from different AI subfields to work towards safer and more robust autonomous technology. We encourage participants to take part in the Challenge by competing for top leaderboard positions, to submit articles for review, and to engage with us at IJCAI 2022.<br>
 
