@@ -190,15 +190,15 @@ img {
 
 ## About
 
-Welcome to the 1st <a href="" target="_blank">IJCAI</a> Workshop on <i>{{ site.conf_full_name }}</i> ({{ site.conf_name }})!
+Welcome to the 1st <a href="" target="_blank">ICRA</a> Workshop on <i>{{ site.conf_full_name }}</i> ({{ site.conf_name }})!
 
 
 In the same way policy makers make use of economic indicators – such as GDP, unemployment or inflation rates –  to get a
 sense of countries’ economic and social health and design appropriate interventions, high-level indicators describing
 what AI can or cannot do are yet missing. In order to respond to the challenges posed by the development of AI and
-robotics over time, arise the urge to development of a set of valid measures describing AI and robotics capabilities.
+robotics over time, arise the urge to develop a set of valid measures describing AI and robotics capabilities.
 
-The Assessment of robotics capabilities for policy makers workshop will present and refine a set of proposed measures of
+The {{ site.conf_full_name }} Workshop will present and refine a set of proposed measures of
 robotics capabilities developed for policy makers. Its ultimate goal will be to present policy makers a comprehensive
 picture of AI capabilities in robotics and offer a reflection on the ways it might affect work and education.
 
@@ -225,7 +225,6 @@ We will discuss how five robotics capabilities should be measured for policymaki
 <div style="width:49%; display:inline-block; font-size:14px; vertical-align:top">
 <ol>
 <li>navigation/mobility</li>
-
 <li>manipulation/dexterity</li>
 <li>perception</li>
 <li>communication/language</li>
@@ -259,9 +258,11 @@ Additional schedule information: <a href="" target="_blank">TBD</a>
 
 ## Workshop Schedule
 
-Saturday, 23 July, 2022. All times are in Central European Time (CET). Current time is <span id="cet"></span>.
+Sunday, 28 May, 2023. All times are in Central European Time (CET). Current time is <span id="cet"></span>.
 
-<div style="display:block; width:900px; padding:20px; border:solid 4px #CCCCCC;">
+(TBD)
+
+<!-- <div style="display:block; width:900px; padding:20px; border:solid 4px #CCCCCC;">
 <div class="schedule-table-heading" style="margin-left:57px; display:inline-block; inline-size:100px;">Time</div>
 <div class="schedule-table-heading" style="display:inline-block; inline-size:295px;">Event</div>
 <div class="schedule-table-heading">Content</div>
@@ -310,14 +311,12 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <div class="schedule-table-row-odd">
 <div class="schedule-table-timecol">10:00</div>
 <div class="schedule-table-eventcol">Social + Poster Session</div>
-<!--div class="schedule-table-contentcol">Paper IDs: 1, 4, 5, 6, 7, 12, 13, 14, 17</div-->
 <div class="schedule-table-contentcol"><a href="https://app.gather.town/app/LKQOfjZkcrh2dfm4/AI4AD" target="_blank"><b>Gathertown</b></a> and in-person displays</div>
 </div>
 
 <div class="schedule-table-row-even">
 <div class="schedule-table-timecol">11:00</div>
 <div class="schedule-table-eventcol">Spotlight Talks</div>
-<!--div class="schedule-table-contentcol">Content</div-->
 </div>
 
 <div class="schedule-table-row-even">
@@ -353,13 +352,11 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <div class="schedule-table-row-odd">
 <div class="schedule-table-timecol">11:30</div>
 <div class="schedule-table-eventcol">Lunch Break</div>
-<!--div class="schedule-table-contentcol">Content</div-->
 </div>
 
 <div class="schedule-table-row-even">
 <div class="schedule-table-timecol" style="vertical-align: 10px;">13:00</div>
 <div class="schedule-table-eventcol">Autonomous Racing Virtual Challenge: Contributed Talks</div>
-<!--div class="schedule-table-contentcol">Content</div-->
 </div>
 
 <div class="schedule-table-row-even">
@@ -395,7 +392,6 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <div class="schedule-table-row-odd">
 <div class="schedule-table-timecol">13:30</div>
 <div class="schedule-table-eventcol">Spotlight Talks</div>
-<!--div class="schedule-table-contentcol">Content</div-->
 </div>
 
 <div class="schedule-table-row-odd">
@@ -476,7 +472,6 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <div class="schedule-table-row-odd">
 <div class="schedule-table-timecol">15:30</div>
 <div class="schedule-table-eventcol">Social + Poster Session</div>
-<!--div class="schedule-table-contentcol">Paper IDs: 1, 4, 5, 6, 7, 12, 13, 14, 17</div-->
 <div class="schedule-table-contentcol"><a href="https://app.gather.town/app/LKQOfjZkcrh2dfm4/AI4AD" target="_blank"><b>Gathertown</b></a> and in-person displays</div>
 </div>
 
@@ -516,11 +511,13 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <div class="schedule-table-contentcol">Closing Remarks</div>
 </div>
 
-</div>
+</div> -->
 
 ## Speakers
 
-<div style="display:block; padding:10px 0 0 0; width:900px;">
+(TBD)
+
+<!-- <div style="display:block; padding:10px 0 0 0; width:900px;">
 
 <a href="https://arrival.com/us/en" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
@@ -608,24 +605,14 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 </a>
 
 </div>
+ -->
 
 
 ## Organisers
 
 <div style="display:inline; width:900px; vertical-align: top;">
 
-<a href="https://www.linkedin.com/in/jonmfrancis/" target="_blank" class="organiser_profile">
-<div style="display:inline-block; width:270px;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/jonathan_francis.png" alt="Jonathan Francis">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Jonathan Francis</p>
-<!--p style="margin:0 0 0 10px;">CMU + Bosch</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Research Scientist at Bosch Research; domain knowledge-enhanced representation learning, applied to robotics and autonomous driving</p>
-</div>
-</div>
-</a>
+
 
 <a href="" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
@@ -666,10 +653,23 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 </div>
 </a>
 
+<a href="https://www.linkedin.com/in/jonmfrancis/" target="_blank" class="organiser_profile">
+<div style="display:inline-block; width:270px;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/jonathan_francis.png" alt="Jonathan Francis">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Jonathan Francis</p>
+<!--p style="margin:0 0 0 10px;">CMU + Bosch</p-->
+<p style="margin:0 0 0 10px; font-size:10px;">Research Scientist at Bosch Research; domain knowledge-enhanced representation learning, applied to robotics and autonomous driving</p>
+</div>
+</div>
+</a>
+
 <a href="" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/temp__pic.png" alt="Leo Chen">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/temp_pic.png" alt="Leo Chen">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Leo Chen</p>
@@ -682,38 +682,12 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <a href="" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/temp_pic.png" alt="Sebastian Scherer">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/temp_pic.png" alt="Peter Schaldenbrand">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Sebastian Scherer</p>
+<p style="margin:0 0 0 10px;">Peter Schaldenbrand</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
 <p style="margin:0 0 0 10px; font-size:10px;"></p>
-</div>
-</div>
-</a>
-
-<a href="" target="_blank" class="organiser_profile">
-<div style="display:inline-block; width:270px;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/temp_pic.png" alt="Vihaan Misra">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Vihaan Misra</p>
-<!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;"></p>
-</div>
-</div>
-</a>
-
-<a href="https://www.cs.cmu.edu/~./jeanoh/" target="_blank" class="organiser_profile">
-<div style="display:inline-block; width:270px;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/jean_oh.png" alt="Jean Oh">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Jean Oh</p>
-<!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Research Professor in Robotics Institute at CMU and Director of Bot Intelligence Group; multimodal perception, navigation, and artificial intelligence</p>
 </div>
 </div>
 </a>
@@ -734,12 +708,38 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <a href="" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/temp_pic.png" alt="Peter Schaldenbrand">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/temp_pic.png" alt="Vihaan Misra">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Peter Schaldenbrand</p>
+<p style="margin:0 0 0 10px;">Vihaan Misra</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
 <p style="margin:0 0 0 10px; font-size:10px;"></p>
+</div>
+</div>
+</a>
+
+<a href="" target="_blank" class="organiser_profile">
+<div style="display:inline-block; width:270px;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/temp_pic.png" alt="Sebastian Scherer">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Sebastian Scherer</p>
+<!--p style="margin:0 0 0 10px;">CMU</p-->
+<p style="margin:0 0 0 10px; font-size:10px;"></p>
+</div>
+</div>
+</a>
+
+<a href="https://www.cs.cmu.edu/~./jeanoh/" target="_blank" class="organiser_profile">
+<div style="display:inline-block; width:270px;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/jean_oh.png" alt="Jean Oh">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Jean Oh</p>
+<!--p style="margin:0 0 0 10px;">CMU</p-->
+<p style="margin:0 0 0 10px; font-size:10px;">Research Professor in Robotics Institute at CMU and Director of Bot Intelligence Group; multimodal perception, navigation, and artificial intelligence</p>
 </div>
 </div>
 </a>
@@ -751,21 +751,21 @@ Saturday, 23 July, 2022. All times are in Central European Time (CET). Current t
 <!-- column 1 -->
 <div class="pc-column">
 <ul>
-<li></li>
+<li>TBD</li>
 </ul>
 </div>
 
 <!-- column 2 -->
 <div class="pc-column" style="margin:0 30px 0 0;">
 <ul>
-<li></li>
+<li>TBD</li>
 </ul>
 </div>
 
 <!-- column 3 -->
 <div class="pc-column">
 <ul>
-<li></li>
+<li>TBD</li>
 </ul>
 </div>
 
