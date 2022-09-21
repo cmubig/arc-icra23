@@ -32,11 +32,12 @@ We are accepting papers in measuring the following robotics capabilities for pol
 - communication/language
 - learning/adaption
 
-- 
+
 ## Paper Submission Guidelines
 
 > Submission deadline: <b>TBD, Central European Time (CET)</b><br>
 Details TBD
+
 <!-- 
 
 > Submission format: either <b>extended abstracts</b> or <b>full papers</b>, 4 or 8 pages, respectively (excluding references and supplementary)<br>
@@ -57,6 +58,7 @@ Additional notes:
 - We will issue <i>Best Paper</i> and <i>Best Student Paper</i> awards, as voted by our program committee. Presentation of these works will be featured during the workshop's <i>Spotlight Talks</i> sessions
 
  -->
+ 
 ## Organising Committee
 
 - Stuart Elliott, OECD
