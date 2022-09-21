@@ -256,7 +256,7 @@ Additional venue information: <a href="https://www.icra2023.org/about/venue" tar
 
 Additional schedule information: <a href="" target="_blank">TBD</a>
 
-## Workshop Schedule
+## Schedule
 
 Sunday, 28 May, 2023. All times are in Central European Time (CET). Current time is <span id="cet"></span>.
 
@@ -783,7 +783,7 @@ Sunday, 28 May, 2023. All times are in Central European Time (CET). Current time
 
 ## Sponsors
 
-<img src="{{ site.baseurl }}/assets/images/sponsors/sponsor_banner.png">
+<!-- <img src="{{ site.baseurl }}/assets/images/sponsors/sponsor_banner.png"> -->
 
 <!--
 <div class="col-lg-12 col-xl-6">

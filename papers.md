@@ -18,7 +18,7 @@ title:
 
 # Papers
 
-### Best Paper Award Recipient
+<!-- ### Best Paper Award Recipient
 
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
     <p style="margin:0 0 4px 0;font-size:18px;">ROAD-R: The Autonomous Driving Dataset with Logical Requirements</p>
@@ -115,3 +115,4 @@ title:
     <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Aytaç Kanacı, Izzeddin Teeti, Fabio Cuzzolin</p>
     <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_17.pdf" target="_blank">Paper</a>] [Video]</p>
 </div>
+ -->

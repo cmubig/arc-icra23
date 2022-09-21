@@ -11,7 +11,7 @@ key: page-about
 
 <br>
 
-<div class="grid-container">
+<!-- <div class="grid-container">
   <div class="grid grid--p-3">
     <div class="cell cell--6">
       <div class="card">
@@ -75,3 +75,4 @@ key: page-about
     </div>
   <div>
 </div>
+ -->
