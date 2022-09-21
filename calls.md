@@ -18,31 +18,27 @@ title:
 
 # Call for Papers
 
-<p>The 1st Workshop on <a href="{{ site.baseurl }}/" target="_blank">{ site.conf_full_name }}</a> ({{ site.conf_name }}) is co-located with the International Conference on Robotics and Automation (ICRA 2023), to be held on 28 May 2023 in hybrid format.</p>
+<p>The 1st Workshop on <a href="{{ site.baseurl }}/" target="_blank">{{ site.conf_full_name }}</a> ({{ site.conf_name }}) is co-located with the International Conference on Robotics and Automation (ICRA 2023), to be held on 28 May 2023 in hybrid format.</p>
 
 
 ## Workshop Publication Topics
 
 We are accepting papers in measuring the following robotics capabilities for policymaking:
 
-<div>
-<div style="width:49%; display:inline-block; font-size:14px; vertical-align:top">
-<ol>
-<li>navigation/mobility</li>
-<li>manipulation/dexterity</li>
-<li>perception</li>
-<li>communication/language</li>
-<li>learning/adaption</li>
-</ol>
-</div>
-</div>
+
+- navigation/mobility
+- manipulation/dexterity
+- perception
+- communication/language
+- learning/adaption
 
 - 
 ## Paper Submission Guidelines
 
 > Submission deadline: <b>TBD, Central European Time (CET)</b><br>
 Details TBD
-<!-- > Submission format: either <b>extended abstracts</b> or <b>full papers</b>, 4 or 8 pages, respectively (excluding references and supplementary)<br>
+<!-- 
+> Submission format: either <b>extended abstracts</b> or <b>full papers</b>, 4 or 8 pages, respectively (excluding references and supplementary)<br>
 > Author kit: <a href="{{ site.baseurl }}/assets/FormattingGuidelines-IJCAI-ECAI-22.zip" target="_blank">https://learn-to-race.org/workshop-ai4ad-ijcai2022/assets/FormattingGuidelines-IJCAI-ECAI-22.zip</a><br>
 > Submission site: <a href="https://cmt3.research.microsoft.com/AI4AD2022" target="_blank">https://cmt3.research.microsoft.com/AI4AD2022</a>
 

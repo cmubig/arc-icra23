@@ -222,7 +222,6 @@ willing to contribute to this work.
 We will discuss how five robotics capabilities should be measured for policymaking:
 
 <div>
-<div style="width:49%; display:inline-block; font-size:14px; vertical-align:top">
 <ol>
 <li>navigation/mobility</li>
 <li>manipulation/dexterity</li>
@@ -230,7 +229,6 @@ We will discuss how five robotics capabilities should be measured for policymaki
 <li>communication/language</li>
 <li>learning/adaption</li>
 </ol>
-</div>
 </div>
 
 ## Dates
