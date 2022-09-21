@@ -38,6 +38,7 @@ We are accepting papers in measuring the following robotics capabilities for pol
 > Submission deadline: <b>TBD, Central European Time (CET)</b><br>
 Details TBD
 <!-- 
+
 > Submission format: either <b>extended abstracts</b> or <b>full papers</b>, 4 or 8 pages, respectively (excluding references and supplementary)<br>
 > Author kit: <a href="{{ site.baseurl }}/assets/FormattingGuidelines-IJCAI-ECAI-22.zip" target="_blank">https://learn-to-race.org/workshop-ai4ad-ijcai2022/assets/FormattingGuidelines-IJCAI-ECAI-22.zip</a><br>
 > Submission site: <a href="https://cmt3.research.microsoft.com/AI4AD2022" target="_blank">https://cmt3.research.microsoft.com/AI4AD2022</a>
@@ -54,6 +55,7 @@ Additional notes:
 - All accepted papers will be presented at virtual poster sessions.
 - De-anonymised, accepted papers will be posted on this website.
 - We will issue <i>Best Paper</i> and <i>Best Student Paper</i> awards, as voted by our program committee. Presentation of these works will be featured during the workshop's <i>Spotlight Talks</i> sessions
+
  -->
 ## Organising Committee
 
@@ -71,7 +73,9 @@ Additional notes:
 ## Important Dates
 
 TBD
-<!-- Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brussels, Vienna.</b>
+
+<!-- 
+Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brussels, Vienna.</b>
 
 <div>
 Paper submissions open: 3 March 2022<br>
