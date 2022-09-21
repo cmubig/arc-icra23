@@ -1,10 +1,10 @@
 
-# Learn-to-Race Workshop Website
+# Assessment of Robotic Capabilities for Policy Makers Website
 
 
 ## About
 
-This website was built [Jekyll](https://jekyllrb.com/) and uses the [Jekyll TeXt Theme](https://tianqi.name/jekyll-TeXt-theme/docs/en/quick-start) and is hosted on Github Pages at https://learn-to-race.org/learn-to-race-challenge/.
+This website was built [Jekyll](https://jekyllrb.com/) and uses the [Jekyll TeXt Theme](https://tianqi.name/jekyll-TeXt-theme/docs/en/quick-start) and is hosted on Github Pages at https://cmubig.github.io/arc-icra23-workshop/.
 
 
 ## Local Hosting
