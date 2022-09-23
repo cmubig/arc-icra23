@@ -568,7 +568,7 @@ Henrick Christensen</div>
 <a href="http://www.hichristensen.net/" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:80px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/henrikchristensen.jpg" alt="Henrik Christensen">
+<img style="width:100px; height:80px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/henrikchristensen.png" alt="Henrik Christensen">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Henrik Christensen</p>
