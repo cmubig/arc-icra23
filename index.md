@@ -292,7 +292,7 @@ Sunday, 28 May, 2023. All times are in Central European Time (CET). Current time
 &nbsp;
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 40px">
-<p style="margin:0 0 0 10px;">Patrick Kyllonen, Mark Schneider, Britta Rueschoff, Jean Oh/p>
+<p style="margin:0 0 0 10px;">Patrick Kyllonen, Mark Schneider, Britta Rueschoff, Jean Oh</p>
 </div>
 </div>
 </div>
