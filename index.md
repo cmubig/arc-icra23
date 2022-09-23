@@ -258,258 +258,126 @@ Additional schedule information: <a href="" target="_blank">TBD</a>
 
 Sunday, 28 May, 2023. All times are in Central European Time (CET). Current time is <span id="cet"></span>.
 
-(TBD)
-
-<!-- <div style="display:block; width:900px; padding:20px; border:solid 4px #CCCCCC;">
+<div style="display:block; width:900px; padding:20px; border:solid 4px #CCCCCC;">
 <div class="schedule-table-heading" style="margin-left:57px; display:inline-block; inline-size:100px;">Time</div>
 <div class="schedule-table-heading" style="display:inline-block; inline-size:295px;">Event</div>
 <div class="schedule-table-heading">Content</div>
 
-<div class="schedule-table-row-even">
-<div class="schedule-table-timecol">08:50</div>
-<div class="schedule-table-eventcol">Welcome</div>
-<div class="schedule-table-contentcol">Opening Remarks</div>
-</div>
+<!-- -->
 
-<div class="schedule-table-row-odd">
+<div class="schedule-table-row-even">
 <div class="schedule-table-timecol" style="vertical-align: 10px;">09:00</div>
-<div class="schedule-table-eventcol">
-<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/max_kumskoy.png" alt="Max Kumskoy">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/ivan_zhukov.png" alt="Ivan Zhukov">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Max Kumskoy</p>
-<p style="margin:0 0 0 10px; font-size:10px;">ARRIVAL</p>
-<p style="margin:10px 0 0 10px;">Ivan Zhukov</p>
-<p style="margin:0 0 0 10px; font-size:10px;">ARRIVAL</p>
-</div>
-</div>
-</div>
-<div class="schedule-table-contentcol"><i>ARRIVAL Vehicle Simulation: Full-stack Simulator for Research, Development, and Testing of any Vehicle, Vehicle System, or Feature [Embargoed]</i></div>
+<div class="schedule-table-eventcol">Welcome</div>
 </div>
 
 <div class="schedule-table-row-even">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">09:30</div>
-<div class="schedule-table-eventcol">
-<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div class="schedule-table-timecol" style="vertical-align: 10px;">&nbsp;</div>
+<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/sahika_genc.png" alt="Sahika Genc">
+&nbsp;
 </div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Sahika Genc</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Amazon AWS</p>
+<div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 40px">
+<p style="margin:0 0 0 10px; ">Stuart Elliot</p>
+<p style="margin:0 0 0 10px; font-size:10px;">OECD</p>
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol"><a href="https://youtu.be/AOOZTR2fZdE" target="_blank"><i>Deep Reinforcement Learning for Autonomous Driving with AWS DeepRacer</i></a></div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><a href="video" target="_blank">Presentation: <i>The OECD Project</i></a></div>
 </div>
+
+<div class="schedule-table-row-even">
+<div class="schedule-table-timecol" style="vertical-align: 10px;">&nbsp;</div>
+<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:60px;">
+&nbsp;
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 40px">
+<p style="margin:0 0 0 10px;">Patrick Kyllonen, Mark Schneider, Britta Rueschoff, Jean Oh/p>
+</div>
+</div>
+</div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><a href="video" target="_blank">Panel discussion: <i>How indicators of robotics capabilities can be used</i></a></div>
+</div>
+
+<div class="schedule-table-row-even">
+<div class="schedule-table-timecol" style="vertical-align: 10px;">&nbsp;</div>
+<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:60px;">
+&nbsp;
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 40px">
+<p style="margin:0 0 0 10px;">Jean Oh</p>
+<p style="margin:0 0 0 10px; font-size:10px;">CMU</p>
+</div>
+</div>
+</div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><a href="video" target="_blank">Presentation:<i>The Robotics Space</i></a></div>
+</div>
+
+<!-- -->
+
 
 <div class="schedule-table-row-odd">
 <div class="schedule-table-timecol">10:00</div>
-<div class="schedule-table-eventcol">Social + Poster Session</div>
-<div class="schedule-table-contentcol"><a href="https://app.gather.town/app/LKQOfjZkcrh2dfm4/AI4AD" target="_blank"><b>Gathertown</b></a> and in-person displays</div>
+<div class="schedule-table-eventcol">Capability 1: Navigation & Mobility</div>
+<div class="schedule-table-contentcol"><a href="video" target="_blank">Presentations, discussion & Q/A</div>
 </div>
+
+<!-- -->
 
 <div class="schedule-table-row-even">
 <div class="schedule-table-timecol">11:00</div>
-<div class="schedule-table-eventcol">Spotlight Talks</div>
+<div class="schedule-table-eventcol"> Capability 2: Manipulation & Dexterity</div>
+<div class="schedule-table-contentcol"><a href="video" target="_blank">Presentations, discussion & Q/A</div>
 </div>
 
-<div class="schedule-table-row-even">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">&nbsp;</div>
-<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:60px;">
-&nbsp;
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 40px">
-<p style="margin:0 0 0 10px; ">Shunli Ren</p>
-<p style="margin:0 0 0 10px; font-size:10px;">SJTU</p>
-</div>
-</div>
-</div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><a href="https://youtu.be/3cIWpMrsyeE" target="_blank"><i>Robust Collaborative Perception against Communication Interruption</i></a></div>
-</div>
-
-<div class="schedule-table-row-even">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">&nbsp;</div>
-<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:60px;">
-&nbsp;
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 40px">
-<p style="margin:0 0 0 10px;">Balint Gyevnar</p>
-<p style="margin:0 0 0 10px; font-size:10px;">U Edinburgh</p>
-</div>
-</div>
-</div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><a href="https://youtu.be/gmjylztszZA" target="_blank"><i>A Human-Centric Method for Generating Causal Explanations in Natural Language for Autonomous Vehicle Motion Planning</i></a></div>
-</div>
+<!-- -->
 
 <div class="schedule-table-row-odd">
-<div class="schedule-table-timecol">11:30</div>
+<div class="schedule-table-timecol">12:00</div>
 <div class="schedule-table-eventcol">Lunch Break</div>
 </div>
 
-<div class="schedule-table-row-even">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">13:00</div>
-<div class="schedule-table-eventcol">Autonomous Racing Virtual Challenge: Contributed Talks</div>
-</div>
+<!-- -->
 
 <div class="schedule-table-row-even">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">&nbsp;</div>
-<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:60px;">
-&nbsp;
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 40px">
-<p style="margin:0 0 0 10px;">Matthew R Howe</p>
-<p style="margin:0 0 0 10px; font-size:10px;">U Adelaide</p>
-</div>
-</div>
-</div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><a href="https://youtu.be/bTBk8MFdIOA" target="_blank"><i>The Edge of Disaster: A Battle Between Autonomous Racing and Safety</i></a></div>
+<div class="schedule-table-timecol">13:00</div>
+<div class="schedule-table-eventcol"> Capability 3: Perception</div>
+<div class="schedule-table-contentcol"><a href="video" target="_blank">Presentations, discussion & Q/A</div>
 </div>
 
-<div class="schedule-table-row-even">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">&nbsp;</div>
-<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:60px;">
-&nbsp;
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 40px">
-<p style="margin:0 0 0 10px;">Lachlan Mares</p>
-<p style="margin:0 0 0 10px; font-size:10px;">U Adelaide</p>
-</div>
-</div>
-</div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><a href="https://youtu.be/5oYUBg9SZEk" target="_blank"><i>Learn 2 Rage: Experiencing The Emotional Roller Coaster That Is Reinforcement Learning</i></a></div>
-</div>
+<!-- -->
 
 <div class="schedule-table-row-odd">
-<div class="schedule-table-timecol">13:30</div>
-<div class="schedule-table-eventcol">Spotlight Talks</div>
+<div class="schedule-table-timecol">14:00</div>
+<div class="schedule-table-eventcol"> Capability 4: Communication & Language</div>
+<div class="schedule-table-contentcol"><a href="video" target="_blank">Presentations, discussion & Q/A</div>
 </div>
 
-<div class="schedule-table-row-odd">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">&nbsp;</div>
-<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:60px;">
-&nbsp;
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 40px">
-<p style="margin:0 0 0 10px;">Mihaela Catalina Stoian</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Oxford</p>
-</div>
-</div>
-</div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><a href="https://youtu.be/_-Ll5d1VQXY" target="_blank"><i>ROAD-R: The Autonomous Driving Dataset with Logical Requirements</i></a></div>
-</div>
-
-<div class="schedule-table-row-odd">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">&nbsp;</div>
-<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:60px;">
-&nbsp;
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 40px">
-<p style="margin:0 0 0 10px;">Soumith Udatha</p>
-<p style="margin:0 0 0 10px; font-size:10px;">CMU</p>
-</div>
-</div>
-</div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><a href="https://youtu.be/9cUIOWafELs" target="_blank"><i>Safe Reinforcement Learning with Probabilistic Control Barrier Functions for Ramp Merging</i></a></div>
-</div>
+<!-- -->
 
 <div class="schedule-table-row-even">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">14:00</div>
-<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/changliu_liu.png" alt="Changliu Liu">
+<div class="schedule-table-timecol">15:00</div>
+<div class="schedule-table-eventcol"> Capability 5: Learning & Adaptation</div>
+<div class="schedule-table-contentcol"><a href="video" target="_blank">Presentations, discussion & Q/A</div>
 </div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Changliu Liu</p>
-<p style="margin:0 0 0 10px; font-size:10px;">CMU</p>
-</div>
-</div>
-</div>
-<div class="schedule-table-contentcol"><a href="https://youtu.be/XsizJBWdz-A"><i>Safe Learning, Prediction, and Coordination for Autonomous Driving</i></a></div>
-</div>
+
+<!-- -->
+
 
 <div class="schedule-table-row-odd">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">14:30</div>
-<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/madhur_behl.png" alt="Madhur Behl">
+<div class="schedule-table-timecol">16:00</div>
+<div class="schedule-table-eventcol">
+Conclusion
+    <div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 40px">
+    <p style="margin:0 0 0 10px; font-size:10px;">What did we learn and how can we improve it?</p>
+    </div>
 </div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Madhur Behl</p>
-<p style="margin:0 0 0 10px; font-size:10px;">UVA</p>
-</div>
-</div>
-</div>
-<div class="schedule-table-contentcol"><a href="https://youtu.be/0wdf8anWf3k" target="_blank"><i>Bringing AI Up To Speed with Autonomous Racing</i></a></div>
-</div>
+<div class="schedule-table-contentcol"><a href="video" target="_blank">Presentations, discussion & Q/A</div>
 
-<div class="schedule-table-row-even">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">15:00</div>
-<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/ding_zhao.png" alt="Ding Zhao">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Ding Zhao</p>
-<p style="margin:0 0 0 10px; font-size:10px;">CMU</p>
-</div>
-</div>
-</div>
-<div class="schedule-table-contentcol"><a href="https://youtu.be/TjxgChqlXF8"><i>Developing Trustworthy AI for Autonomous Driving</i></a></div>
-</div>
 
-<div class="schedule-table-row-odd">
-<div class="schedule-table-timecol">15:30</div>
-<div class="schedule-table-eventcol">Social + Poster Session</div>
-<div class="schedule-table-contentcol"><a href="https://app.gather.town/app/LKQOfjZkcrh2dfm4/AI4AD" target="_blank"><b>Gathertown</b></a> and in-person displays</div>
-</div>
 
-<div class="schedule-table-row-even">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">16:30</div>
-<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/johannes_betz.png" alt="Johannes Betz">
 </div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Johannes Betz</p>
-<p style="margin:0 0 0 10px; font-size:10px;">UPenn</p>
-</div>
-</div>
-</div>
-<div class="schedule-table-contentcol"><a href="https://youtu.be/uFSLC3ylUW4"><i>Learning to Handle Autonomous Vehicles at the Limit - Experiences from Roborace and the Indy Autonomous Challenge</i></a></div>
-</div>
-
-<div class="schedule-table-row-odd">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">17:00</div>
-<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/rowan_mcallister.png" alt="Rowan McAllister">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Rowan McAllister</p>
-<p style="margin:0 0 0 10px; font-size:10px;">TRI</p>
-</div>
-</div>
-</div>
-<div class="schedule-table-contentcol"><a href="https://youtu.be/zaOAfv7YYE0" target="_blank"><i>Robust Behavior Models for Autonomous Driving</i></a></div>
-</div>
-
-<div class="schedule-table-row-even">
-<div class="schedule-table-timecol">17:30</div>
-<div class="schedule-table-eventcol">Conclusion</div>
-<div class="schedule-table-contentcol">Closing Remarks</div>
-</div>
-
-</div> -->
 
 ## Speakers
 
