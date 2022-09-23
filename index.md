@@ -320,7 +320,7 @@ Sunday, 28 May, 2023. All times are in Central European Time (CET). Current time
 <div class="schedule-table-row-odd">
 <div class="schedule-table-timecol">10:00</div>
 <div class="schedule-table-eventcol">Capability 1: Navigation & Mobility</div>
-<div class="schedule-table-contentcol"><a href="video" target="_blank">Presentations, discussion & Q/A</div>
+<div class="schedule-table-contentcol"><a href="video" target="_blank">Presentations, discussion &amp; Q/A</a></div>
 </div>
 
 <!-- -->
@@ -328,7 +328,7 @@ Sunday, 28 May, 2023. All times are in Central European Time (CET). Current time
 <div class="schedule-table-row-even">
 <div class="schedule-table-timecol">11:00</div>
 <div class="schedule-table-eventcol"> Capability 2: Manipulation & Dexterity</div>
-<div class="schedule-table-contentcol"><a href="video" target="_blank">Presentations, discussion & Q/A</div>
+<div class="schedule-table-contentcol"><a href="video" target="_blank">Presentations, discussion &amp; Q/A</a></div>
 </div>
 
 <!-- -->
@@ -343,7 +343,7 @@ Sunday, 28 May, 2023. All times are in Central European Time (CET). Current time
 <div class="schedule-table-row-even">
 <div class="schedule-table-timecol">13:00</div>
 <div class="schedule-table-eventcol"> Capability 3: Perception</div>
-<div class="schedule-table-contentcol"><a href="video" target="_blank">Presentations, discussion & Q/A</div>
+<div class="schedule-table-contentcol"><a href="video" target="_blank">Presentations, discussion &amp; Q/A</a></div>
 </div>
 
 <!-- -->
@@ -351,7 +351,7 @@ Sunday, 28 May, 2023. All times are in Central European Time (CET). Current time
 <div class="schedule-table-row-odd">
 <div class="schedule-table-timecol">14:00</div>
 <div class="schedule-table-eventcol"> Capability 4: Communication & Language</div>
-<div class="schedule-table-contentcol"><a href="video" target="_blank">Presentations, discussion & Q/A</div>
+<div class="schedule-table-contentcol"><a href="video" target="_blank">Presentations, discussion &amp; Q/A</a></div>
 </div>
 
 <!-- -->
@@ -359,7 +359,7 @@ Sunday, 28 May, 2023. All times are in Central European Time (CET). Current time
 <div class="schedule-table-row-even">
 <div class="schedule-table-timecol">15:00</div>
 <div class="schedule-table-eventcol"> Capability 5: Learning & Adaptation</div>
-<div class="schedule-table-contentcol"><a href="video" target="_blank">Presentations, discussion & Q/A</div>
+<div class="schedule-table-contentcol"><a href="video" target="_blank">Presentations, discussion &amp; Q/A</a></div>
 </div>
 
 <!-- -->
@@ -373,7 +373,8 @@ Conclusion
     <p style="margin:0 0 0 10px; font-size:10px;">What did we learn and how can we improve it?</p>
     </div>
 </div>
-<div class="schedule-table-contentcol"><a href="video" target="_blank">Presentations, discussion & Q/A</div>
+<div class="schedule-table-contentcol"><a href="video" target="_blank">Presentations, discussion &amp; Q/A</a></div>
+</div>
 
 
 
