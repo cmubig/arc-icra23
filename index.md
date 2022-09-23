@@ -565,26 +565,26 @@ Henrick Christensen</div>
 </div> -->
 <div style="display:block; padding:10px 0 0 0; width:900px;">
 
-<a href="https://arrival.com/us/en" target="_blank" class="speaker_profile">
+<a href="http://www.hichristensen.net/" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:80px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/max_ivan.png" alt="Max Kumskoy, Ivan Zhukov">
+<img style="width:100px; height:80px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/max_ivan.png" alt="Henrik Christensen">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Max Kumskoy, Ivan Zhukov</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Automated Driving Systems<br>ARRIVAL</p>
+<p style="margin:0 0 0 10px;">Henrik Christensen</p>
+<p style="margin:0 0 0 10px; font-size:10px;">UC San Diego</p>
 </div>
 </div>
 </a>
 
-<a href="https://www.amazon.science/author/sahika-genc" target="_blank" class="speaker_profile">
+<a href="https://faculty.cc.gatech.edu/~chernova/" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/sahika_genc.png" alt="Sahika Genc">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/sahika_genc.png" alt="Sonia Chernova">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Sahika Genc</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Principal Scientist<br>Amazon AWS</p>
+<p style="margin:0 0 0 10px;">Sonia Chernova</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Georgia Tech</p>
 </div>
 </div>
 </a>
