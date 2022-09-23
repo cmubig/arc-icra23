@@ -31,7 +31,8 @@ article_header:
 
 .schedule-table-timecol {
     padding:0 50px 0 50px;
-    display:inline;
+    width:150px;
+    display:inline-block;
 }
 
 .schedule-table-eventcol {
@@ -359,7 +360,7 @@ Sunday, 28 May, 2023. All times are in Central European Time (CET). Current time
 <div class="schedule-table-row-odd">
 <div class="schedule-table-timecol">16:00</div>
 <div class="schedule-table-eventcol">
-    <div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 40px">
+    <div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 0px">
     <p style="margin:0 0 0 0px;">Conclusion</p>
     <p style="margin:0 0 0 0px; font-size:10px;">What did we learn and how can we improve it?</p>
     </div>
@@ -480,10 +481,16 @@ Sunday, 28 May, 2023. All times are in Central European Time (CET). Current time
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Stuart Elliott</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;"></p>
-</div>
-</div>
-</a>
+<p style="margin:0 0 0 10px; font-size:10px;">Stuart W. Elliott is a senior analyst at the OECD where he leads the AI
+and the Future of Skills project. He holds a doctorate degree in economics from the Massachusetts Institute of
+Technology and a BA in economics from Columbia University. He also received postdoctoral training in cognitive
+psychology at Carnegie Mellon University. He authored the 2017 CERI report on <i>Computers and the Future of Skill Demand</i>,
+which provided the groundwork for the design of the AI and the Future of Skills project. He is also a scholar at the
+National Academies of Sciences, Engineering, and Medicine in the US where he has led studies on educational tests and
+indicators, assessment of science and 21st century skills, applications of information technology, occupational
+preparation and certification, and measuring productivity.</p> 
+<!-- TODO: these bios are pretty looong -->
+</div> </div> </a>
 
 <a href="" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
@@ -493,10 +500,11 @@ Sunday, 28 May, 2023. All times are in Central European Time (CET). Current time
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Abel Baret</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;"></p>
-</div>
-</div>
-</a>
+<p style="margin:0 0 0 10px; font-size:10px;">Abel Baret is a research assistant in the <i>AI and Future of Skills</i> project.
+He holds a BA degree in economics from the Toulouse School of Economics and a MSc in economics and psychology from
+Paris 1 Panthéon‑Sorbonne and Université Paris-Cité. Before joining the OECD, he was involved as a research assistant
+in experimental and behaviour economics at the CNRS Maison des Sciences Economiques in Paris.</p> 
+</div> </div> </a>
 
 <a href="" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
@@ -506,10 +514,15 @@ Sunday, 28 May, 2023. All times are in Central European Time (CET). Current time
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Margarita Kalamova</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;"></p>
-</div>
-</div>
-</a>
+<p style="margin:0 0 0 10px; font-size:10px;">Margarita Kalamova is an analyst in the OECD’s AI and the Future of Skills
+project and a project lead in the <i>Higher Education Policy</i> team of the OECD Directorate of Education and Skills. She
+holds a doctorate degree in Economics from the Freie Universität Berlin and MSc degrees in Economics and Business. At
+the OECD, she has participated in and led several projects in the domain of skills and employment, including editions
+of the OECD Skills Outlook, the Employment Outlook, and country reviews on the labour market relevance and outcomes of
+higher education. She has research experience also in other policy domains, such as innovation, international trade and
+investment, energy and environment. Prior to joining the OECD, she was a research fellow at the WZB Berlin Social
+Science Center.</p> 
+</div> </div> </a>
 
 <a href="https://www.linkedin.com/in/jonmfrancis/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
