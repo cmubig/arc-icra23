@@ -273,12 +273,9 @@ Sunday, 28 May, 2023. All times are in Central European Time (CET). Current time
 <div class="schedule-table-row-even">
 <div class="schedule-table-timecol" style="vertical-align: 10px;">&nbsp;</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:60px;">
-&nbsp;
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 40px">
-<p style="margin:0 0 0 10px; ">Stuart Elliot</p>
-<p style="margin:0 0 0 10px; font-size:10px;">OECD</p>
+<div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 0px">
+<p style="margin:0 0 0 0px; ">Stuart Elliot</p>
+<p style="margin:0 0 0 0px; font-size:10px;">OECD</p>
 </div>
 </div>
 </div>
@@ -288,11 +285,8 @@ Sunday, 28 May, 2023. All times are in Central European Time (CET). Current time
 <div class="schedule-table-row-even">
 <div class="schedule-table-timecol" style="vertical-align: 10px;">&nbsp;</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:60px;">
-&nbsp;
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 40px">
-<p style="margin:0 0 0 10px;">Patrick Kyllonen, Mark Schneider, Britta Rueschoff, Jean Oh</p>
+<div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 0px">
+<p style="margin:0 0 0 0px;">Patrick Kyllonen, Mark Schneider, Britta Rueschoff, Jean Oh</p>
 </div>
 </div>
 </div>
@@ -302,12 +296,9 @@ Sunday, 28 May, 2023. All times are in Central European Time (CET). Current time
 <div class="schedule-table-row-even">
 <div class="schedule-table-timecol" style="vertical-align: 10px;">&nbsp;</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:60px;">
-&nbsp;
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 40px">
-<p style="margin:0 0 0 10px;">Jean Oh</p>
-<p style="margin:0 0 0 10px; font-size:10px;">CMU</p>
+<div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 0px">
+<p style="margin:0 0 0 0px;">Jean Oh</p>
+<p style="margin:0 0 0 0px; font-size:10px;">CMU</p>
 </div>
 </div>
 </div>
@@ -368,9 +359,9 @@ Sunday, 28 May, 2023. All times are in Central European Time (CET). Current time
 <div class="schedule-table-row-odd">
 <div class="schedule-table-timecol">16:00</div>
 <div class="schedule-table-eventcol">
-Conclusion
     <div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 40px">
-    <p style="margin:0 0 0 10px; font-size:10px;">What did we learn and how can we improve it?</p>
+    <p style="margin:0 0 0 0px;">Conclusion</p>
+    <p style="margin:0 0 0 0px; font-size:10px;">What did we learn and how can we improve it?</p>
     </div>
 </div>
 <div class="schedule-table-contentcol"><a href="video" target="_blank">Presentations, discussion &amp; Q/A</a></div>
