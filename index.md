@@ -523,7 +523,7 @@ Sunday, 28 May, 2023. All times are in Central European Time (CET). Current time
 
 ## Speakers
 
-<div id='speakers' class='speakers'>
+<!-- <div id='speakers' class='speakers'>
 <div id='profile05' class='profile05'>
 <div id='base' class='base'>
 </div>
@@ -562,8 +562,8 @@ Sonia Chernova</div>
 <div id='henrickchristensen' class='henrickchristensen'>
 Henrick Christensen</div>
 </div>
-</div>
-<!-- <div style="display:block; padding:10px 0 0 0; width:900px;">
+</div> -->
+<div style="display:block; padding:10px 0 0 0; width:900px;">
 
 <a href="https://arrival.com/us/en" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
@@ -651,7 +651,7 @@ Henrick Christensen</div>
 </a>
 
 </div>
- -->
+
 
 
 ## Organisers
