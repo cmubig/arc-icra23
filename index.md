@@ -135,6 +135,155 @@ img {
     vertical-align: middle;
     border-style: none;
 }
+
+
+.speakers
+{
+width:1193px;
+height:512.2658081054688px;
+}
+.profile05
+{
+width:281.63812255859375px;
+height:194.1595001220703px;
+}
+.base
+{
+border-radius:3px;
+width:281.63812255859375px;
+height:194.1595001220703px;
+background-color:#6b1e23;
+box-shadow:0px 15px 30px rgba(0, 0, 0, 0.05000000074505806);
+}
+.hollyyanco
+{
+text-align:center;
+vertical-align:text-top;
+font-size:30px;
+font-family:Nunito;
+line-height:auto;
+color:#ffffff;
+}
+.profile04
+{
+width:281.63812255859375px;
+height:194.1595001220703px;
+}
+.base2
+{
+border-radius:3px;
+width:281.63812255859375px;
+height:194.1595001220703px;
+background-color:#6b1e23;
+box-shadow:0px 15px 30px rgba(0, 0, 0, 0.05000000074505806);
+}
+.stephanierosenthal
+{
+text-align:center;
+vertical-align:text-top;
+font-size:30px;
+font-family:Nunito;
+line-height:auto;
+color:#ffffff;
+}
+.profile03
+{
+width:281.63812255859375px;
+height:194.1595001220703px;
+}
+.base3
+{
+border-radius:3px;
+width:281.63812255859375px;
+height:194.1595001220703px;
+background-color:#6b1e23;
+box-shadow:0px 15px 30px rgba(0, 0, 0, 0.05000000074505806);
+}
+.martialherbert
+{
+text-align:center;
+vertical-align:text-top;
+font-size:30px;
+font-family:Nunito;
+line-height:auto;
+color:#ffffff;
+}
+.profile7
+{
+width:281.63812255859375px;
+height:194.1595001220703px;
+}
+.base4
+{
+border-radius:3px;
+width:281.63812255859375px;
+height:194.1595001220703px;
+background-color:#6b1e23;
+box-shadow:0px 15px 30px rgba(0, 0, 0, 0.05000000074505806);
+}
+.ayannahoward
+{
+text-align:center;
+vertical-align:text-top;
+font-size:30px;
+font-family:Nunito;
+line-height:auto;
+color:#ffffff;
+}
+.profile6
+{
+width:281.63812255859375px;
+height:194.1595001220703px;
+}
+.base5
+{
+border-radius:3px;
+width:281.63812255859375px;
+height:194.1595001220703px;
+background-color:#6b1e23;
+box-shadow:0px 15px 30px rgba(0, 0, 0, 0.05000000074505806);
+}
+.text
+{
+text-align:center;
+vertical-align:text-top;
+font-size:16px;
+font-family:Nunito;
+line-height:auto;
+color:#ffffff;
+}
+.soniachernova
+{
+text-align:center;
+vertical-align:text-top;
+font-size:30px;
+font-family:Nunito;
+line-height:auto;
+color:#ffffff;
+}
+.profile01
+{
+width:281.63812255859375px;
+height:194.1595001220703px;
+}
+.base6
+{
+border-radius:3px;
+width:281.63812255859375px;
+height:194.1595001220703px;
+background-color:#6b1e23;
+box-shadow:0px 15px 30px rgba(0, 0, 0, 0.05000000074505806);
+}
+.henrickchristensen
+{
+text-align:center;
+vertical-align:text-top;
+font-size:30px;
+font-family:Nunito;
+line-height:auto;
+color:#ffffff;
+}
+
 </style>
 
 <script>
@@ -374,8 +523,46 @@ Sunday, 28 May, 2023. All times are in Central European Time (CET). Current time
 
 ## Speakers
 
-(TBD)
-
+<div id='speakers' class='speakers'>
+<div id='profile05' class='profile05'>
+<div id='base' class='base'>
+</div>
+<div id='hollyyanco' class='hollyyanco'>
+Holly Yanco</div>
+</div>
+<div id='profile04' class='profile04'>
+<div id='base2' class='base2'>
+</div>
+<div id='stephanierosenthal' class='stephanierosenthal'>
+Stephanie Rosenthal</div>
+</div>
+<div id='profile03' class='profile03'>
+<div id='base3' class='base3'>
+</div>
+<div id='martialherbert' class='martialherbert'>
+Martial Herbert</div>
+</div>
+<div id='profile7' class='profile7'>
+<div id='base4' class='base4'>
+</div>
+<div id='ayannahoward' class='ayannahoward'>
+Ayanna Howard</div>
+</div>
+<div id='profile6' class='profile6'>
+<div id='base5' class='base5'>
+</div>
+<div id='text' class='text'>
+ </div>
+<div id='soniachernova' class='soniachernova'>
+Sonia Chernova</div>
+</div>
+<div id='profile01' class='profile01'>
+<div id='base6' class='base6'>
+</div>
+<div id='henrickchristensen' class='henrickchristensen'>
+Henrick Christensen</div>
+</div>
+</div>
 <!-- <div style="display:block; padding:10px 0 0 0; width:900px;">
 
 <a href="https://arrival.com/us/en" target="_blank" class="speaker_profile">
@@ -540,7 +727,7 @@ Science Center.</p>
 <a href="" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/temp_pic.png" alt="Leo Chen">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/leo.JPG" alt="Leo Chen">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Leo Chen</p>
