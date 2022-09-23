@@ -568,7 +568,7 @@ Henrick Christensen</div>
 <a href="http://www.hichristensen.net/" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:80px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/max_ivan.png" alt="Henrik Christensen">
+<img style="width:100px; height:80px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/henrikchristensen.jpg" alt="Henrik Christensen">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Henrik Christensen</p>
@@ -580,7 +580,7 @@ Henrick Christensen</div>
 <a href="https://faculty.cc.gatech.edu/~chernova/" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/sahika_genc.png" alt="Sonia Chernova">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/soniachernova.png" alt="Sonia Chernova">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Sonia Chernova</p>
@@ -589,63 +589,75 @@ Henrick Christensen</div>
 </div>
 </a>
 
-<a href="https://www.cs.cmu.edu/~cliu6/index.html" target="_blank" class="speaker_profile">
+<a href="http://www.cs.cmu.edu/~hebert/" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/changliu_liu.png" alt="Changliu Liu">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/martial_hebert.png" alt="Martial Hebert">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Changliu Liu</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Assistant Professor<br>Carnegie Mellon University</p>
+<p style="margin:0 0 0 10px;">Martial Hebert</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Carnegie Mellon University</p>
 </div>
 </div>
 </a>
 
-<a href="https://www.madhurbehl.com/" target="_blank" class="speaker_profile">
+<a href="https://engineering.osu.edu/about/office-dean/about-dean-ayanna-howard" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/madhur_behl.png" alt="Madhur Behl">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/Ayanna-Howard.png" alt="Ayanna Howard">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Madhur Behl</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Assistant Professor<br>University of Virginia</p>
+<p style="margin:0 0 0 10px;">Ayanna Howard</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Ohio State University</p>
 </div>
 </div>
 </a>
 
 
-<a href="https://safeai-lab.github.io/" target="_blank" class="speaker_profile">
+<a href="http://www.rosenthalphd.com/" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/ding_zhao.png" alt="Ding Zhao">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/stephanierosenthal.jpg" alt="Stephanie Rosenthal">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Ding Zhao</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Assistant Professor<br>Carnegie Mellon University</p>
+<p style="margin:0 0 0 10px;">Stephanie Rosenthal</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Carnegie Mellon University</p>
 </div>
 </div>
 </a>
 
-<a href="https://joebetz.science/" target="_blank" class="speaker_profile">
+<a href="https://www.cs.uml.edu/~holly/" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/johannes_betz.png" alt="Johannes Betz">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/hollyyanco.png" alt="Holly Yanco">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Johannes Betz</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Postdoctoral Researcher<br>University of Pennsylvania</p>
+<p style="margin:0 0 0 10px;">Holly Yanco</p>
+<p style="margin:0 0 0 10px; font-size:10px;">UMass Lowell</p>
 </div>
 </div>
 </a>
 
-<a href="https://rowanmcallister.github.io/" target="_blank" class="speaker_profile">
+<a href="https://www.researchgate.net/profile/Patrick-Kyllonen" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/rowan_mcallister.png" alt="Rowan McAllister">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/patrick-kyllonen.jpeg" alt="Patrick C. Kyllonen">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Rowan McAllister</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Machine Learning Scientist<br>Toyota Research Institute</p>
+<p style="margin:0 0 0 10px;">Patrick C. Kyllonen</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Educational Testing Service</p>
+</div>
+</div>
+</a>
+
+<a href="https://ies.ed.gov/director/biography.asp" target="_blank" class="speaker_profile">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/mark_schneider.png" alt="Mark Schneider">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Mark Schneider</p>
+<p style="margin:0 0 0 10px; font-size:10px;">US Institute of Education Sciences</p>
 </div>
 </div>
 </a>
