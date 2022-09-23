@@ -641,7 +641,7 @@ Henrick Christensen</div>
 <a href="https://www.researchgate.net/profile/Patrick-Kyllonen" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/patrick-kyllonen.jpeg" alt="Patrick C. Kyllonen">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/patrick_kyllonen.jpeg" alt="Patrick C. Kyllonen">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Patrick C. Kyllonen</p>
@@ -739,7 +739,7 @@ Science Center.</p>
 <a href="" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/leo.JPG" alt="Leo Chen">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/leo_chen.png" alt="Leo Chen">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Leo Chen</p>
@@ -855,27 +855,18 @@ Science Center.</p>
 
 <!-- <img src="{{ site.baseurl }}/assets/images/sponsors/sponsor_banner.png"> -->
 
-<!--
+
 <div class="col-lg-12 col-xl-6">
-            <div class="logos-organizers">
-              <div class="logo-organizer">
-                <img class="img-fluid" src="{{ site.baseurl }}/assets/images/sponsors/arrival_logo.png">
-              </div>
-              <div class="logo-organizer">
-                <img class="img-fluid" src="{{ site.baseurl }}/assets/images/sponsors/cmu_logo.png">
-              </div>
-              <div class="logo-organizer">
-                <img class="img-fluid" src="{{ site.baseurl }}/assets/images/sponsors/aicrowd_logo.png">
-              </div>
-              <div class="logo-organizer">
-                <img class="img-fluid" src="{{ site.baseurl }}/assets/images/sponsors/aws_logo.png">
-              </div>
-              <div class="logo-organizer">
-                <img class="img-fluid" src="{{ site.baseurl }}/assets/images/sponsors/bosch_logo.png">
-              </div>
-            </div>
-          </div>
--->
+    <div class="logos-organizers">
+      <div class="logo-organizer">
+        <img class="img-fluid" src="{{ site.baseurl }}/assets/images/sponsors/oecd_logo.png">
+      </div>
+<!--       <div class="logo-organizer">
+        <img class="img-fluid" src="{{ site.baseurl }}/assets/images/sponsors/bosch_logo.png">
+      </div> -->
+    </div>
+  </div>
+
 <!--
 <div style="width:900px; display:inline-block;">
 <img style="height:100px; width:186px;" src="{{ site.baseurl }}/assets/images/sponsors/arrival_logo.png">
