@@ -568,7 +568,7 @@ Henrick Christensen</div>
 <a href="http://www.hichristensen.net/" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:80px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/henrikchristensen.png" alt="Henrik Christensen">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/henrikchristensen.png" alt="Henrik Christensen">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Henrik Christensen</p>
@@ -681,9 +681,7 @@ Henrick Christensen</div>
 <p style="margin:0 0 0 10px;">Stuart Elliott</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
 <p style="margin:0 0 0 10px; font-size:10px;">Senior analyst at the OECD leading the AI
-and the Future of Skills project. He holds a doctorate degree in economics from the Massachusetts Institute of
-Technology and a BA in economics from Columbia University. He also received postdoctoral training in cognitive
-psychology at Carnegie Mellon University. </p> 
+and the Future of Skills project.  </p> 
 <!-- TODO: these bios are pretty looong -->
 </div> </div> </a>
 
@@ -696,9 +694,7 @@ psychology at Carnegie Mellon University. </p>
 <p style="margin:0 0 0 10px;">Abel Baret</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
 <p style="margin:0 0 0 10px; font-size:10px;">Research assistant in the <i>AI and Future of Skills</i> project.
-He holds a BA degree in economics from the Toulouse School of Economics and a MSc in economics and psychology from
-Paris 1 Panthéon‑Sorbonne and Université Paris-Cité. Before joining the OECD, he was involved as a research assistant
-in experimental and behaviour economics at the CNRS Maison des Sciences Economiques in Paris.</p> 
+</p> 
 </div> </div> </a>
 
 <a href="" target="_blank" class="organiser_profile">
@@ -710,8 +706,7 @@ in experimental and behaviour economics at the CNRS Maison des Sciences Economiq
 <p style="margin:0 0 0 10px;">Margarita Kalamova</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
 <p style="margin:0 0 0 10px; font-size:10px;">Analyst in the OECD’s AI and the Future of Skills
-project and a project lead in the <i>Higher Education Policy</i> team of the OECD Directorate of Education and Skills. She
-holds a doctorate degree in Economics from the Freie Universität Berlin and MSc degrees in Economics and Business. </p> 
+project and a project lead in the <i>Higher Education Policy</i> team of the OECD Directorate of Education and Skills. </p> 
 </div> </div> </a>
 
 <a href="https://www.linkedin.com/in/jonmfrancis/" target="_blank" class="organiser_profile">
