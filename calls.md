@@ -16,14 +16,12 @@ title:
 }
 </style>
 
-# Call for Papers
+# Call for Participation
 
 <p>The 1st Workshop on <a href="{{ site.baseurl }}/" target="_blank">{{ site.conf_full_name }}</a> ({{ site.conf_name }}) is co-located with the International Conference on Robotics and Automation (ICRA 2023), to be held on 28 May 2023 in hybrid format.</p>
 
 
-## Workshop Publication Topics
-
-We are accepting papers in measuring the following robotics capabilities for policymaking:
+We will cover the following topics related to measuring robotics capabilities for policymaking:
 
 
 - navigation/mobility
@@ -33,12 +31,13 @@ We are accepting papers in measuring the following robotics capabilities for pol
 - learning/adaption
 
 
+<!--
 ## Paper Submission Guidelines
 
 > Submission deadline: <b>TBD, Central European Time (CET)</b><br>
 Details TBD
 
-<!-- 
+
 
 > Submission format: either <b>extended abstracts</b> or <b>full papers</b>, 4 or 8 pages, respectively (excluding references and supplementary)<br>
 > Author kit: <a href="{{ site.baseurl }}/assets/FormattingGuidelines-IJCAI-ECAI-22.zip" target="_blank">https://learn-to-race.org/workshop-ai4ad-ijcai2022/assets/FormattingGuidelines-IJCAI-ECAI-22.zip</a><br>
@@ -58,17 +57,17 @@ Additional notes:
 - We will issue <i>Best Paper</i> and <i>Best Student Paper</i> awards, as voted by our program committee. Presentation of these works will be featured during the workshop's <i>Spotlight Talks</i> sessions
 
  -->
- 
+
 ## Organising Committee
 
 - Stuart Elliott, OECD
 - Abel Baret, OECD
 - Margarita Kalamova, OECD
 - Jonathan Francis, Bosch AI Research + CMU
-- Leo Chen, CMU 
+- Leo Chen, CMU
 - Peter Schaldenbrand, CMU
 - Beverly-Claire Okogwu, CMU
-- Vihaan Misra, CMU 
+- Vihaan Misra, CMU
 - Sebastian Scherer, CMU
 - Jean Oh, CMU
 
@@ -76,7 +75,7 @@ Additional notes:
 
 TBD
 
-<!-- 
+<!--
 Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brussels, Vienna.</b>
 
 <div>

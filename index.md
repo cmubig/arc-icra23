@@ -804,4 +804,4 @@ project and a project lead in the <i>Higher Education Policy</i> team of the OEC
 
 ## Sponsors
 
-<img src="{{ site.baseurl }}/assets/images/sponsors/sponsor_banner.png">
+<img style="width:90%;" src="{{ site.baseurl }}/assets/images/sponsors/sponsor_banner.png">
