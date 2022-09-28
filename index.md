@@ -681,7 +681,7 @@ Henrick Christensen</div>
 <p style="margin:0 0 0 10px;">Stuart Elliott</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
 <p style="margin:0 0 0 10px; font-size:10px;">Senior analyst at the OECD leading the AI
-and the Future of Skills project.  </p> 
+and the Future of Skills project.  </p>
 <!-- TODO: these bios are pretty looong -->
 </div> </div> </a>
 
@@ -694,7 +694,7 @@ and the Future of Skills project.  </p>
 <p style="margin:0 0 0 10px;">Abel Baret</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
 <p style="margin:0 0 0 10px; font-size:10px;">Research assistant in the <i>AI and Future of Skills</i> project.
-</p> 
+</p>
 </div> </div> </a>
 
 <a href="" target="_blank" class="organiser_profile">
@@ -706,7 +706,7 @@ and the Future of Skills project.  </p>
 <p style="margin:0 0 0 10px;">Margarita Kalamova</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
 <p style="margin:0 0 0 10px; font-size:10px;">Analyst in the OECD’s AI and the Future of Skills
-project and a project lead in the <i>Higher Education Policy</i> team of the OECD Directorate of Education and Skills. </p> 
+project and a project lead in the <i>Higher Education Policy</i> team of the OECD Directorate of Education and Skills. </p>
 </div> </div> </a>
 
 <a href="https://www.linkedin.com/in/jonmfrancis/" target="_blank" class="organiser_profile">
@@ -802,64 +802,6 @@ project and a project lead in the <i>Higher Education Policy</i> team of the OEC
 
 </div>
 
-## Program Committee
-
-<!-- column 1 -->
-<div class="pc-column">
-<ul>
-<li>TBD</li>
-</ul>
-</div>
-
-<!-- column 2 -->
-<div class="pc-column" style="margin:0 30px 0 0;">
-<ul>
-<li>TBD</li>
-</ul>
-</div>
-
-<!-- column 3 -->
-<div class="pc-column">
-<ul>
-<li>TBD</li>
-</ul>
-</div>
-
-<!-- column 4 >
-<div style="width:201px; display:inline-block; vertical-align: top;">
-<ul>
-</ul>
-</div-->
-
----
-
-<b>ER</b> — <i>Recognises PC member who served ("+" additionally) as an Emergency Reviewer.</i><br>
-<b>TR</b> — <i>Recognises PC member who, according to Chair ratings, ranked in the Top 16% of Reviewers.</i><br>
-<b>SMR</b> — <i>Recognises PC member who agreed to provide their services as a Senior Meta-Reviewer.</i>
-
 ## Sponsors
 
-<!-- <img src="{{ site.baseurl }}/assets/images/sponsors/sponsor_banner.png"> -->
-
-
-<div class="col-lg-12 col-xl-6">
-    <div class="logos-organizers">
-      <div class="logo-organizer">
-        <img class="img-fluid" src="{{ site.baseurl }}/assets/images/sponsors/oecd_logo.png">
-      </div>
-<!--       <div class="logo-organizer">
-        <img class="img-fluid" src="{{ site.baseurl }}/assets/images/sponsors/bosch_logo.png">
-      </div> -->
-    </div>
-  </div>
-
-<!--
-<div style="width:900px; display:inline-block;">
-<img style="height:100px; width:186px;" src="{{ site.baseurl }}/assets/images/sponsors/arrival_logo.png">
-<img style="height:100px; width:157px;" src="{{ site.baseurl }}/assets/images/sponsors/cmu_logo.png">
-<img style="height:100px; width:100px;" src="{{ site.baseurl }}/assets/images/sponsors/aicrowd_logo.png">
-<img style="height:100px; width:98px;" src="{{ site.baseurl }}/assets/images/sponsors/aws_logo.png">
-<img style="height:100px; width:272px;" src="{{ site.baseurl }}/assets/images/sponsors/bosch_logo.png">
-<img style="height:100px; width:354px;" src="{{ site.baseurl }}/assets/images/sponsors/honda_logo.png">
-</div>
--->
+<img src="{{ site.baseurl }}/assets/images/sponsors/sponsor_banner.png">
