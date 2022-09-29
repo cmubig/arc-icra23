@@ -716,7 +716,7 @@ project and a project lead in the <i>Higher Education Policy</i> team of the OEC
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Jonathan Francis</p>
 <!--p style="margin:0 0 0 10px;">CMU + Bosch</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Research Scientist at Bosch Research; domain knowledge-enhanced representation learning, applied to robotics and autonomous driving</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Research Scientist at Bosch Center for AI; domain knowledge-enhanced representation learning, applied to robotics and autonomous driving</p>
 </div>
 </div>
 </a>
