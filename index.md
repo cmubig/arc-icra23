@@ -383,6 +383,7 @@ We will discuss how five robotics capabilities should be measured for policymaki
 
 ## Dates
 
+<!--
 ### Paper + Presentation Deadlines
 
 Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brussels, Vienna</b>.
@@ -394,6 +395,8 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 <b>Camera Ready</b>: TBD<br>
 <b>Oral/Poster video upload</b>: TBD
 </div>
+
+-->
 
 ### Workshop Event (ICRA 2023 Workshop)
 
