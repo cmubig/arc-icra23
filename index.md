@@ -289,8 +289,8 @@ color:#ffffff;
 <script>
   var x = setInterval(function() {
     var d = new Date();
-    var n = d.toLocaleTimeString("en-US", {timeZone: "Europe/Vienna", hour: '2-digit', minute:'2-digit', hour12: false})
-    document.getElementById("cet").innerHTML = n
+    var n = d.toLocaleTimeString("en-GB", {timeZone: "Europe/London", hour: '2-digit', minute:'2-digit', hour12: false})
+    document.getElementById("uktime").innerHTML = n
   }, 1000);
 </script>
 
@@ -386,7 +386,7 @@ We will discuss how five robotics capabilities should be measured for policymaki
 <!--
 ### Paper + Presentation Deadlines
 
-Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brussels, Vienna</b>.
+Note: all deadlines are in <b>UK Time (GMT+1)</b>.
 
 <div>
 <b>Submissions open:</b> TBD<br>
@@ -403,13 +403,9 @@ Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brusse
 <b>Date:</b> 28 May 2023<br>
 <b>Location:</b> TBD <br>
 
-Additional venue information: <a href="https://www.icra2023.org/about/venue" target="_blank">https://www.icra2023.org/about/venue</a><br>
-
-Additional schedule information: <a href="" target="_blank">TBD</a>
-
 ## Schedule
 
-Sunday, 28 May, 2023. All times are in Central European Time (CET). Current time is <span id="cet"></span>.
+Sunday, 28 May, 2023. All times are in UK Time (GMT+1). Current time is <span id="uktime"></span>.
 
 <div style="display:block; width:900px; padding:20px; border:solid 4px #CCCCCC;">
 <div class="schedule-table-heading" style="margin-left:57px; display:inline-block; inline-size:100px;">Time</div>
