@@ -677,7 +677,7 @@ Henrick Christensen</div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Jean Oh</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Research Professor in the Robotics Institute at CMU; Director of the <i>Bot Intelligence Group</i> at CMU</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Research Professor in the Robotics Institute at Carnegie Mellon University (CMU); Director of the <i>Bot Intelligence Group</i> at CMU</p>
 </div>
 </div>
 </a>
@@ -728,7 +728,7 @@ Henrick Christensen</div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Abel Baret</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Research Assistant in the <i>AI and Future of Skills</i> project at .
+<p style="margin:0 0 0 10px; font-size:10px;">Research Assistant in the <i>AI and Future of Skills</i> project at OECD.
 </p>
 </div> </div> </a>
 
@@ -738,7 +738,7 @@ Henrick Christensen</div>
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/temp_pic.png" alt="Margarita Kalamova">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Margarita Kalamova</p>
+<p style="margin:0 0 0 10px; font-size:15px;">Margarita Kalamova</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
 <p style="margin:0 0 0 10px; font-size:10px;">Lead Analyst in the <i>AI and the Future of Skills</i> project at OECD; Project Lead in the <i>Higher Education Policy</i> team of the OECD Directorate of Education and Skills.</p>
 </div> </div> </a>
