@@ -674,7 +674,7 @@ Henrick Christensen</div>
 <a href="" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/temp_pic.png" alt="Stuart Elliott">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/stuart_elliott.png" alt="Stuart Elliott">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Stuart Elliott</p>
@@ -716,7 +716,7 @@ project and a project lead in the <i>Higher Education Policy</i> team of the OEC
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Jonathan Francis</p>
 <!--p style="margin:0 0 0 10px;">CMU + Bosch</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Research Scientist at Bosch Center for AI; domain knowledge-enhanced representation learning, applied to robotics and autonomous driving</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Research Scientist at Bosch Center for AI; affiliated researcher, Language Technologies Institute and Robotics Institute, CMU</p>
 </div>
 </div>
 </a>
@@ -794,7 +794,7 @@ project and a project lead in the <i>Higher Education Policy</i> team of the OEC
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Jean Oh</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Research Professor in Robotics Institute at CMU and Director of Bot Intelligence Group; multimodal perception, navigation, and artificial intelligence</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Research Professor in the Robotics Institute at CMU; Director of the Bot Intelligence Group at CMU</p>
 </div>
 </div>
 </a>
