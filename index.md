@@ -677,7 +677,7 @@ Henrick Christensen</div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Jean Oh</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Research Professor in the Robotics Institute at Carnegie Mellon University (CMU); Director of the <i>Bot Intelligence Group</i> at CMU</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Associate Research Professor in the Robotics Institute at Carnegie Mellon University (CMU); Director of the <i>Bot Intelligence Group</i> at CMU</p>
 </div>
 </div>
 </a>
@@ -740,7 +740,7 @@ Henrick Christensen</div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Margarita Kalamova</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Lead Analyst in the <i>AI and the Future of Skills</i> project at OECD; Project Lead in the <i>Higher Education Policy</i> team.</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Lead Analyst in the <i>AI and the Future of Skills</i> project at OECD; Project Lead, <i>Higher Education Policy</i> team.</p>
 </div> </div> </a>
 
 <a href="https://pschaldenbrand.github.io/" target="_blank" class="organiser_profile">
@@ -764,7 +764,7 @@ Henrick Christensen</div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Beverley-Claire Okogwu</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;"></p>
+<p style="margin:0 0 0 10px; font-size:10px;">M.S. student in the Robotics Institute at CMU, studying </p>
 </div>
 </div>
 </a>
@@ -782,15 +782,15 @@ Henrick Christensen</div>
 </div>
 </a>
 
-<a href="" target="_blank" class="organiser_profile">
+<a href="https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/temp_pic.png" alt="Sebastian Scherer">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/sebastian_scherer.png" alt="Sebastian Scherer">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Sebastian Scherer</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;"></p>
+<p style="margin:0 0 0 10px; font-size:10px;">Associate Research Professor in the Robotics Institute at CMU; Director, <i>AIR Lab</i> at CMU</p>
 </div>
 </div>
 </a>
