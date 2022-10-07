@@ -690,7 +690,7 @@ Henrick Christensen</div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Stuart Elliott</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Senior Analyst at the Organisation for Economic Cooperation and Development (OECD); Project Lead, <i>AI and the Future of Skills</i> project.  </p>
+<p style="margin:0 0 0 10px; font-size:10px;">Senior Analyst at the Organisation for Economic Cooperation and Development (OECD); Project Lead, <i>AI and the Future of Skills</i> project</p>
 <!-- TODO: these bios are pretty looong -->
 </div> </div> </a>
 
@@ -715,7 +715,7 @@ Henrick Christensen</div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Leo Chen</p>
 <!--p style="margin:0 0 0 10px;">NVIDIA</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Ph.D. student in the Institute for Software Research at CMU, studying software quality in real evolving systems.</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Ph.D. student in the Institute for Software Research at CMU, studying software quality in real evolving systems</p>
 </div>
 </div>
 </a>
@@ -740,7 +740,7 @@ Henrick Christensen</div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Margarita Kalamova</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Lead Analyst in the <i>AI and the Future of Skills</i> project at OECD; Project Lead, <i>Higher Education Policy</i> team.</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Lead Analyst in the <i>AI and the Future of Skills</i> project at OECD; Project Lead, <i>Higher Education Policy</i> team</p>
 </div> </div> </a>
 
 <a href="https://pschaldenbrand.github.io/" target="_blank" class="organiser_profile">
@@ -751,7 +751,7 @@ Henrick Christensen</div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Peter Schaldenbrand</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Ph.D. student in the Robotics Institute at CMU, studying Creative Artificial Intelligence.</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Ph.D. student in the Robotics Institute at CMU, studying Creative Artificial Intelligence</p>
 </div>
 </div>
 </a>
@@ -764,7 +764,7 @@ Henrick Christensen</div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Beverley-Claire Okogwu</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">M.S. student in the Robotics Institute at CMU, studying </p>
+<p style="margin:0 0 0 10px; font-size:10px;">M.S. student in the Robotics Institute at CMU</p>
 </div>
 </div>
 </a>
