@@ -17,7 +17,7 @@ article_header:
     - text: 28 May 2023 | London, UK
   background_image:
     gradient: 'linear-gradient(135deg, rgba(52, 140, 96, 0.4), rgba(136, 73, 107, 0.4))'
-    src: /assets/images/l2r_banner2.png
+    src: /assets/images/arc_banner.png
 ---
 
 <style>
