@@ -715,7 +715,7 @@ Henrick Christensen</div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Leo Chen</p>
 <!--p style="margin:0 0 0 10px;">NVIDIA</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Ph.D. student in the Institute for Software Research at Carnegie Mellon University</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Ph.D. student in the Institute for Software Research at CMU, studying software quality in real evolving systems.</p>
 </div>
 </div>
 </a>
@@ -738,28 +738,28 @@ Henrick Christensen</div>
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/temp_pic.png" alt="Margarita Kalamova">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px; font-size:15px;">Margarita Kalamova</p>
+<p style="margin:0 0 0 10px;">Margarita Kalamova</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Lead Analyst in the <i>AI and the Future of Skills</i> project at OECD; Project Lead in the <i>Higher Education Policy</i> team of the OECD Directorate of Education and Skills.</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Lead Analyst in the <i>AI and the Future of Skills</i> project at OECD; Project Lead in the <i>Higher Education Policy</i> team.</p>
 </div> </div> </a>
 
-<a href="" target="_blank" class="organiser_profile">
+<a href="https://pschaldenbrand.github.io/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/temp_pic.png" alt="Peter Schaldenbrand">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/peter_schaldenbrand.png" alt="Peter Schaldenbrand">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Peter Schaldenbrand</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;"></p>
+<p style="margin:0 0 0 10px; font-size:10px;">Ph.D. student in the Robotics Institute at CMU, studying Creative Artificial Intelligence.</p>
 </div>
 </div>
 </a>
 
-<a href="" target="_blank" class="organiser_profile">
+<a href="https://www.linkedin.com/in/beverley-claire-okogwu-852383178/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/temp_pic.png" alt="Beverley-Claire Okogwu">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/beverley-claire_okogwu.png" alt="Beverley-Claire Okogwu">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Beverley-Claire Okogwu</p>
