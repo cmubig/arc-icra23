@@ -769,15 +769,15 @@ Henrick Christensen</div>
 </div>
 </a>
 
-<a href="" target="_blank" class="organiser_profile">
+<a href="https://www.linkedin.com/in/vihaan-m-a3841811a/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/temp_pic.png" alt="Vihaan Misra">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/vihaan_misra.png" alt="Vihaan Misra">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Vihaan Misra</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;"></p>
+<p style="margin:0 0 0 10px; font-size:10px;">Visiting Research in the Robotics Institute at CMU, studying image synthesis techniques for Creative AI</p>
 </div>
 </div>
 </a>
