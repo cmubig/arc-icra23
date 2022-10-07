@@ -669,9 +669,20 @@ Henrick Christensen</div>
 
 <div style="display:inline; width:900px; vertical-align: top;">
 
+<a href="https://www.cs.cmu.edu/~./jeanoh/" target="_blank" class="organiser_profile">
+<div style="display:inline-block; width:270px;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/jean_oh.png" alt="Jean Oh">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Jean Oh</p>
+<!--p style="margin:0 0 0 10px;">CMU</p-->
+<p style="margin:0 0 0 10px; font-size:10px;">Research Professor in the Robotics Institute at CMU; Director of the <i>Bot Intelligence Group</i> at CMU</p>
+</div>
+</div>
+</a>
 
-
-<a href="" target="_blank" class="organiser_profile">
+<a href="https://www.linkedin.com/in/stuart-elliott-1a1383b5" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/stuart_elliott.png" alt="Stuart Elliott">
@@ -679,33 +690,8 @@ Henrick Christensen</div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Stuart Elliott</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Senior analyst at the OECD leading the AI
-and the Future of Skills project.  </p>
+<p style="margin:0 0 0 10px; font-size:10px;">Senior Analyst at the Organisation for Economic Cooperation and Development (OECD); Project Lead, <i>AI and the Future of Skills</i> project.  </p>
 <!-- TODO: these bios are pretty looong -->
-</div> </div> </a>
-
-<a href="" target="_blank" class="organiser_profile">
-<div style="display:inline-block; width:270px;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/temp_pic.png" alt="Abel Baret">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Abel Baret</p>
-<!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Research assistant in the <i>AI and Future of Skills</i> project.
-</p>
-</div> </div> </a>
-
-<a href="" target="_blank" class="organiser_profile">
-<div style="display:inline-block; width:270px;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/temp_pic.png" alt="Margarita Kalamova">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Margarita Kalamova</p>
-<!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Analyst in the OECD’s AI and the Future of Skills
-project and a project lead in the <i>Higher Education Policy</i> team of the OECD Directorate of Education and Skills. </p>
 </div> </div> </a>
 
 <a href="https://www.linkedin.com/in/jonmfrancis/" target="_blank" class="organiser_profile">
@@ -721,7 +707,7 @@ project and a project lead in the <i>Higher Education Policy</i> team of the OEC
 </div>
 </a>
 
-<a href="" target="_blank" class="organiser_profile">
+<a href="https://poosomooso.github.io/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/leo_chen.png" alt="Leo Chen">
@@ -729,10 +715,33 @@ project and a project lead in the <i>Higher Education Policy</i> team of the OEC
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Leo Chen</p>
 <!--p style="margin:0 0 0 10px;">NVIDIA</p-->
-<p style="margin:0 0 0 10px; font-size:10px;"></p>
+<p style="margin:0 0 0 10px; font-size:10px;">Ph.D. student in the Institute for Software Research at Carnegie Mellon University</p>
 </div>
 </div>
 </a>
+
+<a href="https://www.linkedin.com/in/abelbaret/?locale=en_US" target="_blank" class="organiser_profile">
+<div style="display:inline-block; width:270px;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/abel_baret.png" alt="Abel Baret">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Abel Baret</p>
+<!--p style="margin:0 0 0 10px;">CMU</p-->
+<p style="margin:0 0 0 10px; font-size:10px;">Research Assistant in the <i>AI and Future of Skills</i> project at .
+</p>
+</div> </div> </a>
+
+<a href="https://fr.linkedin.com/in/margarita-m-kalamova-4592769" target="_blank" class="organiser_profile">
+<div style="display:inline-block; width:270px;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/temp_pic.png" alt="Margarita Kalamova">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Margarita Kalamova</p>
+<!--p style="margin:0 0 0 10px;">CMU</p-->
+<p style="margin:0 0 0 10px; font-size:10px;">Lead Analyst in the <i>AI and the Future of Skills</i> project at OECD; Project Lead in the <i>Higher Education Policy</i> team of the OECD Directorate of Education and Skills.</p>
+</div> </div> </a>
 
 <a href="" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
@@ -786,18 +795,7 @@ project and a project lead in the <i>Higher Education Policy</i> team of the OEC
 </div>
 </a>
 
-<a href="https://www.cs.cmu.edu/~./jeanoh/" target="_blank" class="organiser_profile">
-<div style="display:inline-block; width:270px;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/jean_oh.png" alt="Jean Oh">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Jean Oh</p>
-<!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Research Professor in the Robotics Institute at CMU; Director of the Bot Intelligence Group at CMU</p>
-</div>
-</div>
-</a>
+
 
 </div>
 
