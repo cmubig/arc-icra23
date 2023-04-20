@@ -1,7 +1,7 @@
 ---
 layout: article
-title: Assessment of Robotic Capabilities Workshop
-excerpt: ICRA 2023 Workshop
+title: Special Meeting on Assessment of Robotics Capabilities
+excerpt: Co-Located at ICRA 2023
 show_info: true
 titles:
   en      : &EN       Home
@@ -340,7 +340,7 @@ color:#ffffff;
 
 ## About
 
-Welcome to the 1st <a href="" target="_blank">ICRA</a> Workshop on <i>{{ site.conf_full_name }}</i> ({{ site.conf_name }})!
+Welcome to the 1st Meeting on <i>{{ site.conf_full_name }}</i> ({{ site.conf_name }}) located at <a href="" target="_blank">ICRA'23</a>
 
 
 In the same way policy makers make use of economic indicators – such as GDP, unemployment or inflation rates –  to get a
@@ -348,7 +348,7 @@ sense of countries’ economic and social health and design appropriate interven
 what AI can or cannot do are yet missing. In order to respond to the challenges posed by the development of AI and
 robotics over time, arise the urge to develop a set of valid measures describing AI and robotics capabilities.
 
-The {{ site.conf_full_name }} Workshop will present and refine a set of proposed measures of
+The {{ site.conf_full_name }} will present and refine a set of proposed measures of
 robotics capabilities developed for policy makers. Its ultimate goal will be to present policy makers a comprehensive
 picture of AI capabilities in robotics and offer a reflection on the ways it might affect work and education.
 
@@ -360,8 +360,7 @@ picture of AI capabilities in robotics and offer a reflection on the ways it mig
  and policy makers, the workshop will encourage participants to engage in rich conversations and exchange of ideas in
  order to build a valid and coherent system of measure for robotics capabilities.
 
-The outcome of the workshop will have a long-term impact on the AI and Future of Skills project. In addition to the
-commissioned papers for the conference, outcomes from discussions and exchange of ideas will be incorporated in OECD
+The outcome of the meeting will have a long-term impact on the AI and Future of Skills project. Outcomes from discussions and exchange of ideas will be incorporated in OECD
 future reports and work to develop a set of measures of AI and robotics capabilities for policy makers. Moreover, this
 workshop will be the occasion for the project to enlarge its multi-disciplinary expert community to robotics experts
 willing to contribute to this work.
@@ -373,15 +372,21 @@ We will discuss how five robotics capabilities should be measured for policymaki
 
 <div>
 <ol>
-<li>navigation/mobility</li>
+<!-- <li>navigation/mobility</li>
 <li>manipulation/dexterity</li>
 <li>perception</li>
 <li>communication/language</li>
-<li>learning/adaption</li>
+<li>learning/adaption</li> -->
+  <li>Autonomy</li>
+  <li>Perception and Computer Vision</li>
+  <li>Planning</li>
+  <li>Control</li>
+  <li>Learning</li>
+  <li>Human-Robot Interaction</li>
 </ol>
 </div>
 
-## Dates
+<!-- ## Dates -->
 
 <!--
 ### Paper + Presentation Deadlines
@@ -398,10 +403,11 @@ Note: all deadlines are in <b>UK Time (GMT+1)</b>.
 
 -->
 
-### Workshop Event (ICRA 2023 Workshop)
+## Date
 
 <b>Date:</b> 28 May 2023<br>
-<b>Location:</b> TBD <br>
+<b>Location:</b> ExCel London, UK <br>
+  <b>Please use <a href="https://docs.google.com/forms/d/e/1FAIpQLSdFYYnS2fnaJRGoZonDLFuLViD1gWeEwSOYPWxI-oL16nNYLA/viewform?usp=sf_link">this call for participation</a> to receive information for attending this special meeting</b>
 
 ## Schedule
 
@@ -752,6 +758,20 @@ Henrick Christensen</div>
 <p style="margin:0 0 0 10px;">Peter Schaldenbrand</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
 <p style="margin:0 0 0 10px; font-size:10px;">Ph.D. student in the Robotics Institute at CMU, studying Creative Artificial Intelligence</p>
+</div>
+</div>
+</a>
+  
+
+<a href="[https://www.linkedin.com/in/beverley-claire-okogwu-852383178/](https://www.ri.cmu.edu/ri-people/uksang-yoo/)" target="_blank" class="organiser_profile">
+<div style="display:inline-block; width:270px;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/uksang.png" alt="Uksang Yoo">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Uksang Yoo</p>
+<!--p style="margin:0 0 0 10px;">CMU</p-->
+<p style="margin:0 0 0 10px; font-size:10px;">Ph.D. student in the Robotics Institute at CMU</p>
 </div>
 </div>
 </a>
