@@ -62,13 +62,13 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       Calls
+      en      : &EN       Call for Participation
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
       # @end locale config
-    url: /calls.html
+    url: /index.html#call-for-participation
 
   #- titles:
 #      # @start locale config

@@ -366,17 +366,16 @@ workshop will be the occasion for the project to enlarge its multi-disciplinary 
 willing to contribute to this work.
 
 
-### Topics covered
+## Call for Participation
+
+If you are interested in attending this meeting, <a href="https://docs.google.com/forms/d/e/1FAIpQLSdFYYnS2fnaJRGoZonDLFuLViD1gWeEwSOYPWxI-oL16nNYLA/viewform?usp=sf_link">please fill out this form</a>. This will help us prepare discussion topics and ensure that the venue is prepared. Thank you.
+
+<!-- ### Topics covered
 
 We will discuss how five robotics capabilities should be measured for policy making:
 
 <div>
 <ol>
-<!-- <li>navigation/mobility</li>
-<li>manipulation/dexterity</li>
-<li>perception</li>
-<li>communication/language</li>
-<li>learning/adaption</li> -->
   <li>Autonomy</li>
   <li>Perception and Computer Vision</li>
   <li>Planning</li>
@@ -384,7 +383,7 @@ We will discuss how five robotics capabilities should be measured for policy mak
   <li>Learning</li>
   <li>Human-Robot Interaction</li>
 </ol>
-</div>
+</div> -->
 
 <!-- ## Dates -->
 
