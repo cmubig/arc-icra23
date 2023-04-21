@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ARC Workshop
+title: ARC Meeting
 email:
 description: >- # this means to ignore newlines until "baseurl:"
 #   Learn-to-Race Challenges in Autononous Driving
@@ -35,7 +35,8 @@ plugins:
   - jekyll-feed
 
 conf_name: ARC
-conf_full_name: Assessment of Robotic Capabilities for Policy Makers 
+conf_full_name: Assessment of Robotic Capabilities
+# for Policy Makers 
 
 # Exclude from processing.
 # The following items will not be processed, by default.

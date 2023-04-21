@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Special Meeting on Assessment of Robotics Capabilities
-excerpt: Co-Located at ICRA 2023
+excerpt: Co-Located at ICRA 2023 <br/> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdFYYnS2fnaJRGoZonDLFuLViD1gWeEwSOYPWxI-oL16nNYLA/viewform?usp=sf_link">Call for Participation</a>
 show_info: true
 titles:
   en      : &EN       Home
@@ -340,7 +340,7 @@ color:#ffffff;
 
 ## About
 
-Welcome to the 1st Meeting on <i>{{ site.conf_full_name }}</i> ({{ site.conf_name }}) located at <a href="" target="_blank">ICRA'23</a>
+Welcome to the 1st Meeting on the <i>{{ site.conf_full_name }}</i> ({{ site.conf_name }}) located at <a href="" target="_blank">ICRA'23</a>
 
 
 In the same way policy makers make use of economic indicators – such as GDP, unemployment or inflation rates –  to get a
@@ -348,7 +348,7 @@ sense of countries’ economic and social health and design appropriate interven
 what AI can or cannot do are yet missing. In order to respond to the challenges posed by the development of AI and
 robotics over time, arise the urge to develop a set of valid measures describing AI and robotics capabilities.
 
-The {{ site.conf_full_name }} will present and refine a set of proposed measures of
+This meeting will present and refine a set of proposed measures of
 robotics capabilities developed for policy makers. Its ultimate goal will be to present policy makers a comprehensive
 picture of AI capabilities in robotics and offer a reflection on the ways it might affect work and education.
 
@@ -368,7 +368,7 @@ willing to contribute to this work.
 
 ### Topics covered
 
-We will discuss how five robotics capabilities should be measured for policymaking:
+We will discuss how five robotics capabilities should be measured for policy making:
 
 <div>
 <ol>
@@ -763,10 +763,10 @@ Henrick Christensen</div>
 </a>
   
 
-<a href="[https://www.linkedin.com/in/beverley-claire-okogwu-852383178/](https://www.ri.cmu.edu/ri-people/uksang-yoo/)" target="_blank" class="organiser_profile">
+<a href="https://www.ri.cmu.edu/ri-people/uksang-yoo/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/uksang.png" alt="Uksang Yoo">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/uksang.jpg" alt="Uksang Yoo">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Uksang Yoo</p>
