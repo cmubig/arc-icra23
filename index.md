@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Special Meeting on Assessment of Robotics Capabilities
-excerpt: Co-Located at ICRA 2023 <br/> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdFYYnS2fnaJRGoZonDLFuLViD1gWeEwSOYPWxI-oL16nNYLA/viewform?usp=sf_link">Call for Participation</a>
+excerpt: Co-Located at ICRA 2023
 show_info: true
 titles:
   en      : &EN       Home
@@ -348,9 +348,9 @@ sense of countries’ economic and social health and design appropriate interven
 what AI can or cannot do are yet missing. In order to respond to the challenges posed by the development of AI and
 robotics over time, arise the urge to develop a set of valid measures describing AI and robotics capabilities.
 
-This meeting will present and refine a set of proposed measures of
+<span style="font-weight:500;">This meeting will present and refine a set of proposed measures of
 robotics capabilities developed for policy makers. Its ultimate goal will be to present policy makers a comprehensive
-picture of AI capabilities in robotics and offer a reflection on the ways it might affect work and education.
+picture of AI capabilities in robotics and offer a reflection on the ways it might affect work and education.</span>
 
 “Although AI and robotics evaluations for policymakers will not be designed for the computer science community, they
  need to be designed in large part by the computer science community.” Hence, speakers from the robotics community will
@@ -360,7 +360,7 @@ picture of AI capabilities in robotics and offer a reflection on the ways it mig
  and policy makers, the workshop will encourage participants to engage in rich conversations and exchange of ideas in
  order to build a valid and coherent system of measure for robotics capabilities.
 
-The outcome of the meeting will have a long-term impact on the AI and Future of Skills project. Outcomes from discussions and exchange of ideas will be incorporated in OECD
+<span style="font-weight:500;">The outcome of the meeting will have a long-term impact on the AI and Future of Skills project.</span> Outcomes from discussions and exchange of ideas will be incorporated in OECD
 future reports and work to develop a set of measures of AI and robotics capabilities for policy makers. Moreover, this
 workshop will be the occasion for the project to enlarge its multi-disciplinary expert community to robotics experts
 willing to contribute to this work.
@@ -368,7 +368,7 @@ willing to contribute to this work.
 
 ## Call for Participation
 
-If you are interested in attending this meeting, <a href="https://docs.google.com/forms/d/e/1FAIpQLSdFYYnS2fnaJRGoZonDLFuLViD1gWeEwSOYPWxI-oL16nNYLA/viewform?usp=sf_link">please fill out this form</a>. This will help us prepare discussion topics and ensure that the venue is prepared. Thank you.
+If you are interested in attending this meeting, <a href="https://docs.google.com/forms/d/e/1FAIpQLSdFYYnS2fnaJRGoZonDLFuLViD1gWeEwSOYPWxI-oL16nNYLA/viewform?usp=sf_link">please fill out this form</a>. This meeting is free of charge for ICRA participants. 
 
 <!-- ### Topics covered
 
