@@ -368,7 +368,11 @@ willing to contribute to this work.
 
 ## Call for Participation
 
-If you are interested in attending this meeting, <a href="https://bit.ly/arc-icra2023">please fill out this form</a>, so that we may send you logistical information. This meeting is free of charge for ICRA participants. 
+The goal of this session is to develop assessments of AI and robotics capabilities, in order to help policy makers understand their strengths/limitations and to prepare for future international education; the format of the meeting will be a series of panel discussions and breakout conversations.
+
+We invite wide participation from students, scientists, researchers, policymakers, corporate and public management, engineers, as well as general practitioners in the fields of robotics.
+
+If you are interested in attending this meeting, please confirm by filling out <a href="https://bit.ly/arc-icra2023">this form</a> so that we may send you further logistical information. This meeting is free of charge for ICRA participants and will be an in-person event.
 
 <!-- ### Topics covered
 
@@ -409,7 +413,7 @@ Note: all deadlines are in <b>UK Time (GMT+1)</b>.
 
 ## Schedule
 
-Wednesday, 31 May, 2023. All times are in UK Time (GMT+1). Current time is <span id="uktime"></span>.
+The event will take place on Wednesday, 31 May, 2023. All times are in UK Time (GMT+1); current time is <span id="uktime"></span>.
 
 <div style="display:block; width:900px; padding:20px; border:solid 4px #CCCCCC;">
 <div class="schedule-table-heading" style="margin-left:57px; display:inline-block; inline-size:100px;">Time</div>
