@@ -368,7 +368,7 @@ willing to contribute to this work.
 
 ## Call for Participation
 
-If you are interested in attending this meeting, <a href="https://docs.google.com/forms/d/e/1FAIpQLSdFYYnS2fnaJRGoZonDLFuLViD1gWeEwSOYPWxI-oL16nNYLA/viewform?usp=sf_link">please fill out this form</a>. This meeting is free of charge for ICRA participants. 
+If you are interested in attending this meeting, <a href="https://bit.ly/arc-icra2023">please fill out this form</a>, so that we may send you logistical information. This meeting is free of charge for ICRA participants. 
 
 <!-- ### Topics covered
 
@@ -402,11 +402,10 @@ Note: all deadlines are in <b>UK Time (GMT+1)</b>.
 
 -->
 
-## Date
+## Event
 
 <b>Date:</b> 31 May 2023<br>
 <b>Location:</b> ExCel London Center; London, UK <br>
-  <b>Please use <a href="https://docs.google.com/forms/d/e/1FAIpQLSdFYYnS2fnaJRGoZonDLFuLViD1gWeEwSOYPWxI-oL16nNYLA/viewform?usp=sf_link">this call for participation</a> to receive information for attending this special meeting</b>
 
 ## Schedule
 
