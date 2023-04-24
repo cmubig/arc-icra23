@@ -14,7 +14,7 @@ article_header:
   type: overlay
   theme: dark
   actions:
-    - text: 28 May 2023 | London, UK
+    - text: 31 May 2023 | ExCeL London Center; London, UK
   background_image:
     gradient: 'linear-gradient(135deg, rgba(52, 140, 96, 0.4), rgba(136, 73, 107, 0.4))'
     src: /assets/images/arc_banner.png
@@ -404,13 +404,13 @@ Note: all deadlines are in <b>UK Time (GMT+1)</b>.
 
 ## Date
 
-<b>Date:</b> 28 May 2023<br>
-<b>Location:</b> ExCel London, UK <br>
+<b>Date:</b> 31 May 2023<br>
+<b>Location:</b> ExCel London Center; London, UK <br>
   <b>Please use <a href="https://docs.google.com/forms/d/e/1FAIpQLSdFYYnS2fnaJRGoZonDLFuLViD1gWeEwSOYPWxI-oL16nNYLA/viewform?usp=sf_link">this call for participation</a> to receive information for attending this special meeting</b>
 
 ## Schedule
 
-Sunday, 28 May, 2023. All times are in UK Time (GMT+1). Current time is <span id="uktime"></span>.
+Wednesday, 31 May, 2023. All times are in UK Time (GMT+1). Current time is <span id="uktime"></span>.
 
 <div style="display:block; width:900px; padding:20px; border:solid 4px #CCCCCC;">
 <div class="schedule-table-heading" style="margin-left:57px; display:inline-block; inline-size:100px;">Time</div>
