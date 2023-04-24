@@ -409,7 +409,8 @@ Note: all deadlines are in <b>UK Time (GMT+1)</b>.
 ## Event
 
 <b>Date:</b> 31 May 2023<br>
-<b>Location:</b> ExCel London Center; London, UK <br>
+<b>Venue:</b> ExCel London Center; London, UK <br>
+<b>Location:</b> Room 24, South Gallery Rooms <br>
 
 ## Schedule
 
