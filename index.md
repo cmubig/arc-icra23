@@ -86,7 +86,7 @@ article_header:
 }
 
 ul.menu li::after {
-    content:"28 May 2023 | London, UK";
+    content:"31 May 2023 | ExCeL London Center; London, UK";
 }
 
 ul.menu a {
