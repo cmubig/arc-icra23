@@ -781,12 +781,12 @@ Henrick Christensen</div>
 <a href="https://www.ri.cmu.edu/ri-people/uksang-yoo/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/uksang.jpg" alt="Uksang Yoo">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/uksang_yoo.png" alt="Uksang Yoo">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Uksang Yoo</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Ph.D. student in the Robotics Institute at CMU</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Ph.D. student in the Robotics Institute at CMU, studying soft robotics manipulators</p>
 </div>
 </div>
 </a>
