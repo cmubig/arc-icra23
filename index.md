@@ -711,7 +711,7 @@ Henrick Christensen</div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Jonathan Francis</p>
 <!--p style="margin:0 0 0 10px;">CMU + Bosch</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Research Scientist at Bosch Center for AI; affiliated researcher, Language Technologies Institute and Robotics Institute, CMU</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Senior Research Scientist at Bosch Center for AI; affiliated researcher, Language Technologies Institute and Robotics Institute, CMU</p>
 </div>
 </div>
 </a>
@@ -764,7 +764,19 @@ Henrick Christensen</div>
 </div>
 </div>
 </a>
-  
+
+<a href="https://cherieho.com/" target="_blank" class="organiser_profile">
+<div style="display:inline-block; width:270px;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/ho_cherie.png" alt="Cherie Ho">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Cherie Ho</p>
+<!--p style="margin:0 0 0 10px;">CMU</p-->
+<p style="margin:0 0 0 10px; font-size:10px;">Ph.D. student in the Robotics Institute at CMU, studying field robotics, computer vision, and machine learning</p>
+</div>
+</div>
+</a>
 
 <a href="https://www.ri.cmu.edu/ri-people/uksang-yoo/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
