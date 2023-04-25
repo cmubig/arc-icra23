@@ -529,7 +529,7 @@ The event will take place on Wednesday, 31 May, 2023. All times are in UK Time (
 
 </div>
 
-## Speakers
+## Panelists
 
 <!-- <div id='speakers' class='speakers'>
 <div id='profile05' class='profile05'>
