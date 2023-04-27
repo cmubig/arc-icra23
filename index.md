@@ -572,7 +572,7 @@ Henrick Christensen</div>
 </div>
 </div> -->
 <div style="display:block; padding:10px 0 0 0; width:900px;">
-
+<!-- 
 <a href="http://www.hichristensen.net/" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
@@ -583,7 +583,7 @@ Henrick Christensen</div>
 <p style="margin:0 0 0 10px; font-size:10px;">UC San Diego</p>
 </div>
 </div>
-</a>
+</a> -->
 
 <a href="https://faculty.cc.gatech.edu/~chernova/" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
@@ -609,7 +609,7 @@ Henrick Christensen</div>
 </div>
 </a>
 
-<a href="https://engineering.osu.edu/about/office-dean/about-dean-ayanna-howard" target="_blank" class="speaker_profile">
+<!-- <a href="https://engineering.osu.edu/about/office-dean/about-dean-ayanna-howard" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/Ayanna-Howard.png" alt="Ayanna Howard">
@@ -619,7 +619,7 @@ Henrick Christensen</div>
 <p style="margin:0 0 0 10px; font-size:10px;">Ohio State University</p>
 </div>
 </div>
-</a>
+</a> -->
 
 
 <a href="http://www.rosenthalphd.com/" target="_blank" class="speaker_profile">
