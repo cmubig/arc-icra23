@@ -689,7 +689,7 @@ Henrick Christensen</div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Jonathan Francis</p>
 <!--p style="margin:0 0 0 10px;">CMU + Bosch</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Senior Research Scientist at the Bosch Center for AI; affiliated researcher, Language Technologies Institute and Robotics Institute, CMU</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Senior Research Scientist at the Bosch Center for Artificial Intelligence; affiliated researcher, Robotics Institute, CMU</p>
 </div>
 </div>
 </a>
