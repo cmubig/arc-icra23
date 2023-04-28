@@ -669,6 +669,19 @@ Henrick Christensen</div>
 </div>
 </div>
 </a>
+  
+<a href="https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/" target="_blank" class="organiser_profile">
+<div style="display:inline-block; width:270px;">
+<div style="display:inline-block; width:101px;">
+<img style="height:100px; position: relative; bottom: 40px;" src="https://www.ri.cmu.edu/app/uploads/2016/12/basti-2019-1-301x450.jpg" alt="Sebastian Scherer">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Sebastian Scherer</p>
+<!--p style="margin:0 0 0 10px;">CMU</p-->
+<p style="margin:0 0 0 10px; font-size:10px;">Carnegie Mellon University</p>
+</div>
+</div>
+</a>
 
 </div>
 
@@ -741,19 +754,6 @@ Henrick Christensen</div>
 </div>
 </div>
 </a>
-  
-<a href="https://poosomooso.github.io/" target="_blank" class="organiser_profile">
-<div style="display:inline-block; width:270px;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/leo_chen.png" alt="Leo Chen">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Leo Chen</p>
-<!--p style="margin:0 0 0 10px;">NVIDIA</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Ph.D. student in the Institute for Software Research at CMU, studying software quality in real evolving systems</p>
-</div>
-</div>
-</a>
 
 <a href="https://www.linkedin.com/in/abelbaret/?locale=en_US" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
@@ -813,19 +813,6 @@ Henrick Christensen</div>
 <p style="margin:0 0 0 10px;">Vihaan Misra</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
 <p style="margin:0 0 0 10px; font-size:10px;">Visiting Research in the Robotics Institute at CMU, studying image synthesis techniques for Creative AI</p>
-</div>
-</div>
-</a>
-
-<a href="https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/" target="_blank" class="organiser_profile">
-<div style="display:inline-block; width:270px;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/sebastian_scherer.png" alt="Sebastian Scherer">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Sebastian Scherer</p>
-<!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Associate Research Professor in the Robotics Institute at CMU; Director, <i>AIR Lab</i> at CMU</p>
 </div>
 </div>
 </a>
