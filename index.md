@@ -671,13 +671,12 @@ Henrick Christensen</div>
 </a>
   
 <a href="https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/" target="_blank" class="organiser_profile">
-<div style="display:inline-block; width:270px;">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="height:100px; position: relative; bottom: 40px;" src="https://www.ri.cmu.edu/app/uploads/2016/12/basti-2019-1-301x450.jpg" alt="Sebastian Scherer">
+<img style="height:100px; position: relative; bottom: 40px;" src="https://theairlab.org/img/team/basti.jpg" alt="Sebastian Scherer">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Sebastian Scherer</p>
-<!--p style="margin:0 0 0 10px;">CMU</p-->
 <p style="margin:0 0 0 10px; font-size:10px;">Carnegie Mellon University</p>
 </div>
 </div>
