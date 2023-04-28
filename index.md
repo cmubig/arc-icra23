@@ -636,10 +636,10 @@ Henrick Christensen</div>
 </div>
 </a>
   
-<a href="https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/" target="_blank" class="organiser_profile">
+<a href="https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="height:100px; position: relative; bottom: 40px;" src="https://theairlab.org/img/team/basti.jpg" alt="Sebastian Scherer">
+<img style="height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/basti.jpeg" alt="Sebastian Scherer">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Sebastian Scherer</p>
