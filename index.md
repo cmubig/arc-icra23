@@ -425,107 +425,73 @@ The event will take place on Wednesday, 31 May, 2023. All times are in UK Time (
 
 <div class="schedule-table-row-even">
 <div class="schedule-table-timecol" style="vertical-align: 10px;">09:00</div>
-<div class="schedule-table-eventcol">Welcome</div>
-</div>
-
-<div class="schedule-table-row-even">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">&nbsp;</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; line-height:1.4; margin:0 0 0 0px">
-<p style="margin:0 0 0 0px; ">Stuart Elliot</p>
-<p style="margin:0 0 0 0px; font-size:10px;">OECD</p>
+<p style="margin:0 0 0 0px; ">Welcome / Presentaton</p>
+<p style="margin:0 0 0 0px; font-size:10px;">Stuart Elliot (OECD)</p>
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 0px;"><a href="video" target="_blank">Presentation: <i>The OECD Project</i></a></div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 0px;"><i>AI and the Future of Skills project @ OECD</i></div>
 </div>
 
-<div class="schedule-table-row-even">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">&nbsp;</div>
+<div class="schedule-table-row-odd">
+<div class="schedule-table-timecol" style="vertical-align: 10px;">09:30</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block;  line-height:1.4; margin:0 0 0 0px">
-<p style="margin:0 0 0 0px;">Patrick Kyllonen, Mark Schneider, Britta Rueschoff, Jean Oh</p>
+<p style="margin:0 0 0 0px;">Breakout session</p>
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 0px;"><a href="video" target="_blank">Panel discussion: <i>How indicators of robotics capabilities can be used</i></a></div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 0px;">&nbsp;</div>
 </div>
 
 <div class="schedule-table-row-even">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">&nbsp;</div>
+<div class="schedule-table-timecol" style="vertical-align: 10px;">11:00</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; line-height:1.4; margin:0 0 0 0px">
-<p style="margin:0 0 0 0px;">Jean Oh</p>
-<p style="margin:0 0 0 0px; font-size:10px;">CMU</p>
+<p style="margin:0 0 0 0px;">Panel Discussion #1</p>
+<p style="margin:0 0 0 0px; font-size:10px;">Sonia Chernova, Martial Hebert, Patrick C. Kyllonen, Stephanie Rosenthal, Sebastian Scherer, Mark Schneider, Holly Yanco</p>
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 0px;"><a href="video" target="_blank">Presentation:<i>The Robotics Space</i></a></div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 0px;"><i>How to Assess Robotics Capabilities In the Wild?</i></div>
 </div>
-
-<!-- -->
-
 
 <div class="schedule-table-row-odd">
-<div class="schedule-table-timecol">10:00</div>
-<div class="schedule-table-eventcol">Capability 1: Navigation & Mobility</div>
-<div class="schedule-table-contentcol">Presentations, discussion &amp; Q/A</div>
+<div class="schedule-table-timecol" style="vertical-align: 10px;">12:30</div>
+<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block;  line-height:1.4; margin:0 0 0 0px">
+<p style="margin:0 0 0 0px;">Breakout session + Lunch</p>
 </div>
-
-<!-- -->
+</div>
+</div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 0px;">&nbsp;</div>
+</div>
 
 <div class="schedule-table-row-even">
-<div class="schedule-table-timecol">11:00</div>
-<div class="schedule-table-eventcol"> Capability 2: Manipulation & Dexterity</div>
-<div class="schedule-table-contentcol">Presentations, discussion &amp; Q/A</div>
+<div class="schedule-table-timecol" style="vertical-align: 10px;">13:30</div>
+<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; line-height:1.4; margin:0 0 0 0px">
+<p style="margin:0 0 0 0px;">Panel Discussion #2</p>
+<p style="margin:0 0 0 0px; font-size:10px;">Sonia Chernova, Martial Hebert, Patrick C. Kyllonen, Stephanie Rosenthal, Sebastian Scherer, Mark Schneider, Holly Yanco</p>
 </div>
-
-<!-- -->
+</div>
+</div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 0px;"><i>How Can Indicators of Robotics Capabilities Be Used?</i></div>
+</div>
 
 <div class="schedule-table-row-odd">
-<div class="schedule-table-timecol">12:00</div>
-<div class="schedule-table-eventcol">Lunch Break</div>
+<div class="schedule-table-timecol" style="vertical-align: 10px;">14:30</div>
+<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; line-height:1.4; margin:0 0 0 0px">
+<p style="margin:0 0 0 0px; ">Conclusion</p>
+<p style="margin:0 0 0 0px; font-size:10px;">Stuart Elliot (OECD)</p>
 </div>
-
-<!-- -->
-
-<div class="schedule-table-row-even">
-<div class="schedule-table-timecol">13:00</div>
-<div class="schedule-table-eventcol"> Capability 3: Perception</div>
-<div class="schedule-table-contentcol">Presentations, discussion &amp; Q/A</div>
 </div>
-
-<!-- -->
-
-<div class="schedule-table-row-odd">
-<div class="schedule-table-timecol">14:00</div>
-<div class="schedule-table-eventcol"> Capability 4: Communication & Language</div>
-<div class="schedule-table-contentcol">Presentations, discussion &amp; Q/A</div>
 </div>
-
-<!-- -->
-
-<div class="schedule-table-row-even">
-<div class="schedule-table-timecol">15:00</div>
-<div class="schedule-table-eventcol"> Capability 5: Learning & Adaptation</div>
-<div class="schedule-table-contentcol">Presentations, discussion &amp; Q/A</div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 0px;"><i>What did we learn and how can we improve it?</i></div>
 </div>
-
-<!-- -->
-
-
-<div class="schedule-table-row-odd">
-<div class="schedule-table-timecol">16:00</div>
-<div class="schedule-table-eventcol">
-    <div style="display:inline-block; line-height:1.4; margin:0 0 0 0px">
-    <p style="margin:0 0 0 0px;">Conclusion</p>
-    <p style="margin:0 0 0 0px; font-size:10px;">What did we learn and how can we improve it?</p>
-    </div>
-</div>
-<div class="schedule-table-contentcol">Presentations, discussion &amp; Q/A</div>
-</div>
-
-
 
 </div>
 
