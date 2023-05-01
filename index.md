@@ -553,7 +553,7 @@ Henrick Christensen</div>
 </div>
 </a> -->
 
-<a href="https://faculty.cc.gatech.edu/~chernova/" target="_blank" class="speaker_profile">
+<!-- <a href="https://faculty.cc.gatech.edu/~chernova/" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/soniachernova.png" alt="Sonia Chernova">
@@ -563,7 +563,7 @@ Henrick Christensen</div>
 <p style="margin:0 0 0 10px; font-size:10px;">Georgia Tech</p>
 </div>
 </div>
-</a>
+</a> -->
 
 <a href="http://www.cs.cmu.edu/~hebert/" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
@@ -590,7 +590,7 @@ Henrick Christensen</div>
 </a> -->
 
 
-<a href="http://www.rosenthalphd.com/" target="_blank" class="speaker_profile">
+<!-- <a href="http://www.rosenthalphd.com/" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/stephanierosenthal.jpg" alt="Stephanie Rosenthal">
@@ -600,7 +600,7 @@ Henrick Christensen</div>
 <p style="margin:0 0 0 10px; font-size:10px;">Carnegie Mellon University</p>
 </div>
 </div>
-</a>
+</a> -->
 
 <a href="https://www.cs.uml.edu/~holly/" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
@@ -626,7 +626,68 @@ Henrick Christensen</div>
 </div>
 </a>
 
-<a href="https://ies.ed.gov/director/biography.asp" target="_blank" class="speaker_profile">
+
+<a href="https://www.researchgate.net/profile/Britta-Rueschoff" target="_blank" class="speaker_profile">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/britta.jpg" alt="Britta Rüschoff">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Britta Rüschoff</p>
+<p style="margin:0 0 0 10px; font-size:10px;">FOM University</p>
+</div>
+</div>
+</a>
+
+<a href="https://www.iit.it/people-details/-/people/alessandra-sciutti" target="_blank" class="speaker_profile">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/alessandra_sciutti.jpg" alt="Alessandra Sciutti">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Alessandra Sciutti</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Italian Institute of Technology</p>
+</div>
+</div>
+</a>
+
+<a href="https://scholar.google.co.jp/citations?user=PjIlL0kAAAAJ&hl=ja" target="_blank" class="speaker_profile">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/tetsunari_inamura.jpg" alt="Tetsunari Inamura">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Tetsunari Inamura</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Tamagawa University</p>
+</div>
+</div>
+</a>
+
+<a href="https://me.snu.ac.kr/node/131" target="_blank" class="speaker_profile">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/frank_park.jpg" alt="Frank Chongwoo Park">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Frank Chongwoo Park</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Seoul National University</p>
+</div>
+</div>
+</a>
+
+<a href="https://www.meche.engineering.cmu.edu/directory/bios/zhao-ding.html" target="_blank" class="speaker_profile">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/dingzhao.png" alt="Ding Zhao">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Ding Zhao</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Carnegie Mellon University</p>
+</div>
+</div>
+</a>
+
+<!-- <a href="https://ies.ed.gov/director/biography.asp" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/mark_schneider.png" alt="Mark Schneider">
@@ -636,7 +697,7 @@ Henrick Christensen</div>
 <p style="margin:0 0 0 10px; font-size:10px;">US Institute of Education Sciences</p>
 </div>
 </div>
-</a>
+</a> -->
   
 <a href="https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
