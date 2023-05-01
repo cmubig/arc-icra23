@@ -779,7 +779,7 @@ Henrick Christensen</div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Vihaan Misra</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Visiting Researcher in the Robotics Institute at CMU, studying image synthesis techniques for Creative AI</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Ph.D. student in the Robotics Institute at CMU, studying image synthesis techniques for Creative AI</p>
 </div>
 </div>
 </a>
