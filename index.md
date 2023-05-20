@@ -434,7 +434,7 @@ The event will take place on Wednesday, 31 May, 2023. All times are in UK Time (
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 0px;"><i>AI and the Future of Skills project @ OECD</i></div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 0px;"><i>Objectives for creating a set of measures of AI capabilities related to robotics</i></div>
 </div>
 
 <div class="schedule-table-row-odd">
@@ -447,8 +447,19 @@ The event will take place on Wednesday, 31 May, 2023. All times are in UK Time (
 </div>
 <div class="schedule-table-contentcol" style="margin:0 0 0 0px;">&nbsp;</div>
 </div>
-
+  
 <div class="schedule-table-row-even">
+<div class="schedule-table-timecol" style="vertical-align: 10px;">10:20</div>
+<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block;  line-height:1.4; margin:0 0 0 0px">
+<p style="margin:0 0 0 0px;">Full group discussion</p>
+</div>
+</div>
+</div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 0px;">&nbsp;</div>
+</div>
+
+<div class="schedule-table-row-odd">
 <div class="schedule-table-timecol" style="vertical-align: 10px;">11:00</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; line-height:1.4; margin:0 0 0 0px">
@@ -460,31 +471,8 @@ The event will take place on Wednesday, 31 May, 2023. All times are in UK Time (
 <div class="schedule-table-contentcol" style="margin:0 0 0 0px;"><i>How to Assess Robotics Capabilities In the Wild?</i></div>
 </div>
 
-<div class="schedule-table-row-odd">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">12:30</div>
-<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block;  line-height:1.4; margin:0 0 0 0px">
-<p style="margin:0 0 0 0px;">Breakout session + Lunch</p>
-</div>
-</div>
-</div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 0px;">&nbsp;</div>
-</div>
-
 <div class="schedule-table-row-even">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">13:30</div>
-<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; line-height:1.4; margin:0 0 0 0px">
-<p style="margin:0 0 0 0px;">Panel Discussion #2</p>
-<p style="margin:0 0 0 0px; font-size:10px;">Sonia Chernova, Martial Hebert, Patrick C. Kyllonen, Stephanie Rosenthal, Sebastian Scherer, Mark Schneider, Holly Yanco</p>
-</div>
-</div>
-</div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 0px;"><i>How Can Indicators of Robotics Capabilities Be Used?</i></div>
-</div>
-
-<div class="schedule-table-row-odd">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">14:30</div>
+<div class="schedule-table-timecol" style="vertical-align: 10px;">12:30</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; line-height:1.4; margin:0 0 0 0px">
 <p style="margin:0 0 0 0px; ">Conclusion</p>
