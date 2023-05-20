@@ -442,6 +442,7 @@ The event will take place on Wednesday, 31 May, 2023. All times are in UK Time (
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block;  line-height:1.4; margin:0 0 0 0px">
 <p style="margin:0 0 0 0px;">Breakout session</p>
+<p style="margin:0 0 0 0px; font-size:10px;">Jean Oh (CMU)</p>
 </div>
 </div>
 </div>
@@ -453,6 +454,7 @@ The event will take place on Wednesday, 31 May, 2023. All times are in UK Time (
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block;  line-height:1.4; margin:0 0 0 0px">
 <p style="margin:0 0 0 0px;">Full group discussion</p>
+<p style="margin:0 0 0 0px; font-size:10px;">Jean Oh (CMU)</p>
 </div>
 </div>
 </div>
