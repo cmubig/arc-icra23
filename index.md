@@ -413,6 +413,7 @@ Note: all deadlines are in <b>UK Time (GMT+1)</b>.
 <b>Date:</b> 31 May 2023<br>
 <b>Venue:</b> ExCel London Center; London, UK <br>
 <b>Location:</b> Room 24, South Gallery Rooms <br>
+<b>Directions:</b> Directions to Room 24 in South Gallery: In the first floor, go to S9, “Competition Hall / Access to South Gallery Rooms”. Go cross the competition room all the way to the back; take a lift to the second floor. Room 24 is in the hallway.
 
 ## Schedule
 
