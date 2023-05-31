@@ -340,7 +340,7 @@ color:#ffffff;
 
 ## About
 
-Welcome to the 1st Meeting on the <i>{{ site.conf_full_name }}</i> ({{ site.conf_name }}) located at <a href="" target="_blank">ICRA'23</a>
+Welcome to the 1st Meeting on the <i>{{ site.conf_full_name }}</i> ({{ site.conf_name }}), co-located with the 40 International Conference on Robotics and Automation (ICRA 2023).
 
 
 In the same way policy makers make use of economic indicators – such as GDP, unemployment or inflation rates –  to get a
