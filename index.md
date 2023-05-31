@@ -340,12 +340,11 @@ color:#ffffff;
 
 ## About
 
-Welcome to the 1st Meeting on the <i>{{ site.conf_full_name }}</i> ({{ site.conf_name }}), co-located with the 40 International Conference on Robotics and Automation (ICRA 2023).
-
+Welcome to the 1st Meeting on the <i>{{ site.conf_full_name }}</i> ({{ site.conf_name }}), co-located with the 40th International Conference on Robotics and Automation (ICRA 2023).
 
 In the same way policy makers make use of economic indicators – such as GDP, unemployment or inflation rates –  to get a
 sense of countries’ economic and social health and design appropriate interventions, high-level indicators describing
-what AI can or cannot do are yet missing. In order to respond to the challenges posed by the development of AI and
+what AI can or cannot do yet are missing. In order to respond to the challenges posed by the development of AI and
 robotics over time, arise the urge to develop a set of valid measures describing AI and robotics capabilities.
 
 <span style="font-weight:500;">This meeting will present and refine a set of proposed measures of
