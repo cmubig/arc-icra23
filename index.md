@@ -372,7 +372,7 @@ The goal of this session is to develop assessments of AI and robotics capabiliti
 
 We invite wide participation from students, scientists, researchers, policymakers, corporate and public management, engineers, as well as general practitioners in the fields of robotics.
 
-If you are interested in attending this meeting, please confirm by filling out <a href="https://bit.ly/arc-icra2023">this form</a> (https://bit.ly/arc-icra2023) <span style="color:red;">by May 20th 2023</span> so that we may send you further logistical information. 
+If you are interested in contributing to this meeting, please fill out <a href="https://bit.ly/arc-icra2023">this form</a> (https://bit.ly/arc-icra2023). 
   
 This meeting is free-of-charge for ICRA 2023 attendees and will be an in-person event.
 
