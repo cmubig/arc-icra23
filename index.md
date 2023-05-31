@@ -465,8 +465,8 @@ The event will take place on Wednesday, 31 May, 2023. All times are in UK Time (
 <div class="schedule-table-timecol" style="vertical-align: 10px;">11:00</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; line-height:1.4; margin:0 0 0 0px">
-<p style="margin:0 0 0 0px;">Panel Discussion #1</p>
-<p style="margin:0 0 0 0px; font-size:10px;">Martial Hebert, Holly Yanco, Patrick C. Kyllonen, Britta Rüschoff, Alessandra Sciutti, Tetsunari Inamura, Frank Chongwoo Park, Ding Zhao, Sebastian Scherer</p>
+<p style="margin:0 0 0 0px;">Panel Discussion</p>
+<p style="margin:0 0 0 0px; font-size:10px;">Holly Yanco, Frank Chongwoo Park, Britta Rüschoff, Patrick C. Kyllonen, Alessandra Sciutti, Tetsunari Inamura, Ding Zhao, Sebastian Scherer, Martial Hebert</p>
 </div>
 </div>
 </div>
