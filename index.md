@@ -747,19 +747,6 @@ Henrick Christensen</div>
 </div>
 </a>
 
-<a href="https://pschaldenbrand.github.io/" target="_blank" class="organiser_profile">
-<div style="display:inline-block; width:270px;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/peter_schaldenbrand.png" alt="Peter Schaldenbrand">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Peter Schaldenbrand</p>
-<!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Ph.D. student in the Robotics Institute at CMU, studying Creative Artificial Intelligence</p>
-</div>
-</div>
-</a>
-
 <a href="https://cherieho.com/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
@@ -769,6 +756,32 @@ Henrick Christensen</div>
 <p style="margin:0 0 0 10px;">Cherie Ho</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
 <p style="margin:0 0 0 10px; font-size:10px;">Ph.D. student in the Robotics Institute at CMU, studying field robotics, computer vision, and machine learning</p>
+</div>
+</div>
+</a>
+  
+<a href="https://www.linkedin.com/in/vihaan-m-a3841811a/" target="_blank" class="organiser_profile">
+<div style="display:inline-block; width:270px;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/vihaan_misra.png" alt="Vihaan Misra">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Vihaan Misra</p>
+<!--p style="margin:0 0 0 10px;">CMU</p-->
+<p style="margin:0 0 0 10px; font-size:10px;">Ph.D. student in the Robotics Institute at CMU, studying image synthesis techniques for Creative AI</p>
+</div>
+</div>
+</a>
+  
+<a href="https://pschaldenbrand.github.io/" target="_blank" class="organiser_profile">
+<div style="display:inline-block; width:270px;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/peter_schaldenbrand.png" alt="Peter Schaldenbrand">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Peter Schaldenbrand</p>
+<!--p style="margin:0 0 0 10px;">CMU</p-->
+<p style="margin:0 0 0 10px; font-size:10px;">Ph.D. student in the Robotics Institute at CMU, studying Creative Artificial Intelligence</p>
 </div>
 </div>
 </a>
@@ -821,20 +834,6 @@ Henrick Christensen</div>
 </div>
 </div>
 </a>
-
-<a href="https://www.linkedin.com/in/vihaan-m-a3841811a/" target="_blank" class="organiser_profile">
-<div style="display:inline-block; width:270px;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/vihaan_misra.png" alt="Vihaan Misra">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Vihaan Misra</p>
-<!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Ph.D. student in the Robotics Institute at CMU, studying image synthesis techniques for Creative AI</p>
-</div>
-</div>
-</a>
-
 
 
 </div>
